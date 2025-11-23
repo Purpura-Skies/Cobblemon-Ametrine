@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = title_screen
   render_custom_elements_behind_vanilla = true
-  last_edited_time = 1763923566827
+  last_edited_time = 1763925247020
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:321c8fca-b414-4d41-93c9-bf38c6a70950-1763923526307] = [groups:][instances:]
+  [loading_requirement_container_meta:693a678e-3937-426c-9181-5c37f5a0dc16-1763925188621] = [groups:][instances:]
 }
 
 customization {
@@ -343,10 +343,10 @@ element {
 
 element {
   button_element_executable_block_identifier = 6b2736f8-8ba6-4b9c-b1d0-e19723a51b32-1711332877428
-  [executable_action_instance:248168e7-30f5-4977-aaed-4dffb30c64bc-1711332877428][action_type:openlink] = https://modrinth.com/project/purpura-skies-cobblemon-ametrine
+  [executable_action_instance:248168e7-30f5-4977-aaed-4dffb30c64bc-1711332877428][action_type:openlink] = https://www.curseforge.com/minecraft/modpacks/purpura-skies-cobblemon-ametrine
   [executable_block:6b2736f8-8ba6-4b9c-b1d0-e19723a51b32-1711332877428][type:generic] = [executables:248168e7-30f5-4977-aaed-4dffb30c64bc-1711332877428;]
-  backgroundnormal = [source:local]/config/fancymenu/assets//button_4_modrinth.png
-  backgroundhovered = [source:local]/config/fancymenu/assets//button_4_hover_modrinth.png
+  backgroundnormal = [source:local]/config/fancymenu/assets//button_4_curseforge.png
+  backgroundhovered = [source:local]/config/fancymenu/assets//button_4_curseforge_hover.png
   restartbackgroundanimations = true
   nine_slice_custom_background = false
   nine_slice_border_x = 5
@@ -411,7 +411,7 @@ element {
   [executable_action_instance:7cae5188-d00a-4e50-917f-9f9fd3aec022-1711332877428][action_type:openlink] = https://www.patreon.com/purpuraskies
   [executable_block:d2c98d05-e69b-4ae4-ba4e-55507b7d094c-1711332877428][type:generic] = [executables:7cae5188-d00a-4e50-917f-9f9fd3aec022-1711332877428;]
   backgroundnormal = [source:local]/config/fancymenu/assets//button_4_patreon.png
-  backgroundhovered = [source:local]/config/fancymenu/assets//button_4_hover_patreon.png
+  backgroundhovered = [source:local]/config/fancymenu/assets//button_4_patreon_hover.png
   restartbackgroundanimations = true
   nine_slice_custom_background = false
   nine_slice_border_x = 5
@@ -476,7 +476,7 @@ element {
   [executable_action_instance:7385387d-d76a-4ecc-807a-14ab69621cd8-1711332877428][action_type:openlink] = https://discord.com/invite/3sTwk597QD
   [executable_block:8e131609-4254-4092-871d-3193f19bbd90-1711332877428][type:generic] = [executables:7385387d-d76a-4ecc-807a-14ab69621cd8-1711332877428;]
   backgroundnormal = [source:local]/config/fancymenu/assets//button_4_discord.png
-  backgroundhovered = [source:local]/config/fancymenu/assets//button_4_hover_discord.png
+  backgroundhovered = [source:local]/config/fancymenu/assets//button_4_discord_hover.png
   restartbackgroundanimations = true
   nine_slice_custom_background = false
   nine_slice_border_x = 5
