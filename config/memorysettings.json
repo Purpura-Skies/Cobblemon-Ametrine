@@ -25,7 +25,7 @@
   },
   "howtolink": {
     "desc:": "Set the link used to guide players to a website with instructions to change memory allocation",
-    "howtolink": "https://www.bisecthosting.com/clients/index.php?rp=/knowledgebase/305/How-to-allocate-more-ram-in-the-CurseForge-launcher.html"
+    "howtolink": "https://apexminecrafthosting.com/how-to-allocate-more-ram/"
   },
   "warningTolerance": {
     "desc:": "Set how many percent the memory is allowed to deviate from the recommended for the system before warning about it, default: 30, max 100",
