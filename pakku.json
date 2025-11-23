@@ -2,7 +2,6 @@
     "name": "Purpura Skies Cobblemon Ametrine",
     "version": "7.2.0",
     "overrides": [
-        "config",
-        "defaultconfigs"
+        "config"
     ]
 }
