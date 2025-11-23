@@ -48,10 +48,7 @@
             ]
         },
         {
-            "pakku_id": "YMYkAAcTfd4fix2M",
-            "pakku_links": [
-                "p03Xe6e1ROp6mZny"
-            ],
+            "pakku_id": "Ag09olKe9VTMlPNF",
             "type": "MOD",
             "slug": {
                 "curseforge": "accessories"
@@ -887,7 +884,7 @@
         {
             "pakku_id": "4AGusO8TijAuIPJk",
             "pakku_links": [
-                "Rgy2lZiTIWbHqPM4"
+                "dMBCvyhbvrKpsmQA"
             ],
             "type": "MOD",
             "slug": {
@@ -6497,7 +6494,7 @@
             ]
         },
         {
-            "pakku_id": "Rgy2lZiTIWbHqPM4",
+            "pakku_id": "dMBCvyhbvrKpsmQA",
             "type": "MOD",
             "slug": {
                 "curseforge": "midnightlib"
@@ -6511,7 +6508,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "midnightlib-neoforge-1.9.0+1.21.1.jar",
+                    "file_name": "midnightlib-1.7.5-neoforge+1.21.1.jar",
                     "mc_versions": [
                         "1.21",
                         "1.21.1"
@@ -6520,16 +6517,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7253/257/midnightlib-neoforge-1.9.0+1.21.1.jar",
-                    "id": "7253257",
+                    "url": "https://edge.forgecdn.net/files/6772/65/midnightlib-1.7.5-neoforge+1.21.1.jar",
+                    "id": "6772065",
                     "parent_id": "488090",
                     "hashes": {
-                        "sha1": "daf2e3af29184e867a3a790a96b3263e213d3f27",
-                        "md5": "667dda75e26d49c6fb5c820cf50ffbb2"
+                        "sha1": "f91cfeb927feab9cc31a09f7d64184f431114371",
+                        "md5": "fdb103a1e9720813ce9055c324ca8856"
                     },
                     "required_dependencies": [],
-                    "size": 60036,
-                    "date_published": "2025-11-23T12:45:32.750Z"
+                    "size": 67078,
+                    "date_published": "2025-07-15T15:16:09.730Z"
                 }
             ]
         },
