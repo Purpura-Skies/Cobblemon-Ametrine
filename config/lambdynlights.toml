@@ -1,0 +1,65 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Enable first-person player light source.
+	self = true
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "off"
+	# Enable entities light source.
+	entities = true
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "simple"
+
+			[light_sources.settings.entities.minecraft]
+				glow_item_frame = false
+				villager = true
+				player = true
+				zombie = true
+				skeleton = true
+				glow_squid = true
+				bat = true
+				creeper = true
+				spider = true
+				chicken = true
+				cow = true
+				goat = true
+				falling_block = true
+				rabbit = true
+				item = true
+				enderman = true
+				zombie_villager = true
+				pig = true
+				bee = true
+				sheep = true
+				wolf = true
+				cave_spider = true
+				witch = true
+				horse = true
+				slime = true
+				squid = true
+				iron_golem = true
+				cat = true
+				salmon = true
+				fox = true
+				drowned = true
+				axolotl = true
+				experience_orb = true
+
+			[light_sources.settings.entities.lootr]
+				lootr_minecart = true
+
+			[light_sources.settings.entities.cobblemon]
+				pokemon = true
+				empty_pokeball = true
+
+			[light_sources.settings.entities.supplementaries]
+				falling_ash = true
+
+			[light_sources.settings.entities.rctmod]
+				trainer = true
+				trainer_association = true

@@ -1,0 +1,394 @@
+{
+  "_schemaVersion": 7,
+  "_lastMCVersionId": 767,
+  "generalSettings": {
+    "detectATLauncherInstance": false,
+    "detectCurseManifest": false,
+    "detectMultiMCManifest": false,
+    "detectMCUpdaterInstance": false,
+    "detectTechnicPack": false,
+    "detectModrinthPack": true,
+    "detectBiomeData": true,
+    "detectDimensionData": true,
+    "detectWorldData": true,
+    "clientId": "1337936455372374036",
+    "defaultIcon": "packlogo",
+    "enableJoinRequests": false,
+    "preferredClientLevel": 3,
+    "resetTimeOnInit": false,
+    "autoRegister": false
+  },
+  "biomeSettings": {
+    "fallbackBiomeIcon": "packlogo",
+    "biomeData": {
+      "default": {
+        "textOverride": "Adventuring in {biome.name}"
+      }
+    }
+  },
+  "dimensionSettings": {
+    "fallbackDimensionIcon": "packlogo",
+    "dimensionData": {
+      "default": {
+        "textOverride": "In the {dimension.name}"
+      },
+      "overworld": {
+        "textOverride": "In the {dimension.name}",
+        "data": {
+          "enabled": false,
+          "useAsMain": true,
+          "isInstance": false,
+          "activityType": 0,
+          "partyPrivacy": 1,
+          "details": "{player.name} is in The Overworld",
+          "gameState": "",
+          "largeImageKey": "packlogo",
+          "largeImageText": "In the Overworld",
+          "smallImageKey": "overworld",
+          "smallImageText": "{general.mods} mods installed",
+          "startTimestamp": "{data.general.time}",
+          "endTimestamp": "",
+          "buttons": {}
+        }
+      },
+      "the_nether": {
+        "textOverride": "In the {dimension.name}",
+        "data": {
+          "enabled": false,
+          "useAsMain": true,
+          "isInstance": false,
+          "activityType": 0,
+          "partyPrivacy": 1,
+          "details": "{player.name} is in The Nether",
+          "gameState": "",
+          "largeImageKey": "packlogo",
+          "largeImageText": "In the Nether",
+          "smallImageKey": "nether",
+          "smallImageText": "{general.mods} mods installed",
+          "startTimestamp": "{data.general.time}",
+          "endTimestamp": "",
+          "buttons": {}
+        }
+      },
+      "the_end": {
+        "textOverride": "In the {dimension.name}",
+        "data": {
+          "enabled": false,
+          "useAsMain": true,
+          "isInstance": false,
+          "activityType": 0,
+          "partyPrivacy": 1,
+          "details": "{player.name} is in The End",
+          "gameState": "",
+          "largeImageKey": "packlogo",
+          "largeImageText": "In the End",
+          "smallImageKey": "the_end",
+          "smallImageText": "{general.mods} mods installed",
+          "startTimestamp": "{data.general.time}",
+          "endTimestamp": "",
+          "buttons": {}
+        }
+      }
+    }
+  },
+  "serverSettings": {
+    "fallbackServerIcon": "packlogo",
+    "fallbackServerName": "Minecraft Server",
+    "fallbackServerMotd": "A Minecraft Server",
+    "serverData": {
+      "default": {
+        "textOverride": "{server.message}",
+        "data": {
+          "enabled": true,
+          "useAsMain": true,
+          "isInstance": false,
+          "activityType": 0,
+          "partyPrivacy": 1,
+          "details": "Playing on {server.name} with {server.players.current} players",
+          "gameState": "{general.mods} mods installed",
+          "largeImageKey": "packlogo",
+          "largeImageText": "It's a Minecraft {general.version} Neoforge Modpack",
+          "smallImageKey": "https://skinatar.firstdark.dev/avatar/{getOrDefault(player.uuid.short, player.name)}",
+          "smallImageText": "{player.name}",
+          "startTimestamp": "{data.general.time}",
+          "endTimestamp": "",
+          "buttons": {}
+        }
+      }
+    },
+    "pingRateInterval": 5,
+    "pingRateUnit": "minutes"
+  },
+  "statusMessages": {
+    "mainMenuData": {
+      "textOverride": "In the Main Menu",
+      "data": {
+        "enabled": true,
+        "useAsMain": true,
+        "isInstance": false,
+        "activityType": 0,
+        "partyPrivacy": 1,
+        "details": "{player.name} is chilling in the menu",
+        "gameState": "{general.mods} mods installed",
+        "largeImageKey": "packlogo",
+        "largeImageText": "It's a Minecraft {general.version} Neoforge Modpack",
+        "smallImageKey": "https://skinatar.firstdark.dev/avatar/{getOrDefault(player.uuid.short, player.name)}",
+        "smallImageText": "{player.name}",
+        "startTimestamp": "{data.general.time}",
+        "endTimestamp": "",
+        "buttons": {}
+      }
+    },
+    "loadingData": {
+      "textOverride": "Loading...",
+      "data": {
+        "enabled": true,
+        "useAsMain": true,
+        "isInstance": false,
+        "activityType": 0,
+        "partyPrivacy": 1,
+        "details": "Cobblemon Ametrine is loading",
+        "gameState": "Game Starting...",
+        "largeImageKey": "packlogo",
+        "largeImageText": "It's a Minecraft {general.version} Neoforge Modpack",
+        "smallImageKey": "cbmnlogo",
+        "smallImageText": "{general.mods} mods installed",
+        "startTimestamp": "{data.general.time}",
+        "endTimestamp": "",
+        "buttons": {}
+      }
+    },
+    "lanData": {
+      "textOverride": "Playing on a LAN Server"
+    },
+    "singleplayerData": {
+      "textOverride": "Playing Singleplayer",
+      "data": {
+        "enabled": true,
+        "useAsMain": true,
+        "isInstance": false,
+        "activityType": 0,
+        "partyPrivacy": 1,
+        "details": "{player.name} is on a Pokémon adventure",
+        "gameState": "{general.mods} mods installed",
+        "largeImageKey": "packlogo",
+        "largeImageText": "It's a Minecraft {general.version} Neoforge Modpack",
+        "smallImageKey": "https://skinatar.firstdark.dev/avatar/{getOrDefault(player.uuid.short, player.name)}",
+        "smallImageText": "{player.name}",
+        "startTimestamp": "{data.general.time}",
+        "endTimestamp": "",
+        "buttons": {}
+      }
+    },
+    "realmData": {
+      "textOverride": "{server.message}",
+      "data": {
+        "enabled": true,
+        "useAsMain": true,
+        "isInstance": false,
+        "activityType": 0,
+        "partyPrivacy": 1,
+        "details": "Playing on {server.name} with {server.players.current} players",
+        "gameState": "{general.mods} mods installed",
+        "largeImageKey": "packlogo",
+        "largeImageText": "It's a Minecraft {general.version} Neoforge Modpack",
+        "smallImageKey": "https://skinatar.firstdark.dev/avatar/{getOrDefault(player.uuid.short, player.name)}",
+        "smallImageText": "{player.name}",
+        "startTimestamp": "{data.general.time}",
+        "endTimestamp": "",
+        "buttons": {}
+      }
+    }
+  },
+  "advancedSettings": {
+    "enablePerGui": true,
+    "enablePerItem": false,
+    "enablePerEntity": false,
+    "formatWords": true,
+    "debugMode": false,
+    "verboseMode": false,
+    "refreshRate": 2,
+    "allowPlaceholderPreviews": false,
+    "guiSettings": {
+      "fallbackGuiIcon": "unknown",
+      "guiData": {
+        "JoinMultiplayerScreen": {
+          "textOverride": "In {screen.name}",
+          "data": {
+            "enabled": true,
+            "useAsMain": true,
+            "isInstance": false,
+            "activityType": 0,
+            "partyPrivacy": 1,
+            "details": "{player.name} is looking for a server",
+            "gameState": "Searching for fellow trainers",
+            "largeImageKey": "packlogo",
+            "largeImageText": "It's a Minecraft {general.version} Neoforge Modpack",
+            "smallImageKey": "https://skinatar.firstdark.dev/avatar/{getOrDefault(player.uuid.short, player.name)}",
+            "smallImageText": "{player.name}",
+            "startTimestamp": "{data.general.time}",
+            "endTimestamp": "",
+            "buttons": {}
+          }
+        },
+        "LevelLoadingScreen": {
+          "textOverride": "In {screen.name}",
+          "data": {
+            "enabled": true,
+            "useAsMain": true,
+            "isInstance": false,
+            "activityType": 0,
+            "partyPrivacy": 1,
+            "details": "{player.name} is joining a game",
+            "gameState": "Joining Game",
+            "largeImageKey": "packlogo",
+            "largeImageText": "It's a Minecraft {general.version} Neoforge Modpack",
+            "smallImageKey": "https://skinatar.firstdark.dev/avatar/{getOrDefault(player.uuid.short, player.name)}",
+            "smallImageText": "{player.name}",
+            "startTimestamp": "{data.general.time}",
+            "endTimestamp": "",
+            "buttons": {}
+          }
+        },
+        "default": {
+          "textOverride": "In {screen.name}"
+        },
+        "DisconnectedScreen": {
+          "textOverride": "In {screen.name}",
+          "data": {
+            "enabled": true,
+            "useAsMain": true,
+            "isInstance": false,
+            "activityType": 0,
+            "partyPrivacy": 1,
+            "details": "{player.name} is looking for a server",
+            "gameState": "Searching for fellow trainers",
+            "largeImageKey": "packlogo",
+            "largeImageText": "It's a Minecraft {general.version} Neoforge Modpack",
+            "smallImageKey": "https://skinatar.firstdark.dev/avatar/{getOrDefault(player.uuid.short, player.name)}",
+            "smallImageText": "{player.name}",
+            "startTimestamp": "{data.general.time}",
+            "endTimestamp": "",
+            "buttons": {}
+          }
+        },
+        "RealmsScreen": {
+          "textOverride": "In {screen.name}",
+          "data": {
+            "enabled": true,
+            "useAsMain": true,
+            "isInstance": false,
+            "activityType": 0,
+            "partyPrivacy": 1,
+            "details": "{player.name} is looking for a Realm",
+            "gameState": "Browsing Realms",
+            "largeImageKey": "packlogo",
+            "largeImageText": "It's a Minecraft {general.version} Neoforge Modpack",
+            "smallImageKey": "https://skinatar.firstdark.dev/avatar/{getOrDefault(player.uuid.short, player.name)}",
+            "smallImageText": "{player.name}",
+            "startTimestamp": "{data.general.time}",
+            "endTimestamp": "",
+            "buttons": {}
+          }
+        },
+        "PauseScreen": {
+          "textOverride": "In {screen.name}",
+          "data": {
+            "enabled": true,
+            "useAsMain": true,
+            "isInstance": false,
+            "activityType": 0,
+            "partyPrivacy": 1,
+            "details": "In the Pause Menu",
+            "gameState": "Game Paused",
+            "largeImageKey": "packlogo",
+            "largeImageText": "It's a Minecraft {general.version} Neoforge Modpack",
+            "smallImageKey": "https://skinatar.firstdark.dev/avatar/{getOrDefault(player.uuid.short, player.name)}",
+            "smallImageText": "{player.name}",
+            "startTimestamp": "{data.general.time}",
+            "endTimestamp": "",
+            "buttons": {}
+          }
+        },
+        "ReceivingLevelScreen": {
+          "textOverride": "In {screen.name}",
+          "data": {
+            "enabled": true,
+            "useAsMain": true,
+            "isInstance": false,
+            "activityType": 0,
+            "partyPrivacy": 1,
+            "details": "{player.name} is joining a game",
+            "gameState": "Joining Game",
+            "largeImageKey": "packlogo",
+            "largeImageText": "It's a Minecraft {general.version} Neoforge Modpack",
+            "smallImageKey": "https://skinatar.firstdark.dev/avatar/{getOrDefault(player.uuid.short, player.name)}",
+            "smallImageText": "{player.name}",
+            "startTimestamp": "{data.general.time}",
+            "endTimestamp": "",
+            "buttons": {}
+          }
+        }
+      }
+    },
+    "itemMessages": {
+      "default": "Holding {item.message.holding}"
+    },
+    "entitySettings": {
+      "fallbackEntityIcon": "unknown",
+      "targetData": {
+        "default": {
+          "textOverride": "Targeting {entity.target.name}"
+        }
+      },
+      "ridingData": {
+        "default": {
+          "textOverride": "Riding {entity.riding.name}"
+        }
+      }
+    },
+    "allowEndpointIcons": true,
+    "serverIconEndpoint": "https://api.mcsrvstat.us/icon/{server.address.short}",
+    "playerSkinEndpoint": "https://mc-heads.net/avatar/{getOrDefault(player.uuid.short, player.name)}",
+    "allowDuplicatePackets": false,
+    "maxConnectionAttempts": 10,
+    "enableClassGraph": false
+  },
+  "accessibilitySettings": {
+    "languageId": "en_us",
+    "stripTranslationColors": false,
+    "stripTranslationFormatting": false,
+    "stripExtraGuiElements": false,
+    "configKeyCode": 96
+  },
+  "displaySettings": {
+    "presenceData": {
+      "enabled": true,
+      "useAsMain": true,
+      "isInstance": false,
+      "activityType": 0,
+      "partyPrivacy": 1,
+      "details": "Playing Cobblemon Ametrine",
+      "gameState": "",
+      "largeImageKey": "packlogo",
+      "largeImageText": "It's a Minecraft {general.version} Neoforge Modpack",
+      "smallImageKey": "mclogo",
+      "smallImageText": "{general.mods} mods installed",
+      "startTimestamp": "{data.general.time}",
+      "endTimestamp": "",
+      "buttons": {}
+    },
+    "dynamicIcons": {},
+    "dynamicVariables": {
+      "mods": "{general.mods} Mod(s)",
+      "player_info_coordinate": "At {player.position.x}, {player.position.z}",
+      "players": "{server.players.current} / {server.players.max} Players",
+      "player_info_in": "({custom.player_info.health})",
+      "player_info_items": "Items: {item.main_hand.message}",
+      "player_info_out": "As {player.name}",
+      "player_info_health": "Health: {player.health.current}/{player.health.max}",
+      "world_info": "On {world.name}",
+      "pack": "{pack.name}"
+    }
+  }
+}
