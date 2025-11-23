@@ -3127,7 +3127,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "mega_showdown-neoforge-1.2+1.7+1.21.1.jar",
+                    "file_name": "mega_showdown-neoforge-1.4+1.7+1.21.1.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -3135,20 +3135,20 @@
                         "neoforge"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/SszvX85I/versions/nG0fi2PZ/mega_showdown-neoforge-1.2+1.7+1.21.1.jar",
-                    "id": "nG0fi2PZ",
+                    "url": "https://cdn.modrinth.com/data/SszvX85I/versions/C6dFvEgX/mega_showdown-neoforge-1.4+1.7+1.21.1.jar",
+                    "id": "C6dFvEgX",
                     "parent_id": "SszvX85I",
                     "hashes": {
-                        "sha512": "e1de7174d8749d2870681202226d56c3e6f3290a5b5d22b3627fa4b3d65a4d49043768e86a44b3b2b31d16d2bf773eced54be16ecb95d7f6016ddd070287ac04",
-                        "sha1": "08533858464f1436a3aff7858e647ec2cd80ded0"
+                        "sha512": "c1acc03cfbb3d822c0c775990b9a659dae3f9d318f28245b24d25ce4b68b74e9ef37460085dae0e6fc88f7a80d640ca905e8df1bd5962643e223b41abbbf92e7",
+                        "sha1": "1ad4b429b0c8866d5d005e1316d71c1d6daec27b"
                     },
                     "required_dependencies": [
+                        "lhGA9TYQ",
                         "MdwFAVRL",
-                        "jtmvUHXj",
-                        "lhGA9TYQ"
+                        "jtmvUHXj"
                     ],
-                    "size": 15718181,
-                    "date_published": "2025-11-22T14:02:01.680087Z"
+                    "size": 15796733,
+                    "date_published": "2025-11-23T07:10:31.880565Z"
                 },
                 {
                     "type": "curseforge",
@@ -4095,6 +4095,73 @@
                     "required_dependencies": [],
                     "size": 92722,
                     "date_published": "2024-08-09T10:07:57.437Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "VVFNLj7lLdeAiKdp",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "craftpresence",
+                "modrinth": "craftpresence"
+            },
+            "name": {
+                "curseforge": "CraftPresence",
+                "modrinth": "CraftPresence"
+            },
+            "id": {
+                "curseforge": "297038",
+                "modrinth": "DFqQfIBR"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "CraftPresence-2.7.0+1.21.1-neoforge.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/DFqQfIBR/versions/2spedB6P/CraftPresence-2.7.0+1.21.1-neoforge.jar",
+                    "id": "2spedB6P",
+                    "parent_id": "DFqQfIBR",
+                    "hashes": {
+                        "sha512": "88c21a68f0e820fc26c871b981b7b21278a4cc24ae7a62856058e551ab3cb020ef3de41f90db3194c04d1ed05aa6722d7d29824a24b579782932ccc913f385fc",
+                        "sha1": "53e252f44a2b5c2db8f1a54111ada2c84d6ae55c"
+                    },
+                    "required_dependencies": [
+                        "nT86WUER"
+                    ],
+                    "size": 2055636,
+                    "date_published": "2025-10-25T01:14:05.543228Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "CraftPresence-2.7.0+1.21.1-neoforge.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7146/462/CraftPresence-2.7.0+1.21.1-neoforge.jar",
+                    "id": "7146462",
+                    "parent_id": "297038",
+                    "hashes": {
+                        "sha1": "53e252f44a2b5c2db8f1a54111ada2c84d6ae55c",
+                        "md5": "1e4e2e6a419d61fa04aa79568a13fae9"
+                    },
+                    "required_dependencies": [
+                        "1056812"
+                    ],
+                    "size": 2055636,
+                    "date_published": "2025-10-25T01:13:41.493Z"
                 }
             ]
         },
@@ -9758,7 +9825,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "midnightlib-1.7.5-neoforge+1.21.1.jar",
+                    "file_name": "midnightlib-neoforge-1.9.0+1.21.1.jar",
                     "mc_versions": [
                         "1.21",
                         "1.21.1"
@@ -9767,16 +9834,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/codAaoxh/versions/HIlaYrgj/midnightlib-1.7.5-neoforge+1.21.1.jar",
-                    "id": "HIlaYrgj",
+                    "url": "https://cdn.modrinth.com/data/codAaoxh/versions/RkNiTCxq/midnightlib-neoforge-1.9.0+1.21.1.jar",
+                    "id": "RkNiTCxq",
                     "parent_id": "codAaoxh",
                     "hashes": {
-                        "sha512": "8471ce6c8124c80164e46868bd6984f467291a5bdf883b271b261f712a204b2121073756fe9f54adc6b87b86bc5e2208121cc759242e31f37d97e54d46b263ba",
-                        "sha1": "f91cfeb927feab9cc31a09f7d64184f431114371"
+                        "sha512": "7702831c783226ac1d795c629f6946d23fe0e5763f4eb13736b0f714a96b3ac04470fd4651257d2199cf1a13c5482f199a5cb001ff5473489335327629199506",
+                        "sha1": "daf2e3af29184e867a3a790a96b3263e213d3f27"
                     },
                     "required_dependencies": [],
-                    "size": 67078,
-                    "date_published": "2025-07-15T15:16:05.339327Z"
+                    "size": 60036,
+                    "date_published": "2025-11-23T12:45:32.126411Z"
                 },
                 {
                     "type": "curseforge",
@@ -12417,91 +12484,6 @@
                     "required_dependencies": [],
                     "size": 373249,
                     "date_published": "2025-01-26T22:23:14.027Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "rzU75fksxdUqKIO3",
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "curseforge": "simple-discord-rpc",
-                "modrinth": "simple-discord-rpc"
-            },
-            "name": {
-                "curseforge": "Simple Discord RPC",
-                "modrinth": "Simple Discord RPC"
-            },
-            "id": {
-                "curseforge": "411816",
-                "modrinth": "ObXSoyrn"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "SimpleRPC-4.0.4.jar",
-                    "mc_versions": [
-                        "1.18.2",
-                        "1.19.2",
-                        "1.19.4",
-                        "1.20",
-                        "1.20.1",
-                        "1.20.2",
-                        "1.20.4",
-                        "1.21",
-                        "1.21.1",
-                        "1.21.2",
-                        "1.21.3",
-                        "1.21.4",
-                        "1.21.5",
-                        "1.21.6",
-                        "1.21.7",
-                        "1.21.8",
-                        "1.21.9",
-                        "1.21.10"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "forge",
-                        "neoforge",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/ObXSoyrn/versions/nkRAWFxK/SimpleRPC-4.0.4.jar",
-                    "id": "nkRAWFxK",
-                    "parent_id": "ObXSoyrn",
-                    "hashes": {
-                        "sha512": "69362a4ceb69030f8a784e329db3ee960f1e61755b3eb7058019722611ce6c700954aaf6c2302dbf3a3cc23ad21cef6c7c366421639c90b586f6da72fad5f600",
-                        "sha1": "36b4246bb5ce216ecc3e3b92a56fa5eb103a9786"
-                    },
-                    "required_dependencies": [
-                        "Nn8Wasaq"
-                    ],
-                    "size": 713920,
-                    "date_published": "2025-07-06T11:05:55.617780Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "SimpleRPC-Universal-3.3.3.jar",
-                    "loaders": [
-                        "fabric",
-                        "neoforge",
-                        "forge",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5700/73/SimpleRPC-Universal-3.3.3.jar",
-                    "id": "5700073",
-                    "parent_id": "411816",
-                    "hashes": {
-                        "sha1": "4cb2036d2f29f62a6832d3d45e36485caf8532f2",
-                        "md5": "3634abdd8e7be1471d8a6ed9a50386b8"
-                    },
-                    "required_dependencies": [
-                        "867099"
-                    ],
-                    "size": 214943,
-                    "date_published": "2024-09-07T08:34:09.757Z"
                 }
             ]
         },
