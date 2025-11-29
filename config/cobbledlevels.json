@@ -7,7 +7,6 @@
     "minecraft:the_nether: 70"
   ],
   "BiomeMinLevel": [
-    "minecraft:swamp: 40",
     "minecraft:deep_dark: 60"
   ],
   "BiomeMaxLevel": [
@@ -15,9 +14,9 @@
   ],
   "EnablePartyScaling": true,
   "MinPartyScalingVariance": 7,
-  "EnableDistanceScaling": true,
+  "EnableDistanceScaling": false,
   "OnlyScaleUpwards": false,
-  "DistanceForMaxLevel": 16000,
+  "DistanceForMaxLevel": 5000,
   "Exponent": 2.0,
   "DistanceBlendFactor": 0.6,
   "StartScalingOnLvl": 0,
