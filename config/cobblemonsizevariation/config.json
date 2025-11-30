@@ -9,7 +9,9 @@
       "cobblemonsizevariation.command.pokesizer.self": 2
     }
   ],
-  "sizingAlgorithm": "basic",
-  "biasSizeTowardAverage": false,
-  "enableEssenceRecipes": false
+  "sizingAlgorithm": "gen9",
+  "biasSizeTowardAverage": true,
+  "enableEssenceRecipes": false,
+  "preventRidingMinSize": 0.8,
+  "preventRidingMaxSize": 3.0
 }
