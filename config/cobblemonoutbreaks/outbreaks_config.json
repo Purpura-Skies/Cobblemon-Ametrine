@@ -1,17 +1,17 @@
 {
   "rarities": {
-    "rare_outbreak_rarity": 20,
+    "rare_outbreak_rarity": 15,
     "epic_outbreak_rarity": 8,
     "legendary_outbreak_rarity": 2,
     "common_outbreak_rarity": 40,
     "uncommon_outbreak_rarity": 30
   },
   "portal_spawning_config": {
-    "random_player_count": 2,
+    "random_player_count": 3,
     "outbreak_spawn_count": 1,
     "min_spawn_radius": 32,
     "max_spawn_radius": 64,
-    "portal_spawn_choice": "per_player",
+    "portal_spawn_choice": "random_player",
     "per_player_outbreak_timer": 36000,
     "random_outbreak_timer": 36000
   },
