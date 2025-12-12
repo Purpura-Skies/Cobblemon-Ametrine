@@ -1,11 +1,5 @@
 {
   "ignoreFormFor": [],
-  "broadcast": [
-    "capture",
-    "ko",
-    "resurrection",
-    "fish",
-    "hatch"
-  ],
+  "noBroadcastFor": [],
   "debug": false
 }
