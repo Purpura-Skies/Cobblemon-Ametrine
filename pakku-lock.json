@@ -622,6 +622,46 @@
             ]
         },
         {
+            "pakku_id": "FnFG3LWT1j5PgbTP",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "berry-pouch"
+            },
+            "name": {
+                "curseforge": "Berry Pouch [Cobblemon]"
+            },
+            "id": {
+                "curseforge": "1246510"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "berrypouch-neoforge-1.21.1-0.4.3-beta.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/7310/810/berrypouch-neoforge-1.21.1-0.4.3-beta.jar",
+                    "id": "7310810",
+                    "parent_id": "1246510",
+                    "hashes": {
+                        "sha1": "03154f3859dc9209e8d79d6fabe3e7d506d9bca0",
+                        "md5": "57b4c56833c1844caf1f4d33e47d7255"
+                    },
+                    "required_dependencies": [
+                        "938917",
+                        "687131",
+                        "419699"
+                    ],
+                    "size": 141940,
+                    "date_published": "2025-12-09T07:51:18.333Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "ItqL1AIRKMMQkEQK",
             "type": "MOD",
             "slug": {
@@ -1498,6 +1538,44 @@
             ]
         },
         {
+            "pakku_id": "I4DqvSNqNAgYoJOK",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobbleloots"
+            },
+            "name": {
+                "curseforge": "Cobbleloots: Loot Balls and More!"
+            },
+            "id": {
+                "curseforge": "1037611"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cobbleloots-neoforge-2.1.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://edge.forgecdn.net/files/7262/694/cobbleloots-neoforge-2.1.0.jar",
+                    "id": "7262694",
+                    "parent_id": "1037611",
+                    "hashes": {
+                        "sha1": "c2dafc785c6cf8256cf96414d5ba5a80525195ef",
+                        "md5": "941f43a24dee58a6137c0ea13a58cfde"
+                    },
+                    "required_dependencies": [
+                        "687131"
+                    ],
+                    "size": 160341,
+                    "date_published": "2025-11-26T00:01:30.477Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "m24IpupNjoVteLrT",
             "pakku_links": [
                 "6Pb9FNLjlnIB3pFR"
@@ -1572,6 +1650,47 @@
             ]
         },
         {
+            "pakku_id": "Xi6X7hUYJkNoYjux",
+            "pakku_links": [
+                "yxc4K6CUjYyyZUIV"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblemon-simple-pokecenters"
+            },
+            "name": {
+                "curseforge": "Cobblemon : Simple Pokecenter's"
+            },
+            "id": {
+                "curseforge": "1274465"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cobblemon_simple_center-neoforge-1.1.2.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7282/454/cobblemon_simple_center-neoforge-1.1.2.jar",
+                    "id": "7282454",
+                    "parent_id": "1274465",
+                    "hashes": {
+                        "sha1": "b79702d56fe8fc9a9364c824b616ffce50dbbc4f",
+                        "md5": "56b0f08e13c11eb0f4f9041a81fb83f8"
+                    },
+                    "required_dependencies": [
+                        "1275153"
+                    ],
+                    "size": 1054810,
+                    "date_published": "2025-12-01T16:16:09.227Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "igMvhmGMCwBIYsE2",
             "pakku_links": [
                 "m24IpupNjoVteLrT",
@@ -1611,6 +1730,42 @@
                     ],
                     "size": 22898,
                     "date_published": "2025-11-22T04:21:30.697Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "LjeI4r6xIBmpB4LS",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblemon-challenge"
+            },
+            "name": {
+                "curseforge": "Cobblemon Challenge"
+            },
+            "id": {
+                "curseforge": "908215"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cobblemonchallenge-neoforge-2.4.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7251/939/cobblemonchallenge-neoforge-2.4.0.jar",
+                    "id": "7251939",
+                    "parent_id": "908215",
+                    "hashes": {
+                        "sha1": "1e34df0f290c202bb5a58a3a9709123dc49f3b87",
+                        "md5": "4f3159cb78f602a05313451ecd8e7f47"
+                    },
+                    "required_dependencies": [],
+                    "size": 72292,
+                    "date_published": "2025-11-23T03:58:53.110Z"
                 }
             ]
         },
@@ -1679,6 +1834,158 @@
                     "required_dependencies": [],
                     "size": 10126,
                     "date_published": "2025-03-14T14:50:16.230Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "qrGK1KLQITB7waFm",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblemon-counter"
+            },
+            "name": {
+                "curseforge": "Cobblemon Counter"
+            },
+            "id": {
+                "curseforge": "900238"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "counter-neoforge-1.7.1-1.8.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7283/899/counter-neoforge-1.7.1-1.8.1.jar",
+                    "id": "7283899",
+                    "parent_id": "900238",
+                    "hashes": {
+                        "sha1": "94a912f96bac8aae3b0022f2dcc13173a9dccbf3",
+                        "md5": "1a11b1fd57ee3f66d671dc3db5ea0060"
+                    },
+                    "required_dependencies": [
+                        "1295910",
+                        "687131"
+                    ],
+                    "size": 161726,
+                    "date_published": "2025-12-01T23:32:35.260Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "ahghesWq5RQ3cYLr",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblemon-fight-or-flight-reborn"
+            },
+            "name": {
+                "curseforge": "Cobblemon Fight or Flight Reborn"
+            },
+            "id": {
+                "curseforge": "1168140"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "fightorflight-neoforge-0.10.2.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7319/789/fightorflight-neoforge-0.10.2.jar",
+                    "id": "7319789",
+                    "parent_id": "1168140",
+                    "hashes": {
+                        "sha1": "460823898358e8b83a8eb2ed85176ed04b01ff1e",
+                        "md5": "4aac5bc2a520ea3d9ad06bd9cf8b797f"
+                    },
+                    "required_dependencies": [],
+                    "size": 1394333,
+                    "date_published": "2025-12-11T08:47:50.773Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "bIpCjscxzURpJTCN",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblemon-firework-capsules"
+            },
+            "name": {
+                "curseforge": "Cobblemon Firework Capsules"
+            },
+            "id": {
+                "curseforge": "1236675"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "fireworkcapsules-neoforge-1.1.0+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7273/769/fireworkcapsules-neoforge-1.1.0+1.21.1.jar",
+                    "id": "7273769",
+                    "parent_id": "1236675",
+                    "hashes": {
+                        "sha1": "249ca1313a2c053fe3eadb4e04371787e1ace4dc",
+                        "md5": "3245bae5974841dd2d73f4370e27d31d"
+                    },
+                    "required_dependencies": [
+                        "687131"
+                    ],
+                    "size": 295245,
+                    "date_published": "2025-11-29T09:05:40.740Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "GjW2WUwvFLARCEqz",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblemon-integrations"
+            },
+            "name": {
+                "curseforge": "Cobblemon Integrations"
+            },
+            "id": {
+                "curseforge": "913400"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cobblemonintegrations-neoforge-1.21.1-1.1.4.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/7259/313/cobblemonintegrations-neoforge-1.21.1-1.1.4.jar",
+                    "id": "7259313",
+                    "parent_id": "913400",
+                    "hashes": {
+                        "sha1": "5d4d1d081a7d8585f26b4fcc283b6dc49b206630",
+                        "md5": "51de4bebfea9e0e5067e02a775a33397"
+                    },
+                    "required_dependencies": [
+                        "687131",
+                        "351264"
+                    ],
+                    "size": 367106,
+                    "date_published": "2025-11-25T00:21:49.083Z"
                 }
             ]
         },
@@ -1790,6 +2097,44 @@
             ]
         },
         {
+            "pakku_id": "qgvn4eTdPV0Dm29O",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblemon-move-inspector"
+            },
+            "name": {
+                "curseforge": "Cobblemon Move Inspector"
+            },
+            "id": {
+                "curseforge": "1022036"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "CobblemonMoveInspector-neoforge-1.3.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7248/172/CobblemonMoveInspector-neoforge-1.3.0.jar",
+                    "id": "7248172",
+                    "parent_id": "1022036",
+                    "hashes": {
+                        "sha1": "428b18c023a0dff9871d231f454d10db34212fa7",
+                        "md5": "85dc06386f827c1387a85cb04cb9c0ae"
+                    },
+                    "required_dependencies": [
+                        "687131"
+                    ],
+                    "size": 26970,
+                    "date_published": "2025-11-22T05:01:13.680Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "F5xnXw4kfEZ23gEL",
             "type": "MOD",
             "slug": {
@@ -1825,6 +2170,126 @@
                     ],
                     "size": 785865,
                     "date_published": "2025-11-22T08:07:22.337Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "CmGIwmGM5Wem0sVt",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblepedia"
+            },
+            "name": {
+                "curseforge": "Cobblemon Poképedia: Cobblepedia"
+            },
+            "id": {
+                "curseforge": "850946"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Cobblepedia-NeoForge-0.7.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7272/42/Cobblepedia-NeoForge-0.7.1.jar",
+                    "id": "7272042",
+                    "parent_id": "850946",
+                    "hashes": {
+                        "sha1": "c5f15ee58c16c7c54c505ec8f005449f3f145f7d",
+                        "md5": "b6035dc2865c2dcc7ecfc86c71fa2ecd"
+                    },
+                    "required_dependencies": [
+                        "687131",
+                        "393236",
+                        "306770"
+                    ],
+                    "size": 8276599,
+                    "date_published": "2025-11-28T19:09:08.797Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "avw1WtXPVxFxnNhy",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblemon-quests"
+            },
+            "name": {
+                "curseforge": "Cobblemon Quests"
+            },
+            "id": {
+                "curseforge": "922979"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cobblemon_quests-[1.21.1]-neoforge-1.2.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7257/241/cobblemon_quests-[1.21.1]-neoforge-1.2.0.jar",
+                    "id": "7257241",
+                    "parent_id": "922979",
+                    "hashes": {
+                        "sha1": "735a118e41cb56eddca221bdd794315e4d756a09",
+                        "md5": "b29210bd96f8bf5b3ffb5b9c0357f79d"
+                    },
+                    "required_dependencies": [
+                        "419699",
+                        "438496",
+                        "687131",
+                        "289412"
+                    ],
+                    "size": 65748,
+                    "date_published": "2025-11-24T12:20:14.197Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "nNYiBztiuztq416n",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblemonraiddens"
+            },
+            "name": {
+                "curseforge": "Cobblemon Raid Dens"
+            },
+            "id": {
+                "curseforge": "1349231"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cobblemonraiddens-neoforge-0.5.1+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7273/568/cobblemonraiddens-neoforge-0.5.1+1.21.1.jar",
+                    "id": "7273568",
+                    "parent_id": "1349231",
+                    "hashes": {
+                        "sha1": "ecfb2bf8eb5a62c4a70e43b649fc5454275d0085",
+                        "md5": "37295a944b5569aab99c2b4bfe0d6d49"
+                    },
+                    "required_dependencies": [
+                        "687131",
+                        "388172"
+                    ],
+                    "size": 2311316,
+                    "date_published": "2025-11-29T06:58:24.057Z"
                 }
             ]
         },
@@ -1865,6 +2330,45 @@
                     ],
                     "size": 95508,
                     "date_published": "2025-11-12T15:53:16.823Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "O4Ywx9zfYp2A2Xaq",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblemon-spawn-notification"
+            },
+            "name": {
+                "curseforge": "Cobblemon Spawn Notification"
+            },
+            "id": {
+                "curseforge": "890745"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "spawnnotification-neoforge-1.7.1-2.2.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7317/892/spawnnotification-neoforge-1.7.1-2.2.0.jar",
+                    "id": "7317892",
+                    "parent_id": "890745",
+                    "hashes": {
+                        "sha1": "a45d2b95ea041eff0fc87df097aa6114ec4407b0",
+                        "md5": "af9fbc4a6cc18a810546c6f8db2fef04"
+                    },
+                    "required_dependencies": [
+                        "687131",
+                        "1295910"
+                    ],
+                    "size": 244566,
+                    "date_published": "2025-12-10T21:54:11.127Z"
                 }
             ]
         },
@@ -1937,6 +2441,46 @@
                     ],
                     "size": 188703,
                     "date_published": "2025-11-23T03:14:32.870Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "p9N8wYu0TL3bUsNL",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblemon-unchained"
+            },
+            "name": {
+                "curseforge": "Cobblemon Unchained"
+            },
+            "id": {
+                "curseforge": "901476"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "unchained-neoforge-1.7.1-1.7.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7280/601/unchained-neoforge-1.7.1-1.7.1.jar",
+                    "id": "7280601",
+                    "parent_id": "901476",
+                    "hashes": {
+                        "sha1": "d4f5a8bccc6c18b8d09413338060bd14f941502c",
+                        "md5": "bd948595b149fc1e77a42dbe56a163e3"
+                    },
+                    "required_dependencies": [
+                        "1295910",
+                        "687131",
+                        "900238"
+                    ],
+                    "size": 103102,
+                    "date_published": "2025-12-01T02:56:26.433Z"
                 }
             ]
         },
@@ -2020,6 +2564,118 @@
             ]
         },
         {
+            "pakku_id": "ql8tTTnD378zYUm3",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblemon-cobblestats"
+            },
+            "name": {
+                "curseforge": "Cobblemon: CobbleStats"
+            },
+            "id": {
+                "curseforge": "1385982"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cobblestats-neoforge-1.7+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7261/572/cobblestats-neoforge-1.7+1.21.1.jar",
+                    "id": "7261572",
+                    "parent_id": "1385982",
+                    "hashes": {
+                        "sha1": "f1c23962e2e1468a12207a9a7799ed2275cdd400",
+                        "md5": "d66f3b2552b07f843313716d29d4ed7c"
+                    },
+                    "required_dependencies": [],
+                    "size": 60170,
+                    "date_published": "2025-11-25T17:00:50.237Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "IZ7w2CPfEJot4aFw",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblemon-cobbled-levels"
+            },
+            "name": {
+                "curseforge": "Cobblemon: Cobbled Levels"
+            },
+            "id": {
+                "curseforge": "1290184"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "CobbledLevels-neoforge-1.5.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7311/348/CobbledLevels-neoforge-1.5.0.jar",
+                    "id": "7311348",
+                    "parent_id": "1290184",
+                    "hashes": {
+                        "sha1": "ef4aeea72f8561478c92883d0b3d0001bd4f4e70",
+                        "md5": "b58d2978fe94eaa632b0b16e0ae7ed94"
+                    },
+                    "required_dependencies": [
+                        "687131"
+                    ],
+                    "size": 18505,
+                    "date_published": "2025-12-09T11:42:41.193Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "TpHgR6YeU0CWWgSk",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblemon-max-repel"
+            },
+            "name": {
+                "curseforge": "Cobblemon: Max Repel"
+            },
+            "id": {
+                "curseforge": "1290170"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "MaxRepel-neoforge-1.3.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7293/249/MaxRepel-neoforge-1.3.1.jar",
+                    "id": "7293249",
+                    "parent_id": "1290170",
+                    "hashes": {
+                        "sha1": "5f569073bdc8bcc9dd233b124f87e783fe7b43ae",
+                        "md5": "56f581a34276c3a666e7a02680a93296"
+                    },
+                    "required_dependencies": [
+                        "687131"
+                    ],
+                    "size": 78460,
+                    "date_published": "2025-12-04T10:48:19.887Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "9ezOQeMvbRSYJx7n",
             "type": "MOD",
             "slug": {
@@ -2060,6 +2716,44 @@
             ]
         },
         {
+            "pakku_id": "Vm0ao534kf5Ytbpt",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblemon-release-rewards"
+            },
+            "name": {
+                "curseforge": "Cobblemon: Parting Gifts"
+            },
+            "id": {
+                "curseforge": "1169308"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "releaserewards-neoforge-3.0.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7250/529/releaserewards-neoforge-3.0.1.jar",
+                    "id": "7250529",
+                    "parent_id": "1169308",
+                    "hashes": {
+                        "sha1": "c1c44d0e48a1d9a649e637aed1777f01f1da7198",
+                        "md5": "bf44d4d3b8c716a6d9357e1ab9768218"
+                    },
+                    "required_dependencies": [
+                        "687131"
+                    ],
+                    "size": 116393,
+                    "date_published": "2025-11-22T20:04:00.267Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "2YJvRtnyW1zT0hYg",
             "type": "MOD",
             "slug": {
@@ -2093,6 +2787,44 @@
                     "required_dependencies": [],
                     "size": 8154,
                     "date_published": "2025-11-22T03:31:31.583Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "yxc4K6CUjYyyZUIV",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblemore-lib"
+            },
+            "name": {
+                "curseforge": "Cobblemore Lib"
+            },
+            "id": {
+                "curseforge": "1275153"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cobblemore_lib-neoforge-1.2.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7273/541/cobblemore_lib-neoforge-1.2.1.jar",
+                    "id": "7273541",
+                    "parent_id": "1275153",
+                    "hashes": {
+                        "sha1": "1376256389acf0ff9062e63e9f8a677494adf1a7",
+                        "md5": "c672e05cb374a9b987a64ffc70ab989e"
+                    },
+                    "required_dependencies": [
+                        "419699"
+                    ],
+                    "size": 570300,
+                    "date_published": "2025-11-29T06:39:33.023Z"
                 }
             ]
         },
@@ -2301,16 +3033,17 @@
                     "file_name": "ComplementaryReimagined_r5.6.1.zip",
                     "mc_versions": [
                         "1.21",
-                        "1.21.5",
                         "1.21.8",
-                        "1.21.9",
-                        "1.21.10",
+                        "1.21.5",
                         "1.21.4",
-                        "1.21.3",
-                        "1.21.7",
                         "1.21.1",
                         "1.21.6",
-                        "1.21.2"
+                        "1.21.3",
+                        "1.21.7",
+                        "1.21.2",
+                        "1.21.9",
+                        "1.21.10",
+                        "1.21.11"
                     ],
                     "release_type": "release",
                     "url": "https://edge.forgecdn.net/files/7090/226/ComplementaryReimagined_r5.6.1.zip",
@@ -2344,16 +3077,17 @@
                     "file_name": "ComplementaryUnbound_r5.6.1.zip",
                     "mc_versions": [
                         "1.21",
-                        "1.21.5",
                         "1.21.8",
-                        "1.21.9",
-                        "1.21.10",
+                        "1.21.5",
                         "1.21.4",
-                        "1.21.3",
-                        "1.21.7",
                         "1.21.1",
                         "1.21.6",
-                        "1.21.2"
+                        "1.21.3",
+                        "1.21.7",
+                        "1.21.2",
+                        "1.21.9",
+                        "1.21.10",
+                        "1.21.11"
                     ],
                     "release_type": "release",
                     "url": "https://edge.forgecdn.net/files/7090/228/ComplementaryUnbound_r5.6.1.zip",
@@ -4541,42 +5275,6 @@
             ]
         },
         {
-            "pakku_id": "B3hE9iLYkZYZNM8a",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "gnetum"
-            },
-            "name": {
-                "curseforge": "Gnetum"
-            },
-            "id": {
-                "curseforge": "1220460"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "gnetum-3.2.1.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7224/444/gnetum-3.2.1.jar",
-                    "id": "7224444",
-                    "parent_id": "1220460",
-                    "hashes": {
-                        "sha1": "211f0c702209c4815c3d7893180dd020009a6dc6",
-                        "md5": "feecb9baabac06dbab7fb0fd1190f95b"
-                    },
-                    "required_dependencies": [],
-                    "size": 95367,
-                    "date_published": "2025-11-15T12:48:37.067Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "XntQKanE7AAshIlf",
             "type": "MOD",
             "slug": {
@@ -4992,6 +5690,42 @@
                     ],
                     "size": 2438548,
                     "date_published": "2025-06-17T15:53:15.717Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "ZWSqg4m3xY7vIOht",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "irons-rpg-tweaks"
+            },
+            "name": {
+                "curseforge": "Iron's Rpg Tweaks"
+            },
+            "id": {
+                "curseforge": "871799"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "irons_rpg_tweaks-2.2.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6799/524/irons_rpg_tweaks-2.2.1.jar",
+                    "id": "6799524",
+                    "parent_id": "871799",
+                    "hashes": {
+                        "sha1": "f0fe923353b4f473f9761927e49fc85f450fb5f7",
+                        "md5": "17354dfe67828513416071d10a56e8f9"
+                    },
+                    "required_dependencies": [],
+                    "size": 286252,
+                    "date_published": "2025-07-22T16:17:09.623Z"
                 }
             ]
         },
@@ -6641,6 +7375,45 @@
             ]
         },
         {
+            "pakku_id": "3cQz8Va8sOpi5dtJ",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "morecobblemontweaks"
+            },
+            "name": {
+                "curseforge": "MoreCobblemonTweaks"
+            },
+            "id": {
+                "curseforge": "1082538"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "MoreCobblemonTweaks-neoforge-1.2.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7321/500/MoreCobblemonTweaks-neoforge-1.2.1.jar",
+                    "id": "7321500",
+                    "parent_id": "1082538",
+                    "hashes": {
+                        "sha1": "2305f8e34bc584add2c004e3d5313f35662afee8",
+                        "md5": "d3794a49d7bbdaeb3c6fa56b3042a2dc"
+                    },
+                    "required_dependencies": [
+                        "687131",
+                        "419699"
+                    ],
+                    "size": 97779,
+                    "date_published": "2025-12-11T18:30:23.467Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "1taOcM8b34Q0P2KJ",
             "type": "RESOURCE_PACK",
             "slug": {
@@ -6658,16 +7431,17 @@
                     "file_name": "Better-Leaves-9.4.zip",
                     "mc_versions": [
                         "1.21",
-                        "1.21.5",
                         "1.21.8",
-                        "1.21.9",
-                        "1.21.10",
+                        "1.21.5",
                         "1.21.4",
-                        "1.21.3",
-                        "1.21.7",
                         "1.21.1",
                         "1.21.6",
-                        "1.21.2"
+                        "1.21.3",
+                        "1.21.7",
+                        "1.21.2",
+                        "1.21.9",
+                        "1.21.10",
+                        "1.21.11"
                     ],
                     "release_type": "release",
                     "url": "https://edge.forgecdn.net/files/7039/286/Better-Leaves-9.4.zip",
@@ -6761,6 +7535,46 @@
                     ],
                     "size": 329340,
                     "date_published": "2025-03-20T01:19:38.143Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "HQrd19CYBbGAey0V",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "myths-and-legends-cobblemon-addon"
+            },
+            "name": {
+                "curseforge": "Myths and Legends [Cobblemon Sidemod]"
+            },
+            "id": {
+                "curseforge": "1037337"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "MythsAndLegends-neoforge-1.9.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7255/754/MythsAndLegends-neoforge-1.9.0.jar",
+                    "id": "7255754",
+                    "parent_id": "1037337",
+                    "hashes": {
+                        "sha1": "b90873d4a478753d099e641d7f1b7649c360e868",
+                        "md5": "b09765be05a1afb7809dc4f23bf81cf1"
+                    },
+                    "required_dependencies": [
+                        "687131",
+                        "419699"
+                    ],
+                    "size": 3254096,
+                    "date_published": "2025-11-24T00:20:32.980Z"
                 }
             ]
         },
@@ -7680,6 +8494,48 @@
             ]
         },
         {
+            "pakku_id": "KRS6f1FnJuOM4woe",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "radical-gyms-structures-cobblemon"
+            },
+            "name": {
+                "curseforge": "Radical Gyms & Structures [Cobblemon]"
+            },
+            "id": {
+                "curseforge": "1402174"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Radical Gyms  Structures - RGS.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7319/18/Radical Gyms  Structures - RGS.jar",
+                    "id": "7319018",
+                    "parent_id": "1402174",
+                    "hashes": {
+                        "sha1": "a5dcd10dcf0f61593dea443eac297385fc30cede",
+                        "md5": "558ee7e1c683aa0501778d02eb5bed72"
+                    },
+                    "required_dependencies": [
+                        "1152792",
+                        "1009534",
+                        "1188698",
+                        "687131"
+                    ],
+                    "size": 193203,
+                    "date_published": "2025-12-11T01:55:13.300Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "76hKPjsmv9CePRvE",
             "pakku_links": [
                 "pEhUSwjzpR8QUiVN"
@@ -8280,6 +9136,47 @@
                     "required_dependencies": [],
                     "size": 4870236,
                     "date_published": "2025-10-17T13:33:51.650Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "9ThXWmAJpU1xZPvH",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "simpletms-tms-and-trs-for-cobblemon"
+            },
+            "name": {
+                "curseforge": "SimpleTMs: TMs and TRs for Cobblemon"
+            },
+            "id": {
+                "curseforge": "959184"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "SimpleTMs-neoforge-2.3.3.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7319/641/SimpleTMs-neoforge-2.3.3.jar",
+                    "id": "7319641",
+                    "parent_id": "959184",
+                    "hashes": {
+                        "sha1": "f30723c57a72ff9c9f4b54fe1652430273355607",
+                        "md5": "29272c3f50b4c8b83ecf611debe54642"
+                    },
+                    "required_dependencies": [
+                        "687131",
+                        "419699",
+                        "351264"
+                    ],
+                    "size": 825317,
+                    "date_published": "2025-12-11T07:06:40.707Z"
                 }
             ]
         },
@@ -9364,6 +10261,42 @@
                     "required_dependencies": [],
                     "size": 130605,
                     "date_published": "2025-11-08T01:01:24.793Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "l7yfPq3dCqAGJN5G",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "torchmaster-cobblemon-compat"
+            },
+            "name": {
+                "curseforge": "Torchmaster Cobblemon Compat"
+            },
+            "id": {
+                "curseforge": "1236250"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "torchmastercobblemoncompat-1.6-neoforge-1.0.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6388/838/torchmastercobblemoncompat-1.6-neoforge-1.0.0.jar",
+                    "id": "6388838",
+                    "parent_id": "1236250",
+                    "hashes": {
+                        "sha1": "a0028d0cf31246e5e883897e3adc3ce689530063",
+                        "md5": "f762b8c343a0fed0557b321f53d1b061"
+                    },
+                    "required_dependencies": [],
+                    "size": 4801,
+                    "date_published": "2025-04-05T19:45:26.830Z"
                 }
             ]
         },
