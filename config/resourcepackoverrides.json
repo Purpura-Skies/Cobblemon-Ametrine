@@ -1,0 +1,37 @@
+{
+  "schema_version": "2",
+  "default_overrides": {
+    "force_compatible": true
+  },
+  "default_packs": [
+    "file/Tom's Cobblemoned.zip",
+	"file/CobblemonTextFixv2.0.2.zip",
+	"file/Cobblemon Classic Grass Pack v1.0 MC1.21.1.zip",
+	"file/Cobblemon Classic Water Pack v1.0 MC1.21.1.zip",
+	"file/Better-Leaves-9.4.zip",
+	"file/Cobblemon Interface v1.6.0.zip",
+	"file/Cobblemon Interface Modded v1.9.4.zip",
+	"file/E19 Cobblemon Minimap Icons.zip",
+	"mod/cobblemon:resourcepacks/uniqueshinyforms",
+	"mod/cobblemon:resourcepacks/regionbiasforms",
+	"mod/cobblemon:resourcepacks/gyaradosjump",
+	"file/RCT Trainers+ [1.6] v2.1.zip",
+    "file/CCC_1.9.1.zip"
+  ],
+  "pack_overrides": {
+    "required": [
+	  "file/RCT Trainers+ [1.6] v2.1.zip",
+      "file/CCC_1.9.1.zip"
+    ],
+    "$$required": {
+      "hidden": false,
+      "required": true
+    },
+    "hidden": [
+	  "file/Light-Footed Cobblemon v1.1.zip"
+    ],
+    "$$hidden": {
+      "hidden": true
+    }
+  }
+}
