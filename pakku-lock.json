@@ -8797,6 +8797,39 @@
             ]
         },
         {
+            "pakku_id": "V6O4CushmvWsqqV3",
+            "type": "DATA_PACK",
+            "slug": {
+                "curseforge": "revamped-cobblemon-outbreaks-no-cap"
+            },
+            "name": {
+                "curseforge": "Revamped Cobblemon Outbreaks - No Caps"
+            },
+            "id": {
+                "curseforge": "1319164"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Revamped Cobblemon Outbreaks No Caps - neoforge 1.21 - v1.4.zip",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7341/230/Revamped Cobblemon Outbreaks No Caps - neoforge 1.21 - v1.4.zip",
+                    "id": "7341230",
+                    "parent_id": "1319164",
+                    "hashes": {
+                        "sha1": "b4c1af265d3d06808fee73c7ab6e2b880f338ec9",
+                        "md5": "73dcd406eb40c889815e9c874806f8c5"
+                    },
+                    "required_dependencies": [],
+                    "size": 290788,
+                    "date_published": "2025-12-16T18:40:48.127Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "u10kSysiMAprcLpe",
             "type": "MOD",
             "slug": {
