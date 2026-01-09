@@ -29,10 +29,29 @@
       "required": true
     },
     "hidden": [
-      "file/Light-Footed Cobblemon v1.1.zip"
+      "file/Light-Footed Cobblemon v1.1.zip",
+	  "PS_Emojis.zip"
     ],
     "$$hidden": {
       "hidden": true
-    }
+    },
+	"pasturefix": {
+		"default_position": "BOTTOM"
+	},
+	"moonlight:merged_pack": {
+		"default_position": "BOTTOM"
+	},
+	"mod_resources": {
+		"default_position": "BOTTOM"
+	},
+	"fabric": {
+		"default_position": "BOTTOM"
+	},
+	"scholar:chiseled_bookshelf_colored_books": {
+		"default_position": "BOTTOM"
+	},
+	"scholar:colored_books": {
+		"default_position": "BOTTOM"
+	}
   }
 }
