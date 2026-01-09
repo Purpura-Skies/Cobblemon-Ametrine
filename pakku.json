@@ -3,5 +3,151 @@
     "version": "8.0.0",
     "overrides": [
         "config"
-    ]
+    ],
+    "projects": {
+        "flerovium": {
+            "side": "CLIENT"
+        },
+        "forgematica": {
+            "side": "CLIENT"
+        },
+        "item-highlighter": {
+            "side": "CLIENT"
+        },
+        "better-ping-display": {
+            "side": "CLIENT"
+        },
+        "enhanced-attack-indicator": {
+            "side": "CLIENT"
+        },
+        "immediatelyfast": {
+            "side": "CLIENT"
+        },
+        "enchantment-descriptions": {
+            "side": "CLIENT"
+        },
+        "irisshaders": {
+            "side": "CLIENT"
+        },
+        "colorful-hearts": {
+            "side": "CLIENT"
+        },
+        "farsight": {
+            "side": "CLIENT"
+        },
+        "bad-wither-no-cookie-reloaded": {
+            "side": "CLIENT"
+        },
+        "better-third-person": {
+            "side": "CLIENT"
+        },
+        "extreme-sound-muffler": {
+            "side": "CLIENT"
+        },
+        "cobblemon-move-inspector": {
+            "side": "CLIENT"
+        },
+        "craftpresence": {
+            "side": "CLIENT"
+        },
+        "dynamic-fps": {
+            "side": "CLIENT"
+        },
+        "morecobblemontweaks": {
+            "side": "CLIENT"
+        },
+        "tips": {
+            "side": "CLIENT"
+        },
+        "mafglib": {
+            "side": "CLIENT"
+        },
+        "unilib": {
+            "side": "CLIENT"
+        },
+        "sodium": {
+            "side": "CLIENT"
+        },
+        "mouse-tweaks": {
+            "side": "CLIENT"
+        },
+        "fastboot": {
+            "side": "CLIENT"
+        },
+        "dynamic-crosshair": {
+            "side": "CLIENT"
+        },
+        "faster-ladder-climbing": {
+            "side": "CLIENT"
+        },
+        "cleanview": {
+            "side": "CLIENT"
+        },
+        "neoauth": {
+            "side": "CLIENT"
+        },
+        "sodium-shadowy-path-blocks": {
+            "side": "CLIENT"
+        },
+        "appleskin": {
+            "side": "CLIENT"
+        },
+        "athena": {
+            "side": "CLIENT"
+        },
+        "better-advancements": {
+            "side": "CLIENT"
+        },
+        "controlling": {
+            "side": "CLIENT"
+        },
+        "crash-assistant": {
+            "side": "CLIENT"
+        },
+        "default-options": {
+            "side": "CLIENT"
+        },
+        "drippy-loading-screen": {
+            "side": "CLIENT"
+        },
+        "entityculling": {
+            "side": "CLIENT"
+        },
+        "falling-leaves-forge": {
+            "side": "CLIENT"
+        },
+        "fancymenu": {
+            "side": "CLIENT"
+        },
+        "just-enough-effect-descriptions-jeed": {
+            "side": "CLIENT"
+        },
+        "itemzoom": {
+            "side": "CLIENT"
+        },
+        "particle-rain": {
+            "side": "CLIENT"
+        },
+        "toast-control": {
+            "side": "CLIENT"
+        },
+        "not-enough-animations": {
+            "side": "CLIENT"
+        },
+        "melody": {
+            "side": "CLIENT"
+        },
+        "inventory-tweaks-refoxed": {
+            "side": "CLIENT"
+        },
+        "highlight": {
+            "side": "CLIENT"
+        },
+        "ctm": {
+            "side": "CLIENT"
+        },
+        "chat-heads": {
+            "side": "CLIENT"
+        }
+    }
 }
