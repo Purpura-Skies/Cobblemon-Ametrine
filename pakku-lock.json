@@ -959,6 +959,47 @@
             ]
         },
         {
+            "pakku_id": "Ckcb5A70cBbj7sHZ",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "bluemap"
+            },
+            "name": {
+                "curseforge": "BlueMap"
+            },
+            "id": {
+                "curseforge": "406463"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "bluemap-5.7-neoforge.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.5",
+                        "1.21.4",
+                        "1.21.3",
+                        "1.21.1",
+                        "1.21.2"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6239/407/bluemap-5.7-neoforge.jar",
+                    "id": "6239407",
+                    "parent_id": "406463",
+                    "hashes": {
+                        "sha1": "49675ada6be555e6f8393f49aff91750028e1239",
+                        "md5": "5363c8d1a9b5c16627148fd65ca50c04"
+                    },
+                    "required_dependencies": [],
+                    "size": 5414670,
+                    "date_published": "2025-02-26T14:18:07.123Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "hkF7dHnibms4CoCS",
             "type": "MOD",
             "slug": {
@@ -2701,6 +2742,43 @@
                     ],
                     "size": 116393,
                     "date_published": "2025-11-22T20:04:00.267Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "cWuVkbS3F7krskOM",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobblemon-playerxp"
+            },
+            "name": {
+                "curseforge": "Cobblemon: PlayerXP"
+            },
+            "id": {
+                "curseforge": "1261726"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "playerxp-neoforge-1.0.4+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7382/618/playerxp-neoforge-1.0.4+1.21.1.jar",
+                    "id": "7382618",
+                    "parent_id": "1261726",
+                    "hashes": {
+                        "sha1": "0bd026d47687b8908a77120317cbe2b920fe02d0",
+                        "md5": "90e1e41101e3f4505938586a3ace2076"
+                    },
+                    "required_dependencies": [],
+                    "size": 7613,
+                    "date_published": "2025-12-26T23:24:07.623Z"
                 }
             ]
         },
