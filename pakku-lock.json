@@ -1529,6 +1529,50 @@
             ]
         },
         {
+            "pakku_id": "2Xb66air9Rc75wdZ",
+            "pakku_links": [
+                "m24IpupNjoVteLrT",
+                "2hVPNmaiv1CtKEFL"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "cobbledgacha"
+            },
+            "name": {
+                "curseforge": "CobbledGacha v.2 [Cobblemon 1.7.1]"
+            },
+            "id": {
+                "curseforge": "1419903"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cobbledgacha-neoforge-1.21.1-2.0.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7416/479/cobbledgacha-neoforge-1.21.1-2.0.1.jar",
+                    "id": "7416479",
+                    "parent_id": "1419903",
+                    "hashes": {
+                        "sha1": "4414a6a886c1f1d93a53a8668ff9f8acd8d519fe",
+                        "md5": "f585fb14ba22e89f3c78cf4f1843a78a"
+                    },
+                    "required_dependencies": [
+                        "687131",
+                        "388172"
+                    ],
+                    "size": 594159,
+                    "date_published": "2026-01-04T13:38:09.400Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "I4DqvSNqNAgYoJOK",
             "type": "MOD",
             "slug": {
@@ -5604,7 +5648,7 @@
             ]
         },
         {
-            "pakku_id": "M49pnUqL0EIyNVeH",
+            "pakku_id": "qhWXp9UIInqR3zdi",
             "type": "MOD",
             "slug": {
                 "curseforge": "in-control"
@@ -9048,7 +9092,7 @@
             ]
         },
         {
-            "pakku_id": "PqU5FvS4ynFVtvoJ",
+            "pakku_id": "LOrhwCmgxmiQRJEE",
             "type": "MOD",
             "slug": {
                 "curseforge": "servercore"
@@ -9547,7 +9591,7 @@
             ]
         },
         {
-            "pakku_id": "cmebM7Y71JAhDK2l",
+            "pakku_id": "iWVvcwJktDL3QVJ4",
             "type": "MOD",
             "slug": {
                 "curseforge": "sophisticated-backpacks"
@@ -9585,7 +9629,7 @@
             ]
         },
         {
-            "pakku_id": "TvA9p6Gr8hJKtI9I",
+            "pakku_id": "IbMUjODv0MZrobdl",
             "type": "MOD",
             "slug": {
                 "curseforge": "sophisticated-core"
@@ -9621,7 +9665,7 @@
             ]
         },
         {
-            "pakku_id": "xHkW7hUkV9dS29VT",
+            "pakku_id": "HsiVoJ5Ztmf6tnSF",
             "type": "MOD",
             "slug": {
                 "curseforge": "sophisticated-storage"
@@ -10046,6 +10090,39 @@
                     ],
                     "size": 284148,
                     "date_published": "2025-02-04T21:37:00.490Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "cjiTYo1idJLXFDjh",
+            "type": "DATA_PACK",
+            "slug": {
+                "curseforge": "tims-ultimately-comprehensive-cobblemon-edits-of"
+            },
+            "name": {
+                "curseforge": "Tim's Ultimately Comprehensive Cobblemon Edits of Destiny"
+            },
+            "id": {
+                "curseforge": "1187261"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "tims-ultimately-comprehensive-cobblemon-edits-of-destiny-1.6.1-4.zip",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7215/67/tims-ultimately-comprehensive-cobblemon-edits-of-destiny-1.6.1-4.zip",
+                    "id": "7215067",
+                    "parent_id": "1187261",
+                    "hashes": {
+                        "sha1": "6bcf0960b89c2fff8492ef689dbd052b774e4148",
+                        "md5": "0c1b193e2021242388cc1c1aee2f7ab6"
+                    },
+                    "required_dependencies": [],
+                    "size": 34789,
+                    "date_published": "2025-11-12T17:58:49.213Z"
                 }
             ]
         },
