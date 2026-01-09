@@ -1,0 +1,54 @@
+[
+  {
+    "mob": ["minecraft:drowned"],
+    "dimension": "minecraft:overworld",
+    "minheight": 30,
+    "result": "deny"
+  },
+  {
+    "mob": ["minecraft:drowned"],
+    "dimension": "minecraft:overworld",
+    "maxheight": 30,
+    "result": "allow"
+  },
+  {
+    "mob": [
+      "minecraft:zombie",
+      "minecraft:skeleton",
+      "minecraft:enderman",
+      "minecraft:spider",
+      "minecraft:creeper",
+      "minecraft:witch",
+      "minecraft:zombie_villager",
+      "minecraft:husk",
+      "minecraft:stray",
+      "minecraft:slime",
+      "trials:bogged",
+      "minecraft:skeleton_horse",
+      "species:limpet",
+      "windswept:chilled"
+    ],
+    "dimension": "minecraft:overworld",
+    "minheight": 50,
+    "result": "deny"
+  },
+  {
+    "mob": [
+      "minecraft:zombie",
+      "minecraft:skeleton",
+      "minecraft:enderman",
+      "minecraft:spider",
+      "minecraft:creeper",
+      "minecraft:witch",
+      "minecraft:drowned",
+      "minecraft:slime",
+      "minecraft:zombie_villager",
+      "minecraft:husk",
+      "minecraft:stray",
+      "trials:bogged"
+    ],
+    "dimension": "minecraft:overworld",
+    "maxheight": 50,
+    "result": "allow"
+  }
+]
