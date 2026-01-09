@@ -5662,7 +5662,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "incontrol-1.21-10.2.5.jar",
+                    "file_name": "incontrol-1.21-10.2.6.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -5670,16 +5670,16 @@
                         "neoforge"
                     ],
                     "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/7323/580/incontrol-1.21-10.2.5.jar",
-                    "id": "7323580",
+                    "url": "https://edge.forgecdn.net/files/7436/215/incontrol-1.21-10.2.6.jar",
+                    "id": "7436215",
                     "parent_id": "257356",
                     "hashes": {
-                        "sha1": "37e7e6a98c2d21fbdb1cbf7ddb3f3387005d973d",
-                        "md5": "7475329fcc6275ef20da78df6006510a"
+                        "sha1": "8b25ac143e5c2392336d0f899160bdfe1ee3d1a5",
+                        "md5": "c1c93f3fe9ba34f8037a6b55f6a1f024"
                     },
                     "required_dependencies": [],
-                    "size": 347259,
-                    "date_published": "2025-12-12T07:18:33.213Z"
+                    "size": 347280,
+                    "date_published": "2026-01-09T05:39:56.520Z"
                 }
             ]
         },
@@ -8268,6 +8268,47 @@
             ]
         },
         {
+            "pakku_id": "7vp7DgNvrPEZ2M8H",
+            "pakku_links": [
+                "2hVPNmaiv1CtKEFL"
+            ],
+            "type": "MOD",
+            "slug": {
+                "curseforge": "pokebike"
+            },
+            "name": {
+                "curseforge": "PokeBike"
+            },
+            "id": {
+                "curseforge": "1418474"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "pokebike-neoforge-1.0.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7435/995/pokebike-neoforge-1.0.jar",
+                    "id": "7435995",
+                    "parent_id": "1418474",
+                    "hashes": {
+                        "sha1": "a61b1ad3c4b4f36adc8526bf6220af1537d963d9",
+                        "md5": "59805e1730c3dbaa7954ae87838b3e90"
+                    },
+                    "required_dependencies": [
+                        "388172"
+                    ],
+                    "size": 530508,
+                    "date_published": "2026-01-09T03:43:12.093Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "n1mSXfu5y3fyZLwO",
             "type": "MOD",
             "slug": {
@@ -9107,24 +9148,24 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "servercore-neoforge-1.5.5+1.21.1.jar",
+                    "file_name": "servercore-neoforge-1.5.10+1.21.1.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
                     "loaders": [
                         "neoforge"
                     ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5667/811/servercore-neoforge-1.5.5+1.21.1.jar",
-                    "id": "5667811",
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/6390/848/servercore-neoforge-1.5.10+1.21.1.jar",
+                    "id": "6390848",
                     "parent_id": "550579",
                     "hashes": {
-                        "sha1": "a7694052c8a76c3a3fe19fd5043e8314a3d4d58a",
-                        "md5": "817ee89f8a7ef142659189404b346e54"
+                        "sha1": "4524cd40cfa5019d8b5fbcb628b1616031838a0c",
+                        "md5": "c30fe6ee4271a7b51da4239ea8f63d15"
                     },
                     "required_dependencies": [],
-                    "size": 1391731,
-                    "date_published": "2024-08-27T08:37:18.267Z"
+                    "size": 1429522,
+                    "date_published": "2025-04-06T10:55:49.960Z"
                 }
             ]
         },
@@ -9605,7 +9646,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "sophisticatedbackpacks-1.21.1-3.25.22.1487.jar",
+                    "file_name": "sophisticatedbackpacks-1.21.1-3.25.23.1491.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -9613,18 +9654,18 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7414/211/sophisticatedbackpacks-1.21.1-3.25.22.1487.jar",
-                    "id": "7414211",
+                    "url": "https://edge.forgecdn.net/files/7436/670/sophisticatedbackpacks-1.21.1-3.25.23.1491.jar",
+                    "id": "7436670",
                     "parent_id": "422301",
                     "hashes": {
-                        "sha1": "91c34b0313f7b4226ec88940c23dea5e53f17560",
-                        "md5": "2709cd2d353686405876beb68729324f"
+                        "sha1": "364e29d683b99b273ae1e602a86a330d6415c81a",
+                        "md5": "c5c104be8bdf72afe3a3dbcf77764aaf"
                     },
                     "required_dependencies": [
                         "618298"
                     ],
-                    "size": 986361,
-                    "date_published": "2026-01-03T22:32:21.480Z"
+                    "size": 986569,
+                    "date_published": "2026-01-09T09:44:35.140Z"
                 }
             ]
         },
@@ -9643,7 +9684,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "sophisticatedcore-1.21.1-1.3.100.1348.jar",
+                    "file_name": "sophisticatedcore-1.21.1-1.3.101.1354.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -9651,16 +9692,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7402/59/sophisticatedcore-1.21.1-1.3.100.1348.jar",
-                    "id": "7402059",
+                    "url": "https://edge.forgecdn.net/files/7436/668/sophisticatedcore-1.21.1-1.3.101.1354.jar",
+                    "id": "7436668",
                     "parent_id": "618298",
                     "hashes": {
-                        "sha1": "d9bf2af27065e52896e884c7b0b767a8af1d6dcd",
-                        "md5": "1a670c77018f2616754e8af99a5755d0"
+                        "sha1": "785937f07e42775d57af3d7bfb6178d446f2e98d",
+                        "md5": "e66513a53048551c8b5aa3434699bf30"
                     },
                     "required_dependencies": [],
-                    "size": 1495724,
-                    "date_published": "2025-12-31T22:27:07.470Z"
+                    "size": 1449437,
+                    "date_published": "2026-01-09T09:43:47.810Z"
                 }
             ]
         },
@@ -9679,7 +9720,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "sophisticatedstorage-1.21.1-1.5.19.1415.jar",
+                    "file_name": "sophisticatedstorage-1.21.1-1.5.20.1422.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -9687,18 +9728,18 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7416/157/sophisticatedstorage-1.21.1-1.5.19.1415.jar",
-                    "id": "7416157",
+                    "url": "https://edge.forgecdn.net/files/7436/697/sophisticatedstorage-1.21.1-1.5.20.1422.jar",
+                    "id": "7436697",
                     "parent_id": "619320",
                     "hashes": {
-                        "sha1": "ca7dcf4d0ee76bb34c91a0abb95d682a0a1d4f50",
-                        "md5": "dcba594ca8016b4f43332af9c3b8786b"
+                        "sha1": "1553d2644a5ae09c9cb31b5f5a2d0774c5e78853",
+                        "md5": "b0883a01f356021e158b8168f6643c97"
                     },
                     "required_dependencies": [
                         "618298"
                     ],
-                    "size": 1654441,
-                    "date_published": "2026-01-04T11:48:21.940Z"
+                    "size": 1654683,
+                    "date_published": "2026-01-09T09:49:30.193Z"
                 }
             ]
         },
@@ -10852,7 +10893,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "yet_another_config_lib_v3-3.8.1+1.21.1-neoforge.jar",
+                    "file_name": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
                     "mc_versions": [
                         "1.21",
                         "1.21.1"
@@ -10861,16 +10902,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7305/639/yet_another_config_lib_v3-3.8.1+1.21.1-neoforge.jar",
-                    "id": "7305639",
+                    "url": "https://edge.forgecdn.net/files/7437/845/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+                    "id": "7437845",
                     "parent_id": "667299",
                     "hashes": {
-                        "sha1": "b566b99f019feae4df41651ff17f8b295fa72435",
-                        "md5": "a093525ef45f8bf2dd901d3230519d63"
+                        "sha1": "fe270c9f6e0a8142cf316944087f5109cef08bbb",
+                        "md5": "c346120062c3364a0d215c228354030e"
                     },
                     "required_dependencies": [],
-                    "size": 1118896,
-                    "date_published": "2025-12-07T20:01:10.980Z"
+                    "size": 1118651,
+                    "date_published": "2026-01-09T16:34:33.460Z"
                 }
             ]
         },

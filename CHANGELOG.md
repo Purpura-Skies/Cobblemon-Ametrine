@@ -76,6 +76,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - PandaLib
 - Particle Rain
 - Placebo
+- PokeBike
 - Puzzles Lib
 - Radical Gyms & Structures [Cobblemon]
 - Regions Unexplored (forge/fabric)
@@ -111,7 +112,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Updated
 
-- Neoforge 21.1.172                                                 -> Neoforge 21.1.215
+- Neoforge 21.1.172                                                 -> Neoforge 21.1.217
 - accessories-neoforge-1.1.0-beta.43+1.21.1.jar                     -> accessories-neoforge-1.1.0-beta.52+1.21.1.jar
 - accessorify-1.4.4+1.21.1.jar                                      -> accessorify-2.3.6+1.21.1.jar
 - addonslib-neoforge-1.21.1-1.4.jar                                 -> addonslib-neoforge-1.21.1-1.10.jar
