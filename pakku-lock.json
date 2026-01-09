@@ -1685,6 +1685,42 @@
             ]
         },
         {
+            "pakku_id": "QRC0aZeIr55zdSm3",
+            "type": "RESOURCE_PACK",
+            "slug": {
+                "curseforge": "cobblemon-3d-pokenavs"
+            },
+            "name": {
+                "curseforge": "Cobblemon 3D Pokenavs"
+            },
+            "id": {
+                "curseforge": "1420645"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "iB - 3D Cobblenav-release-4.zip",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7417/048/iB - 3D Cobblenav-release-4.zip",
+                    "id": "7417048",
+                    "parent_id": "1420645",
+                    "hashes": {
+                        "sha1": "0bb7967d8432f79e9b46c61553db316d0f3c43a5",
+                        "md5": "6e489b32e181bd2ca81eca71a45827bf"
+                    },
+                    "required_dependencies": [
+                        "976014"
+                    ],
+                    "size": 81583,
+                    "date_published": "2026-01-04T15:45:16.097Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "Xi6X7hUYJkNoYjux",
             "pakku_links": [
                 "yxc4K6CUjYyyZUIV"
@@ -1801,74 +1837,6 @@
                     "required_dependencies": [],
                     "size": 72292,
                     "date_published": "2025-11-23T03:58:53.110Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "zvFaR0mHu0btBHKI",
-            "type": "RESOURCE_PACK",
-            "slug": {
-                "curseforge": "cobblemon-classic-grass-pack"
-            },
-            "name": {
-                "curseforge": "Cobblemon Classic Grass Pack"
-            },
-            "id": {
-                "curseforge": "1024881"
-            },
-            "redistributable": false,
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "Cobblemon Classic Grass Pack v1.0 MC1.21.1.zip",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5971/658/Cobblemon Classic Grass Pack v1.0 MC1.21.1.zip",
-                    "id": "5971658",
-                    "parent_id": "1024881",
-                    "hashes": {
-                        "sha1": "c0943d03bd4a23439a10a478f1a00ae3a390bfad",
-                        "md5": "b3e28f8fb151f09ca368e66960758b4d"
-                    },
-                    "required_dependencies": [],
-                    "size": 7538,
-                    "date_published": "2024-12-07T16:55:52.517Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "HXPcmXORLCGJHwFk",
-            "type": "RESOURCE_PACK",
-            "slug": {
-                "curseforge": "cobblemon-classic-water-gen1-2-pack"
-            },
-            "name": {
-                "curseforge": "Cobblemon Classic Water GEN1/2 Pack"
-            },
-            "id": {
-                "curseforge": "1220115"
-            },
-            "redistributable": false,
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "Cobblemon Classic Water Pack v1.0 MC1.21.1.zip",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6303/353/Cobblemon Classic Water Pack v1.0 MC1.21.1.zip",
-                    "id": "6303353",
-                    "parent_id": "1220115",
-                    "hashes": {
-                        "sha1": "0dc72c7e5005b37ea9dbd384017e28377ba07841",
-                        "md5": "6298b86b608e2a6026e5aa1b427134fd"
-                    },
-                    "required_dependencies": [],
-                    "size": 10126,
-                    "date_published": "2025-03-14T14:50:16.230Z"
                 }
             ]
         },
@@ -8305,6 +8273,50 @@
                     ],
                     "size": 530508,
                     "date_published": "2026-01-09T03:43:12.093Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "F9ap2GlXV7fdiHsw",
+            "type": "RESOURCE_PACK",
+            "slug": {
+                "curseforge": "pokemon-atmosphere"
+            },
+            "name": {
+                "curseforge": "Pokemon Atmosphere [Grass, Weather, Biomes, ...]"
+            },
+            "id": {
+                "curseforge": "1371557"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Pokemon Atmosphere v1 - 1.21.zip",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.5",
+                        "1.21.8",
+                        "1.21.9",
+                        "1.21.10",
+                        "1.21.4",
+                        "1.21.3",
+                        "1.21.7",
+                        "1.21.1",
+                        "1.21.6",
+                        "1.21.11-snapshot",
+                        "1.21.2"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7144/902/Pokemon Atmosphere v1 - 1.21.zip",
+                    "id": "7144902",
+                    "parent_id": "1371557",
+                    "hashes": {
+                        "sha1": "2d646fcba9df919a9c1c028a28a412a89d3a415d",
+                        "md5": "930b64fd176f74abc89d79d0063e05cf"
+                    },
+                    "required_dependencies": [],
+                    "size": 1846895,
+                    "date_published": "2025-10-24T16:32:41.407Z"
                 }
             ]
         },

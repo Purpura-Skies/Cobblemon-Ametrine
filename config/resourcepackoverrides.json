@@ -4,10 +4,11 @@
     "force_compatible": true
   },
   "default_packs": [
-    "file/Tom's Cobblemoned.zip",
     "file/CobblemonTextFixv2.0.2.zip",
-    "file/Cobblemon Classic Grass Pack v1.0 MC1.21.1.zip",
-    "file/Cobblemon Classic Water Pack v1.0 MC1.21.1.zip",
+    "file/Tom's Cobblemoned.zip",
+	"file/Cobblemon 3D Poké Rods 1.0.zip",
+	"file/iB - 3D Cobblenav-release-4",
+    "file/Pokemon Atmosphere v1 - 1.21.zip",
     "file/Better-Leaves-9.4.zip",
     "file/E19 Cobblemon Minimap Icons.zip",
     "mod/cobblemon:resourcepacks/uniqueshinyforms",
