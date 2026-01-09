@@ -86,6 +86,46 @@
             ]
         },
         {
+            "pakku_id": "YnSW2tFsei3wc5Zl",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "accessories-compat-layer"
+            },
+            "name": {
+                "curseforge": "Accessories Compatibility Layer"
+            },
+            "id": {
+                "curseforge": "1315611"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "accessories_compat_layer-neoforge-0.1.10+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/7046/464/accessories_compat_layer-neoforge-0.1.10+1.21.1.jar",
+                    "id": "7046464",
+                    "parent_id": "1315611",
+                    "hashes": {
+                        "sha1": "81075dd9ba87a5e2814548e9e3ab20001f0a06de",
+                        "md5": "3deee668eed96594e1fb3b30fe830aaa"
+                    },
+                    "required_dependencies": [
+                        "309927",
+                        "938917",
+                        "532610"
+                    ],
+                    "size": 376256,
+                    "date_published": "2025-09-29T19:00:08.160Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "tSbe94PoKZJHBQQT",
             "type": "MOD",
             "slug": {
@@ -919,45 +959,6 @@
             ]
         },
         {
-            "pakku_id": "PhlCLJ9d3hQ6tVJh",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "blur-fabric"
-            },
-            "name": {
-                "curseforge": "Blur+"
-            },
-            "id": {
-                "curseforge": "393563"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "blur-neoforge-6.0.0+1.21.1.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7431/470/blur-neoforge-6.0.0+1.21.1.jar",
-                    "id": "7431470",
-                    "parent_id": "393563",
-                    "hashes": {
-                        "sha1": "16c8d4dd24b5494486eef3fe68847018a1090984",
-                        "md5": "4eba54f7d6dc69ed58ace8ca22cf18be"
-                    },
-                    "required_dependencies": [
-                        "488090"
-                    ],
-                    "size": 197087,
-                    "date_published": "2026-01-07T22:24:49.993Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "hkF7dHnibms4CoCS",
             "type": "MOD",
             "slug": {
@@ -1219,44 +1220,6 @@
                     ],
                     "size": 15020578,
                     "date_published": "2024-10-15T00:52:54.370Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "9ebHHkSVfgVoV4LV",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "chloride"
-            },
-            "name": {
-                "curseforge": "Chloride (Embeddium++/Sodium++)"
-            },
-            "id": {
-                "curseforge": "931925"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "chloride-NEOFORGE-mc1.21.1-v1.7.5.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7378/108/chloride-NEOFORGE-mc1.21.1-v1.7.5.jar",
-                    "id": "7378108",
-                    "parent_id": "931925",
-                    "hashes": {
-                        "sha1": "13be11a94f507b6300a1a0c0bd6f1594eb6c5e64",
-                        "md5": "cf1f26cb40f4272dd018a88b284284d9"
-                    },
-                    "required_dependencies": [
-                        "394468"
-                    ],
-                    "size": 946009,
-                    "date_published": "2025-12-25T19:26:47.123Z"
                 }
             ]
         },
@@ -3820,6 +3783,45 @@
             ]
         },
         {
+            "pakku_id": "0LVCTDknEQtoDIFU",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "drippy-loading-screen"
+            },
+            "name": {
+                "curseforge": "Drippy Loading Screen"
+            },
+            "id": {
+                "curseforge": "511770"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "drippyloadingscreen_neoforge_3.1.0_MC_1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7248/439/drippyloadingscreen_neoforge_3.1.0_MC_1.21.1.jar",
+                    "id": "7248439",
+                    "parent_id": "511770",
+                    "hashes": {
+                        "sha1": "907f43294b63cd845bf2fdad1ea5fe5c52552508",
+                        "md5": "b0f9d9bd40b48aedf92c4d7f2aaf60bb"
+                    },
+                    "required_dependencies": [
+                        "367706",
+                        "410295"
+                    ],
+                    "size": 172759,
+                    "date_published": "2025-11-22T07:41:23.887Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "PKGExJ4aChw7vvYx",
             "type": "MOD",
             "slug": {
@@ -6164,42 +6166,6 @@
                     "required_dependencies": [],
                     "size": 189002,
                     "date_published": "2024-09-05T06:48:46.257Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "3AI2IdvULGX0SnZf",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "lambdynamiclights-unofficial-neoforge"
-            },
-            "name": {
-                "curseforge": "LambDynamicLights [Unofficial NeoForge]"
-            },
-            "id": {
-                "curseforge": "1130792"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "lambdynamiclights-3.1.4-neo-0+1.21.1.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5980/174/lambdynamiclights-3.1.4-neo-0+1.21.1.jar",
-                    "id": "5980174",
-                    "parent_id": "1130792",
-                    "hashes": {
-                        "sha1": "1685ff10d75439cc2cc82a8c7885d05af263f51e",
-                        "md5": "4ce51b2779da7697f3b7ec0446502bd0"
-                    },
-                    "required_dependencies": [],
-                    "size": 440704,
-                    "date_published": "2024-12-10T15:42:01.847Z"
                 }
             ]
         },
@@ -8567,10 +8533,7 @@
             ]
         },
         {
-            "pakku_id": "VTm3fTQXAM6vQwzp",
-            "pakku_links": [
-                "OCEw1fj9vVDN9si8"
-            ],
+            "pakku_id": "ybYEoTU88WtU6mfJ",
             "type": "MOD",
             "slug": {
                 "curseforge": "regions-unexplored"
@@ -8584,7 +8547,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "regions_unexplored-neoforge-1.21.1-0.5.6.1.jar",
+                    "file_name": "regions_unexplored-neoforge-1.21.1-0.5.7.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -8592,18 +8555,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6273/893/regions_unexplored-neoforge-1.21.1-0.5.6.1.jar",
-                    "id": "6273893",
+                    "url": "https://edge.forgecdn.net/files/7434/56/regions_unexplored-neoforge-1.21.1-0.5.7.jar",
+                    "id": "7434056",
                     "parent_id": "659110",
                     "hashes": {
-                        "sha1": "c1ae178aac15836e4ebd9d51cf08aed572167014",
-                        "md5": "6175d7cf8047bde5bd3e2231a7af9827"
+                        "sha1": "940ba8dec1d71ee00ca2d0f321d8b48841fe1c73",
+                        "md5": "48f361a5b14609480b729faf014ac1ad"
                     },
-                    "required_dependencies": [
-                        "940057"
-                    ],
-                    "size": 5496016,
-                    "date_published": "2025-03-07T06:31:20.040Z"
+                    "required_dependencies": [],
+                    "size": 5469953,
+                    "date_published": "2026-01-08T16:50:54.813Z"
                 }
             ]
         },
@@ -9238,47 +9199,6 @@
             ]
         },
         {
-            "pakku_id": "71dPHp27qroiYBQY",
-            "pakku_links": [
-                "pEhUSwjzpR8QUiVN"
-            ],
-            "type": "MOD",
-            "slug": {
-                "curseforge": "sodium-extra"
-            },
-            "name": {
-                "curseforge": "Sodium Extra"
-            },
-            "id": {
-                "curseforge": "447673"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "sodium-extra-neoforge-0.6.0+mc1.21.1.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5913/377/sodium-extra-neoforge-0.6.0+mc1.21.1.jar",
-                    "id": "5913377",
-                    "parent_id": "447673",
-                    "hashes": {
-                        "sha1": "7473bb42753902c639294821af13e9cd9ee735da",
-                        "md5": "3e5a992421977674549a05015aeac809"
-                    },
-                    "required_dependencies": [
-                        "394468"
-                    ],
-                    "size": 367047,
-                    "date_published": "2024-11-17T16:17:23.227Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "75ccc62mo51AC0uV",
             "type": "MOD",
             "slug": {
@@ -9355,6 +9275,45 @@
                     ],
                     "size": 58071,
                     "date_published": "2024-12-05T02:39:43.120Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "to3GBCf8F6E7swKV",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "dynamiclights-reforged"
+            },
+            "name": {
+                "curseforge": "Sodium/Embeddium Dynamic Lights"
+            },
+            "id": {
+                "curseforge": "551736"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
+                    "mc_versions": [
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6044/477/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
+                    "id": "6044477",
+                    "parent_id": "551736",
+                    "hashes": {
+                        "sha1": "02e9bc7ba28147cdf2d608ecf4f2c1eab34b4652",
+                        "md5": "daaa3a9e438fddffc1db19bf8a7dfba0"
+                    },
+                    "required_dependencies": [
+                        "1103431",
+                        "394468"
+                    ],
+                    "size": 299353,
+                    "date_published": "2025-01-02T01:22:42.973Z"
                 }
             ]
         },
