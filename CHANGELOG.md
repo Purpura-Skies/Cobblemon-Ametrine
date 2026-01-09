@@ -1,0 +1,255 @@
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [8.0.0] - Unreleased
+
+### Added
+
+- Accessories Compatibility Layer
+- Advancement Plaques [Neo/Forge]
+- Alternate Current
+- AttributeFix
+- Better Compatibility Checker
+- BlueMap
+- Chat Heads
+- Chunky (Forge/NeoForge)
+- CleanView
+- Cluttered
+- CobbledGacha v.2 [Cobblemon 1.7.1]
+- Cobbleloots: Loot Balls and More!
+- Cobblemon : Simple Pokecenter's
+- Cobblemon Challenge
+- Cobblemon Move Inspector
+- Cobblemon Quests
+- Cobblemon Raid Dens
+- Cobblemon Tim Core
+- Cobblemon: CobbleStats
+- Cobblemon: Cobbled Levels
+- Cobblemon: Max Repel
+- Cobblemon: Mega Showdown
+- Cobblemon: Parting Gifts
+- Cobblemon: PlayerXP
+- Cobblemore Lib
+- Cobbleworkers
+- Colorful Hearts
+- Complete Cobblemon Collection
+- CraftPresence
+- Crash Assistant
+- Default Options
+- Drippy Loading Screen
+- Extreme sound muffler - (Neo)Forge
+- FTB Filter System
+- FTB Library (Forge)
+- FTB Quests (NeoForge)
+- FTB Quests Optimizer
+- FTB Teams (NeoForge)
+- FTB XMod Compat
+- FastBoot
+- FastFurnace
+- FastSuite
+- FastWorkbench
+- Faster Ladder Climbing
+- Flerovium
+- Forgified Fabric API
+- Fzzy Config
+- HT's TreeChop
+- In Control!
+- Iron's Rpg Tweaks
+- ItemZoom
+- Just Enough Effect Descriptions (JEED)
+- Just Enough Resources (JER)
+- Leaves Be Gone
+- Load My F***ing Tags
+- Log Begone
+- MidnightLib
+- Moog's Structure Lib (moogs_structures)
+- NeoAuth
+- No Chat Reports
+- Not Enough Recipe Book [NERB]
+- Observable
+- OctoLib
+- Panda's Falling Trees
+- PandaLib
+- Particle Rain
+- Placebo
+- Puzzles Lib
+- Radical Gyms & Structures [Cobblemon]
+- Regions Unexplored (forge/fabric)
+- Resource Pack Overrides
+- Revamped Cobblemon Outbreaks - No Caps
+- Saturn
+- Sawmill
+- ServerCore
+- Sodium/Embeddium Dynamic Lights
+- Step Height
+- Subtle Effects
+- Tim's Ultimately Comprehensive Cobblemon Edits of Destiny
+- Tips
+- Toast Control
+- Too Fast
+- Torchmaster
+- Torchmaster Cobblemon Compat
+- YetAnotherConfigLib
+- spark
+
+### Removed
+
+- Alphabet Soup (Cobblemon)
+- Ambient Environment
+- Chloride (Embeddium++/Sodium++)
+- CobbleCats [cobblemon]
+- Cobblemon: Ride On!
+- FallingTree
+- LambDynamicLights [Unofficial NeoForge]
+- LanguageReloadUnofficial
+- Simple Discord RPC
+- Sodium Extra
+
+### Updated
+
+- Neoforge 21.1.172                                                 -> Neoforge 21.1.215
+- accessories-neoforge-1.1.0-beta.43+1.21.1.jar                     -> accessories-neoforge-1.1.0-beta.52+1.21.1.jar
+- accessorify-1.4.4+1.21.1.jar                                      -> accessorify-2.3.6+1.21.1.jar
+- addonslib-neoforge-1.21.1-1.4.jar                                 -> addonslib-neoforge-1.21.1-1.10.jar
+- alltheleaks-0.1.17-beta+1.21.1-neoforge.jar                       -> alltheleaks-1.1.6+1.21.1-neoforge.jar
+- amendments-1.21-1.2.24-neoforge.jar                               -> amendments-1.21-2.0.13-neoforge.jar
+- another_furniture-neoforge-4.0.0.jar                              -> another_furniture-neoforge-4.0.2.jar
+- appleskin-neoforge-mc1.21-3.0.5.jar                               -> appleskin-neoforge-mc1.21-3.0.7.jar
+- athena-neoforge-1.21-4.0.1.jar                                    -> athena-neoforge-1.21-4.0.2.jar
+- balm-neoforge-1.21.1-21.0.31.jar                                  -> balm-neoforge-1.21.1-21.0.56.jar
+- berrypouch-neoforge-1.21.1-0.4.2-beta.jar                         -> berrypouch-neoforge-1.21.1-0.4.3-beta.jar
+- bibliocraft-1.21.1-1.5.3.jar                                      -> bibliocraft-1.21.1-1.6.2.jar
+- bibliowoods-1.21.1-1.5.1.jar                                      -> bibliowoods-1.21.1-1.6.0.jar
+- BiomesOPlenty-neoforge-1.21.1-21.1.0.8.jar                        -> BiomesOPlenty-neoforge-1.21.1-21.1.0.13.jar
+- bookshelf-neoforge-1.21.1-21.1.48.jar                             -> bookshelf-neoforge-1.21.1-21.1.80.jar
+- BuildingWands-neoforge-MC1.21-2.8.3.jar                           -> BuildingWands-neoforge-MC1.21-2.11.jar
+- catalogue-neoforge-1.21.1-1.11.0.jar                              -> catalogue-neoforge-1.21.1-1.11.2.jar
+- cherishedworlds-neoforge-10.1.0+1.21.1.jar                        -> cherishedworlds-neoforge-10.1.1+1.21.1.jar
+- cobble_contests-v1.0.4-neoforge.jar                               -> cobble_contests-neoforge-1.0.6.jar
+- CobbleFurnies-neoforge-0.5.jar                                    -> CobbleFurnies-neoforge-1.0.jar
+- Cobblemon-neoforge-1.6.1+1.21.1.jar                               -> Cobblemon-neoforge-1.7.1+1.21.1.jar
+- cobblemon-capturexp-1.6-neoforge-1.1.0.jar                        -> capturexp-neoforge-1.7.1-1.3.0.jar
+- cobblemon-counter-1.6-neoforge-1.5.0.jar                          -> counter-neoforge-1.7.1-1.9.0.jar
+- fightorflight-neoforge-0.8.1.jar                                  -> fightorflight-neoforge-0.10.5.jar
+- fireworkcapsules-neoforge-1.0.0+1.21.1+hotfix.jar                 -> fireworkcapsules-neoforge-1.1.0+1.21.1.jar
+- cobblemonintegrations-neoforge-1.21.1-1.1.2.jar                   -> cobblemonintegrations-neoforge-1.21.1-1.1.4.jar
+- Cobblemon Interface v1.4.1.zip                                    -> Cobblemon Interface v1.6.0.zip
+- Cobblemon Interface Modded v1.9.1.zip                             -> Cobblemon Interface Modded v1.9.4.zip
+- cobblemonoutbreaks-neoforge-1.0.0-1.21.1.jar                      -> cobblemonoutbreaks-neoforge-1.0.1-1.21.1.jar
+- cobblenav-neoforge-2.2.2.jar                                      -> cobblenav-neoforge-2.2.5.jar
+- Cobblepedia-NeoForge-0.7.0.jar                                    -> Cobblepedia-NeoForge-0.7.1.jar
+- CobblemonSizeVariationNeoforge-1.1.0+1.6.1.jar                    -> CobblemonSizeVariationNeoforge-1.4.0+1.7.0.jar
+- cobblemon-spawn-notification-1.6-neoforge-1.3.6.jar               -> spawnnotification-neoforge-1.7.1-2.2.2.jar
+- cobblemon-unchained-1.6-neoforge-1.2.0.jar                        -> unchained-neoforge-1.7.1-1.7.1.jar
+- Cobblemon-Utility+-neoforge-1.6.1.jar                             -> Cobblemon-Utility+-neoforge-1.7.1-NORECIPES - Copy.jar
+- cobblemonarmory-1.3.2-neoforge-1.21.1.jar                         -> cobblemonarmory-1.4.4-neoforge-1.21.1.jar
+- SafePastures-1.1.0+1.21.1.jar                                     -> SafePastures-1.1.1+1.21.1.jar
+- cobweb-neoforge-1.21-1.3.2.jar                                    -> cobweb-neoforge-1.21-1.4.0.jar
+- collective-1.21.1-8.3.jar                                         -> collective-1.21.1-8.13.jar
+- comforts-neoforge-9.0.3+1.21.1.jar                                -> comforts-neoforge-9.0.4+1.21.1.jar
+- ComplementaryReimagined_r5.5.1.zip                                -> ComplementaryReimagined_r5.6.1.zip
+- ComplementaryUnbound_r5.5.1.zip                                   -> ComplementaryUnbound_r5.6.1.zip
+- connectivity-1.21.1-7.1.jar                                       -> connectivity-1.21.1-7.6.jar
+- Controlling-neoforge-1.21.1-19.0.4.jar                            -> Controlling-neoforge-1.21.1-19.0.5.jar
+- Corgilib-NeoForge-1.21.1-5.0.0.3.jar                              -> Corgilib-NeoForge-1.21.1-5.0.0.7.jar
+- craftingtweaks-neoforge-1.21.1-21.1.5.jar                         -> craftingtweaks-neoforge-1.21.1-21.1.6.jar
+- CraterLib-NeoForge-1.21-2.1.3.jar                                 -> CraterLib-Neoforge-1.21-3.0.1.jar
+- culturaldelights-0.17.2.jar                                       -> culturaldelights-0.17.7.jar
+- curios-neoforge-9.2.2+1.21.1.jar                                  -> curios-neoforge-9.5.1+1.21.1.jar
+- darkpaintings-neoforge-1.21.1-21.1.2.jar                          -> darkpaintings-neoforge-1.21.1-21.1.7.jar
+- displaydelight-1.2.0.jar                                          -> displaydelight-1.4.0.jar
+- doubledoors-1.21.1-7.0.jar                                        -> doubledoors-1.21.1-7.2.jar
+- dynamiccrosshair-9.3+1.21.1-neoforge.jar                          -> dynamiccrosshair-9.11+1.21.1-neoforge.jar
+- dynamic-fps-3.9.0+minecraft-1.21.0-neoforge.jar                   -> dynamic-fps-3.11.3+minecraft-1.21.0-neoforge.jar
+- E19 Cobblemon Minimap Icons.zip                                   -> E19 Cobblemon Minimap Icons.zip
+- Emojiful-Neoforge-1.21-5.1.5-all.jar                              -> Emojiful-Neoforge-1.21-5.2.1-all.jar
+- enchdesc-neoforge-1.21.1-21.1.5.jar                               -> enchdesc-neoforge-1.21.1-21.1.9.jar
+- entityculling-neoforge-1.7.3-mc1.21.jar                           -> entityculling-neoforge-1.9.5-mc1.21.1.jar
+- fancymenu_neoforge_3.4.6_MC_1.21.1.jar                            -> fancymenu_neoforge_3.8.1_MC_1.21.1.jar
+- farmers-cutting-oh-the-biomes-weve-gone-1.21.1-2.0a-neoforge.jar  -> farmers-cutting-oh-the-biomes-weve-gone-1.21.1-2.1-neoforge.jar
+- FarmersDelight-1.21.1-1.2.7.jar                                   -> FarmersDelight-1.21.1-1.2.9.jar
+- farsight-1.21-3.8.jar                                             -> farsight-1.21.1-4.5.jar
+- Forgematica-0.2.1-mc1.21.1.jar                                    -> forgematica-0.4.1+mc1.21.1.jar
+- FramedBlocks-10.2.5.jar                                           -> FramedBlocks-10.5.1.jar
+- fruitsdelight-1.2.7.jar                                           -> fruitsdelight-1.2.11.jar
+- geckolib-neoforge-1.21.1-4.7.3.jar                                -> geckolib-neoforge-1.21.1-4.8.3.jar
+- Geophilic v3.2 f15-61.jar                                         -> Geophilic v3.4.5.mod.jar
+- globalpacks-neoforge-1.21-21.0.1.jar                              -> globalpacks-neoforge-1.21.1-21.0.6.jar
+- handcrafted-neoforge-1.21.1-4.0.2.jar                             -> handcrafted-neoforge-1.21.1-4.0.3.jar
+- highlight-neoforge-1.21-3.0.0.jar                                 -> highlight-neoforge-1.21.9-3.9.0.jar
+- Iceberg-1.21.1-neoforge-1.2.9.2.jar                               -> Iceberg-1.21.1-neoforge-1.3.2.jar
+- ImmediatelyFast-NeoForge-1.6.5+1.21.1.jar                         -> ImmediatelyFast-NeoForge-1.6.9+1.21.1.jar
+- immersive_aircraft-1.2.4+1.21.1-neoforge.jar                      -> immersive_aircraft-1.4.1+1.21.1-neoforge.jar
+- invtweaks-1.21.1-1.2.0.jar                                        -> invtweaks-1.21.1-1.3.2.jar
+- iris-neoforge-1.8.8+mc1.21.1.jar                                  -> iris-neoforge-1.8.12+mc1.21.1.jar
+- Jade-1.21.1-NeoForge-15.9.2.jar                                   -> Jade-1.21.1-NeoForge-15.10.4.jar
+- jamlib-neoforge-1.2.2-build.2+1.21.1.jar                          -> jamlib-neoforge-1.3.5+1.21.1.jar
+- jearchaeology-1.21.0-1.1.5.jar                                    -> jearchaeology-1.21.1-1.1.6.jar
+- jei-1.21.1-neoforge-19.21.0.247.jar                               -> jei-1.21.1-neoforge-19.27.0.340.jar
+- kotlinforforge-5.7.0-all.jar                                      -> kotlinforforge-5.10.0-all.jar
+- lithium-neoforge-0.14.7+mc1.21.1.jar                              -> lithium-neoforge-0.15.1+mc1.21.1.jar
+- lithostitched-neoforge-1.21.1-1.4.5.jar                           -> lithostitched-1.5.7-neoforge-1.21.1.jar
+- LongerChatHistory-neoforge-1.6.jar                                -> LongerChatHistory-neoforge-1.7.jar
+- lootr-neoforge-1.21-1.10.35.89.jar                                -> lootr-neoforge-1.21.1-1.11.36.110.jar
+- mes-1.3.5-1.21.jar                                                -> MoogsEndStructures-1.21-2.0.1.jar
+- mns-1.0.8-1.21.jar                                                -> MoogsNetherStructures-1.21-2.0.31.jar
+- MaFgLib-0.2.7-mc1.21.1.jar                                        -> mafglib-0.4.2+mc1.21.1.jar
+- mcwbiomesoplenty-neoforge-1.21.1-1.2.jar                          -> mcwbiomesoplenty-neoforge-1.21.1-1.5.jar
+- mcw-fences-1.2.0-1.21.1neoforge.jar                               -> mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar
+- mcw-furniture-3.3.0-mc1.21.1neoforge.jar                          -> mcw-furniture-3.4.1-mc1.21.1neoforge.jar
+- mcw-holidays-1.1.0-mc1.21.1neoforge.jar                           -> mcw-holidays-1.1.2-mc1.21.1neoforge.jar
+- mcw-lights-1.1.2-mc1.21.1neoforge.jar                             -> mcw-lights-1.1.5-mc1.21.1neoforge.jar
+- mcw-paths-1.1.0neoforge-mc1.21.1.jar                              -> mcw-mcwpaths-1.1.1-mc1.21.1neoforge.jar
+- mcw-stairs-1.0.1-1.21.1neoforge.jar                               -> mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar
+- mcw-trapdoors-1.1.4-mc1.21.1neoforge.jar                          -> mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar
+- mcw-windows-2.3.0-mc1.21.1neoforge.jar                            -> mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar
+- modernfix-neoforge-5.20.2+mc1.21.1.jar                            -> modernfix-neoforge-5.25.1+mc1.21.1.jar
+- moonlight-1.21-2.18.13-neoforge.jar                               -> moonlight-1.21-2.29.4-neoforge.jar
+- MoreCobblemonTweaks-neoforge-1.0.2.jar                            -> MoreCobblemonTweaks-neoforge-1.2.1.jar
+- Better-Leaves-9.0.zip                                             -> Better-Leaves-9.4.zip
+- MythsAndLegends-neoforge-1.7.2-Hotfix.jar                         -> MythsAndLegends-neoforge-1.9.0.jar
+- notenoughanimations-neoforge-1.9.2-mc1.21.jar                     -> notenoughanimations-neoforge-1.11.1-mc1.21.1.jar
+- Oh-The-Biomes-Weve-Gone-NeoForge-2.3.8.jar                        -> Oh-The-Biomes-Weve-Gone-NeoForge-2.5.4.jar
+- Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.0.6.jar                 -> Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.1.2.jar
+- particular-1.21.1-NeoForge-1.1.4.jar                              -> particular-1.21.1-NeoForge-1.1.7.jar
+- Patchouli-1.21-88-NEOFORGE.jar                                    -> Patchouli-1.21.1-92-NEOFORGE.jar
+- polymorph-neoforge-1.0.10+1.21.1.jar                              -> polymorph-neoforge-1.1.0+1.21.1.jar
+- PrettyPipes-1.18.1-all.jar                                        -> PrettyPipes-1.21.2-all.jar
+- prickle-neoforge-1.21.1-21.1.6.jar                                -> prickle-neoforge-1.21.1-21.1.11.jar
+- RCT Trainers+ [1.6] v2.0.zip                                      -> RCT Trainers+ [1.6] v2.1.zip
+- rctmod-neoforge-1.21.1-0.16.1-beta.jar                            -> rctmod-neoforge-1.21.1-0.17.4-beta.jar
+- rctapi-neoforge-1.21.1-0.13.4-beta.jar                            -> rctapi-neoforge-1.21.1-0.14.5-beta.jar
+- rpc-1.1.2+1.20.3-1.21.4-neoforge.jar                              -> rpc-1.2.3+1.20.5-1.21.4-neoforge.jar
+- resourcefullib-neoforge-1.21-3.0.11.jar                           -> resourcefullib-neoforge-1.21-3.0.12.jar
+- scholar-neoforge-1.21.1-1.1.7.jar                                 -> scholar-neoforge-1.21.1-1.1.11.1.jar
+- selfexpression-2.21.4-neoforge-1.21.1.jar                         -> selfexpression-2.22a-neoforge-1.21.1.jar
+- shulkerboxtooltip-neoforge-5.1.3+1.21.1.jar                       -> shulkerboxtooltip-neoforge-5.1.8+1.21.1.jar
+- voicechat-neoforge-1.21.1-2.5.26.jar                              -> voicechat-neoforge-1.21.1-2.6.11.jar
+- SimpleTMs-neoforge-2.1.2.jar                                      -> SimpleTMs-neoforge-2.3.3.jar
+- sit-1.21-1.3.5.jar                                                -> sit-1.21.1-1.4.jar
+- sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1.jar                  -> sodiumoptionsmodcompat-neoforge-1.0.0-1.21.1.jar
+- sophisticatedbackpacks-1.21.1-3.23.5.1202.jar                     -> sophisticatedbackpacks-1.21.1-3.25.22.1487.jar
+- sophisticatedcore-1.21.1-1.2.23.895.jar                           -> sophisticatedcore-1.21.1-1.3.100.1348.jar
+- sophisticatedstorage-1.21.1-1.3.10.1076.jar                       -> sophisticatedstorage-1.21.1-1.5.19.1415.jar
+- storagedelight-24.12.15-1.21-neoforge.jar                         -> storagedelight-25.12.09-1.21-neoforge.jar
+- supermartijn642corelib-1.1.18a-neoforge-mc1.21.jar                -> supermartijn642corelib-1.1.19-neoforge-mc1.21.jar
+- supplementaries-1.21-3.1.8-neoforge.jar                           -> supplementaries-1.21-3.5.16-neoforge.jar
+- tectonic-neoforge-1.21.1-2.4.3.jar                                -> tectonic-3.0.19-neoforge-1.21.1.jar
+- toms_storage-1.21-2.1.3.jar                                       -> toms_storage-1.21-2.2.4.jar
+- Tomtaru's Cobblemon  Farmer's Delight Tweaks - 1.21.1 - R.1.3.jar -> Tomtaru's Cobblemon  Farmer's Delight Tweaks - 1.21.1 - R.1.10.jar
+- txnilib-neoforge-1.0.21-1.21.1.jar                                -> txnilib-neoforge-1.0.24-1.21.1.jar
+- car-neoforge-1.21.1-1.0.34.jar                                    -> car-neoforge-1.21.1-1.0.45.jar
+- UniLib-1.0.5+1.21.1-neoforge.jar                                  -> UniLib-1.2.0+1.21.1-neoforge.jar
+- utilitarian-1.21.1-0.13.8.jar                                     -> utilitarian-1.21.1-0.17.1.jar
+- vegan-delight-neoforge-1.21.1-1.4.1.jar                           -> vegan-delight-neoforge-1.21.1-1.4.4.jar
+- visuality-forge-2.0.5.jar                                         -> visuality-forge-2.1.0.jar
+- waystones-neoforge-1.21.1-21.1.11.jar                             -> waystones-neoforge-1.21.1-21.1.25.jar
+- watut-neoforge-1.21.0-1.1.4.jar                                   -> watut-neoforge-1.21.0-1.2.7.jar
+- Xaeros_Minimap_25.2.0_NeoForge_1.21.jar                           -> xaerominimap-neoforge-1.21.1-25.3.5.jar
+- XaerosWorldMap_1.39.4_NeoForge_1.21.jar                           -> xaeroworldmap-neoforge-1.21.1-1.40.6.jar
+- libIPN-neoforge-1.21-6.3.1.jar                                    -> libIPN-neoforge-1.21.1-6.6.2.jar
+- owo-lib-neoforge-0.12.15.1-beta.3+1.21.jar                        -> owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar
