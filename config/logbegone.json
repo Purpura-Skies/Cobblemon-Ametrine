@@ -1,0 +1,18 @@
+{
+  "logbegone": {
+    "phrases": [
+      "Disconnecting VANILLA connection attempt",
+      "Channels ",
+	  "Could not determine spawn bucket of",
+	  "Found reference to unknown structure",
+	  "Unknown structure start:"
+    ],
+    "regex": [
+      "Disconnecting VANILLA connection attempt",
+      "Channels ",
+	  "Could not determine spawn bucket of",
+	  "Found reference to unknown structure",
+	  "Unknown structure start:"
+    ]
+  }
+}
