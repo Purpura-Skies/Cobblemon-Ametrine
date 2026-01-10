@@ -1,0 +1,373 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "ii_farming_and_food"
+	group: "28843B9FB0224E7E"
+	id: "2901C37C7BBE8C88"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "24620A08F6590AAA"
+			rewards: [{
+				count: 3
+				id: "4BD47668FCD17487"
+				item: {
+					count: 1
+					id: "cobblemon:full_heal"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "58578B3D5D6B98B1"
+				item: { count: 1, id: "cobblemon:healing_machine" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["24620A08F6590AAA"]
+			id: "0BF6B24E57E35463"
+			rewards: [{
+				count: 3
+				id: "265761ABA0F1B88B"
+				item: {
+					count: 1
+					id: "cobblemon:revive"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 32L
+				id: "4562885798067B9F"
+				item: { count: 1, id: "cobblemon:potion" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["0BF6B24E57E35463"]
+			id: "23A2EB8219FF6D48"
+			rewards: [{
+				count: 5
+				id: "1E68F0A3EB5AEC3E"
+				item: {
+					count: 1
+					id: "cobblemon:energy_root"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 32L
+				id: "3582F09FFFA7A938"
+				item: { count: 1, id: "cobblemon:super_potion" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["23A2EB8219FF6D48"]
+			dependency_requirement: "one_completed"
+			id: "2F39962AAA233659"
+			rewards: [{
+				count: 3
+				id: "1864B2C266D54EAC"
+				item: {
+					count: 1
+					id: "cobblemon:max_revive"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 32L
+				id: "041FE87CAE93F194"
+				item: { count: 1, id: "cobblemon:hyper_potion" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2F39962AAA233659"]
+			id: "78C4FC2ECC9E33B7"
+			rewards: [{
+				count: 5
+				id: "3DE9008BB20E5E88"
+				item: {
+					count: 1
+					id: "cobblemon:lum_berry"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 32L
+				id: "513F898FA0715329"
+				item: { count: 1, id: "cobblemon:max_potion" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["24620A08F6590AAA"]
+			id: "769D9A4E33F8F153"
+			rewards: [{
+				id: "0298F093A4E9DA7B"
+				item: {
+					count: 1
+					id: "cobblemon:pomeg_berry"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 10L
+				id: "623696AB132798EF"
+				item: { count: 1, id: "cobblemon:potion" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["24620A08F6590AAA"]
+			id: "35B20CCFD622696C"
+			rewards: [{
+				id: "70F26874C714ADDB"
+				item: {
+					count: 1
+					id: "cobblemon:kelpsy_berry"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 10L
+				id: "4930B1BE1D1D55CB"
+				item: { count: 1, id: "cobblemon:potion" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["769D9A4E33F8F153"]
+			id: "106826B78A5B5ED6"
+			rewards: [{
+				id: "6A652EFDD2B98DEA"
+				item: {
+					count: 1
+					id: "cobblemon:qualot_berry"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 32L
+				id: "726205F5A737D269"
+				item: { count: 1, id: "cobblemon:pomeg_berry" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["35B20CCFD622696C"]
+			id: "185DD70586131618"
+			rewards: [{
+				id: "5828D9194B7E9C76"
+				item: {
+					count: 1
+					id: "cobblemon:hondew_berry"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 32L
+				id: "225C3A13DE3DE1FA"
+				item: { count: 1, id: "cobblemon:kelpsy_berry" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["185DD70586131618"]
+			id: "74B32F73A3F4CAF7"
+			rewards: [{
+				id: "337446F4F7ABC36D"
+				item: {
+					count: 1
+					id: "cobblemon:grepa_berry"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 32L
+				id: "7D3C596EC60295A6"
+				item: { count: 1, id: "cobblemon:hondew_berry" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["106826B78A5B5ED6"]
+			id: "39AE84C42F4EDEAC"
+			rewards: [{
+				id: "58AD953B228402BF"
+				item: {
+					count: 1
+					id: "cobblemon:tamato_berry"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 32L
+				id: "5F78AC00195C1751"
+				item: { count: 1, id: "cobblemon:qualot_berry" }
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["24620A08F6590AAA"]
+			id: "2129C475A2DA59EA"
+			rewards: [{
+				id: "668011CB27E6D466"
+				item: {
+					count: 1
+					id: "cobblemon:exp_share"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					consume_items: true
+					id: "4112F72B4E1C3BC4"
+					item: { count: 1, id: "cobblemon:hp_up" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "7BAD29D0A18EF478"
+					item: { count: 1, id: "cobblemon:carbos" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "0A3D6E75C61F6CB1"
+					item: { count: 1, id: "cobblemon:iron" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "0BCD4F76F375FE8F"
+					item: { count: 1, id: "cobblemon:calcium" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "78762A5C8A2670F2"
+					item: { count: 1, id: "cobblemon:zinc" }
+					type: "item"
+				}
+				{
+					consume_items: true
+					id: "3863D6483B695778"
+					item: { count: 1, id: "cobblemon:protein" }
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: 5.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["78C4FC2ECC9E33B7"]
+			id: "53AE74FFBB4EC3ED"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5EFBF753BA3A4D95"
+				table_id: 629873520574203498L
+				type: "random"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "2F86CDE6A03524AA"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:apricorns)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 5.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["78C4FC2ECC9E33B7"]
+			id: "36D4EC2F829B688A"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1E9D67B9B42BB680"
+				table_id: 1877035922260262601L
+				type: "choice"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "48862E1533CBE075"
+				item: { count: 1, id: "cobblemon:full_restore" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["78C4FC2ECC9E33B7"]
+			id: "7DD81E315E12C232"
+			rewards: [{
+				id: "57F5539A0CEA8534"
+				type: "xp_levels"
+				xp_levels: 30
+			}]
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "09AEC91D5F8E67AE"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:mints)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["24620A08F6590AAA"]
+			id: "4B6CB110B48A2721"
+			rewards: [{
+				count: 4
+				id: "27D5E39B304C427C"
+				item: {
+					count: 1
+					id: "cobblemon:full_restore"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 64L
+				id: "1644FD84D695D6B3"
+				item: { count: 1, id: "cobblemon:full_heal" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -4.0d
+		}
+	]
+}

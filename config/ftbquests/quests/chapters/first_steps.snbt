@@ -1,0 +1,626 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "first_steps"
+	group: "28843B9FB0224E7E"
+	icon: {
+		id: "minecraft:crafting_table"
+	}
+	id: "5AB785342207B899"
+	order_index: 0
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			id: "483EA248B41F7FE9"
+			tasks: [{
+				id: "0274BD7CCBC08DF8"
+				item: { count: 1, id: "minecraft:crafting_table" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["483EA248B41F7FE9"]
+			id: "3193EEEDCB438D7E"
+			tasks: [{
+				id: "211F76207858285F"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:apricorns)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["3193EEEDCB438D7E"]
+			id: "51A1BE5C85047A4E"
+			tasks: [{
+				id: "6FDBBC7759E9F01A"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:tumblestones)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["51A1BE5C85047A4E"]
+			id: "4FCFA22B4871EB0A"
+			tasks: [{
+				id: "4E132224F0759A40"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:ancient_poke_balls)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["1278E6159402498F"]
+			id: "450189AD59025B65"
+			tasks: [{
+				id: "1B2596D5F1DC2DAC"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:tier_1_poke_balls)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["450189AD59025B65"]
+			id: "5222C54639AD9CA5"
+			tasks: [{
+				id: "00A8B0F7370CA981"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:tier_2_poke_balls)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["5222C54639AD9CA5"]
+			id: "06D107A1E5E90AF5"
+			tasks: [{
+				id: "2577314F7FABEF8B"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:tier_3_poke_balls)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["06D107A1E5E90AF5"]
+			id: "09AB66793EBEA796"
+			tasks: [{
+				id: "03BB442B73D363F3"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:tier_4_poke_balls)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["09AB66793EBEA796"]
+			id: "05F290799F795334"
+			tasks: [{
+				id: "38B2ECD8AA0A4DA6"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:tier_5_poke_balls)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["3193EEEDCB438D7E"]
+			id: "1278E6159402498F"
+			tasks: [{
+				id: "46092D2569768850"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:poke_balls)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: -0.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["1278E6159402498F"]
+			id: "26FC60A2BBEF1E29"
+			tasks: [
+				{
+					action: "throw_ball"
+					amount: 1L
+					biome: ""
+					dex_progress: "seen"
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "13B3368B5C861CB0"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					poke_ball_used: ""
+					pokemon: ""
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+				{
+					action: "catch"
+					amount: 1L
+					biome: ""
+					dex_progress: "seen"
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "495D330FC783F694"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					poke_ball_used: ""
+					pokemon: ""
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+			]
+			x: 0.5d
+			y: -4.0d
+		}
+		{
+			dependencies: ["573C0BF4A8E9324F"]
+			id: "1F0D6844C573F88B"
+			tasks: [{
+				id: "18F52790D14070B6"
+				item: { count: 1, id: "minecraft:copper_ingot" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["573C0BF4A8E9324F"]
+			id: "04DD4CF8AE8E0FD2"
+			tasks: [{
+				id: "08048F7B5AA97AA0"
+				item: { count: 1, id: "minecraft:iron_ingot" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["7B99FE6012874D45"]
+			id: "7EEB498E691FE545"
+			tasks: [{
+				id: "49B48116AD10A21A"
+				item: { count: 1, id: "minecraft:gold_ingot" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7B99FE6012874D45"]
+			id: "7EA29C825A7A1892"
+			tasks: [{
+				id: "5B64CB699D4F6050"
+				item: { count: 1, id: "minecraft:diamond" }
+				type: "item"
+			}]
+			x: 5.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["483EA248B41F7FE9"]
+			id: "1B6DE216640481DA"
+			tasks: [{
+				id: "1756C89DE21DCF1E"
+				item: { count: 1, id: "minecraft:wooden_pickaxe" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["2D43A3B99E7F149C"]
+			id: "5701C163E604B3E4"
+			tasks: [{
+				id: "42F120B3AAFAB494"
+				item: { count: 1, id: "minecraft:stone_pickaxe" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["483EA248B41F7FE9"]
+			dependency_requirement: "one_completed"
+			id: "3F233C2B610175DC"
+			tasks: [{
+				id: "27A092B8579ABB35"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(comforts:sleeping_bags)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1B6DE216640481DA"]
+			id: "2D43A3B99E7F149C"
+			tasks: [{
+				count: 16L
+				id: "4A31151A5D329C06"
+				item: { count: 1, id: "minecraft:cobblestone" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["2D43A3B99E7F149C"]
+			id: "573C0BF4A8E9324F"
+			tasks: [{
+				id: "3EA1292A79AB36AD"
+				item: { count: 1, id: "minecraft:furnace" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["573C0BF4A8E9324F"]
+			id: "5BE5A4D9EC486973"
+			tasks: [{
+				id: "4486F1F7928FAEAD"
+				item: { count: 1, id: "minecraft:charcoal" }
+				only_from_crafting: true
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["04DD4CF8AE8E0FD2"]
+			id: "7B99FE6012874D45"
+			tasks: [{
+				id: "356ED7A93B951FA1"
+				item: { count: 1, id: "minecraft:iron_pickaxe" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["7EA29C825A7A1892"]
+			id: "1663BC8374998CA6"
+			tasks: [{
+				id: "1A5D099070CA3B7E"
+				item: { count: 1, id: "minecraft:diamond_pickaxe" }
+				type: "item"
+			}]
+			x: 6.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["208E2076AF67D5D3"]
+			id: "6E14CC4C1540B9D4"
+			tasks: [{
+				id: "4F0D9A1A7F12AD54"
+				item: { count: 1, id: "minecraft:netherite_pickaxe" }
+				type: "item"
+			}]
+			x: 8.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["04DD4CF8AE8E0FD2"]
+			id: "3438D87FD2D37CF9"
+			tasks: [
+				{
+					id: "42937BDA70B1F31E"
+					item: { count: 1, id: "minecraft:iron_helmet" }
+					type: "item"
+				}
+				{
+					id: "111270BD64ED9D3A"
+					item: { count: 1, id: "minecraft:iron_chestplate" }
+					type: "item"
+				}
+				{
+					id: "47DAC31ACE2C55ED"
+					item: { count: 1, id: "minecraft:iron_leggings" }
+					type: "item"
+				}
+				{
+					id: "6328217D71F8ACA9"
+					item: { count: 1, id: "minecraft:iron_boots" }
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["7EA29C825A7A1892"]
+			id: "02B685E35F0B1CD6"
+			tasks: [
+				{
+					id: "2A5327FAFB3AFFF0"
+					item: { count: 1, id: "minecraft:diamond_helmet" }
+					type: "item"
+				}
+				{
+					id: "4073B70A23BF9EB5"
+					item: { count: 1, id: "minecraft:diamond_chestplate" }
+					type: "item"
+				}
+				{
+					id: "5B52D1B90DE70019"
+					item: { count: 1, id: "minecraft:diamond_leggings" }
+					type: "item"
+				}
+				{
+					id: "04DFCCF08B16C30F"
+					item: { count: 1, id: "minecraft:diamond_boots" }
+					type: "item"
+				}
+			]
+			x: 6.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1663BC8374998CA6"]
+			id: "208E2076AF67D5D3"
+			tasks: [{
+				id: "7CFAB3D93E602E6A"
+				item: { count: 1, id: "minecraft:netherite_ingot" }
+				type: "item"
+			}]
+			x: 7.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["208E2076AF67D5D3"]
+			id: "5D7D9CB8FAC82285"
+			tasks: [
+				{
+					id: "3FC41309D82EA39E"
+					item: { count: 1, id: "minecraft:netherite_helmet" }
+					type: "item"
+				}
+				{
+					id: "7B842DA85E32BEAB"
+					item: { count: 1, id: "minecraft:netherite_chestplate" }
+					type: "item"
+				}
+				{
+					id: "0236DD47237A37B5"
+					item: { count: 1, id: "minecraft:netherite_leggings" }
+					type: "item"
+				}
+				{
+					id: "527185B02FDF203D"
+					item: { count: 1, id: "minecraft:netherite_boots" }
+					type: "item"
+				}
+			]
+			x: 8.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["59C17C2482B32910"]
+			id: "7785F4C9C5168C32"
+			tasks: [{
+				id: "2E493CDA1A563BE0"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:beds)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7785F4C9C5168C32"]
+			id: "094D9302B53EE225"
+			tasks: [{
+				id: "6013B4EB0424CCCF"
+				item: { count: 1, id: "minecraft:chest" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["7785F4C9C5168C32"]
+			id: "5F560FEED8FB2E10"
+			tasks: [{
+				id: "66CC5CC6540D5078"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:hoes)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5F560FEED8FB2E10"]
+			id: "28C80BB8BDE38548"
+			tasks: [{
+				id: "1776BD4AD0B145E1"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:crops)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["7785F4C9C5168C32"]
+			id: "3A88F116F5349A26"
+			rewards: [{
+				count: 32
+				id: "53326B4EF2BB1CFC"
+				item: {
+					count: 1
+					id: "minecraft:oak_fence"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "65D9AC64C658258C"
+				item: { count: 1, id: "cobblemon:pasture" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["3A88F116F5349A26"]
+			id: "5AB1357807392A5A"
+			rewards: [{
+				id: "78E2E392F7FAF74F"
+				item: {
+					count: 1
+					id: "minecraft:bucket"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				action: "catch"
+				amount: 1L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "3CA75DFA3BE76914"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:miltank"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"66DD56F2AE04093F"
+				"5AB1357807392A5A"
+			]
+			id: "401C40AAEE14ECE8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "59A93FE5D8F7E811"
+				table_id: 629873520574203498L
+				type: "choice"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 10L
+				id: "38C330BEFC2887E0"
+				item: { count: 1, id: "minecraft:milk_bucket" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3A88F116F5349A26"]
+			id: "56836145DBC8A8AD"
+			rewards: [{
+				id: "53B56D4EA5FAF41B"
+				item: {
+					components: {
+						"minecraft:enchantments": {
+							levels: {
+								"minecraft:unbreaking": 1
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:shears"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				action: "catch"
+				amount: 1L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "0B1FEF82147E57A6"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:wooloo,cobblemon:mareep"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"56836145DBC8A8AD"
+				"66DD56F2AE04093F"
+			]
+			id: "05ECDFD544D271FF"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "63E903BA1C961AD9"
+					table_id: 2554093449811376595L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1A43595BAB54A0AC"
+					table_id: 629873520574203498L
+					type: "choice"
+				}
+			]
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "39331CE39E62D302"
+				item: { count: 1, id: "minecraft:white_wool" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["3F233C2B610175DC"]
+			icon: {
+				components: {
+					"ftbquests:icon": "minecraft:textures/map/decorations/plains_village.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "59C17C2482B32910"
+			tasks: [{
+				id: "223E4EE7D99A3F58"
+				structure: "#minecraft:village"
+				type: "structure"
+			}]
+			x: -1.0d
+			y: 1.0d
+		}
+	]
+}

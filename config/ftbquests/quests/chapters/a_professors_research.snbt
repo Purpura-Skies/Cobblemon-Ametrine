@@ -1,0 +1,6706 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "a_professors_research"
+	group: ""
+	hide_quest_details_until_startable: true
+	hide_quest_until_deps_visible: true
+	icon: {
+		id: "cluttered:book_open"
+	}
+	id: "2312EE8F52CBF56A"
+	order_index: 1
+	progression_mode: "flexible"
+	quest_links: [ ]
+	quests: [
+		{
+			id: "7324DAB8EE87DAC7"
+			tasks: [{
+				action: "have_registered"
+				amount: 1L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "0FEF0D95EEEF2A1D"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 1.5d
+			y: 2.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/normal.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "42F6AB1CEC3A3902"
+			tasks: [{
+				action: "catch"
+				amount: 3L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "39C5584AAC61BEA8"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "normal"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 3.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["42F6AB1CEC3A3902"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/normal.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "441E721B860EF365"
+			tasks: [{
+				action: "catch"
+				amount: 8L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "14CED4FB4C6D7493"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "normal"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 3.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["441E721B860EF365"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/normal.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "507516F435862D37"
+			tasks: [{
+				action: "catch"
+				amount: 15L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "5DCEC39EA4B066D5"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "normal"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 3.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["507516F435862D37"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/normal.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "3CF8E500DD409439"
+			tasks: [{
+				action: "catch"
+				amount: 25L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "3DFD4139B3317873"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "normal"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 3.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["3CF8E500DD409439"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/normal.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "36BABAAB9C0921BE"
+			tasks: [{
+				action: "catch"
+				amount: 50L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "3B648FEBF7E12183"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "normal"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 3.0d
+			y: 14.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/water.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "054CC42E09A281E3"
+			tasks: [{
+				action: "catch"
+				amount: 3L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "685F7981DAB81CC9"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "water"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 5.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["054CC42E09A281E3"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/water.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "79B999792D7A0C91"
+			tasks: [{
+				action: "catch"
+				amount: 8L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "0A755A2F41ED520F"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "water"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 5.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["79B999792D7A0C91"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/water.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "077F906A4A9F6467"
+			tasks: [{
+				action: "catch"
+				amount: 15L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "781C95346A9341F5"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "water"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 5.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["077F906A4A9F6467"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/water.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "731CAB0CEFF0039D"
+			tasks: [{
+				action: "catch"
+				amount: 25L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "7D7BD27A7F3ACA1A"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "water"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 5.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["731CAB0CEFF0039D"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/water.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "0D9CBA80872D5BED"
+			tasks: [{
+				action: "catch"
+				amount: 50L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "6F0A88988905556F"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "water"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 5.0d
+			y: 14.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/fire.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "621E0327A0389CBF"
+			tasks: [{
+				action: "catch"
+				amount: 3L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1C1E1EDA949279C8"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "fire"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 4.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["621E0327A0389CBF"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/fire.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "398F48B0F4A1B459"
+			tasks: [{
+				action: "catch"
+				amount: 8L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "790ACF93F69505AD"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "fire"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 4.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["398F48B0F4A1B459"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/fire.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "0FAA556D38A32147"
+			tasks: [{
+				action: "catch"
+				amount: 15L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "24E7A45191C43DE3"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "fire"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 4.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["0FAA556D38A32147"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/fire.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "376501E5C6CA0E99"
+			tasks: [{
+				action: "catch"
+				amount: 25L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "7AB85A0427C8F4FC"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "fire"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 4.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["376501E5C6CA0E99"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/fire.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "2C31A2E60500AF7D"
+			tasks: [{
+				action: "catch"
+				amount: 50L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1374125B665F3277"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "fire"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 4.0d
+			y: 14.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/electric.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "0CD1935ED8C62924"
+			tasks: [{
+				action: "catch"
+				amount: 3L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "354E8415C371DCCF"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "electric"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 6.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["0CD1935ED8C62924"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/electric.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "54E2F5E0A09C91E7"
+			tasks: [{
+				action: "catch"
+				amount: 8L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "48BF06221D9ADBD1"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "electric"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 6.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["54E2F5E0A09C91E7"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/electric.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "3E7B359798B52627"
+			tasks: [{
+				action: "catch"
+				amount: 15L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "777339FB511A9618"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "electric"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 6.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["3E7B359798B52627"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/electric.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "4E4DB653FE5E6926"
+			tasks: [{
+				action: "catch"
+				amount: 25L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1B8B604957B0AE6B"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "electric"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 6.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["4E4DB653FE5E6926"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/electric.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "1CF1E94864754748"
+			tasks: [{
+				action: "catch"
+				amount: 50L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "341F6FE025EB58A6"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "electric"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 6.0d
+			y: 14.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/grass.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "63CD9C8091D62B65"
+			tasks: [{
+				action: "catch"
+				amount: 3L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "5BCE919141F37E48"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "grass"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 7.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["63CD9C8091D62B65"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/grass.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "3ECA55623A3B58E0"
+			tasks: [{
+				action: "catch"
+				amount: 8L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "12306EE4A7AB3425"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "grass"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 7.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["3ECA55623A3B58E0"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/grass.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "15670FD8AF952432"
+			tasks: [{
+				action: "catch"
+				amount: 15L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "6E34124C0928891E"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "grass"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 7.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["15670FD8AF952432"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/grass.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "118CCC5E4EDE6AF9"
+			tasks: [{
+				action: "catch"
+				amount: 25L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "2B31CC038CC135C2"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "grass"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 7.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["118CCC5E4EDE6AF9"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/grass.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "6F198110217E741B"
+			tasks: [{
+				action: "catch"
+				amount: 50L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "475153B723FDA1D5"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "grass"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 7.0d
+			y: 14.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/ice.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "2A0EE228E720AF77"
+			tasks: [{
+				action: "catch"
+				amount: 3L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "3CAC795BE54D05C6"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "ice"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 8.0d
+			y: 10.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/fighting.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "5DD08BCB2E8131BC"
+			tasks: [{
+				action: "catch"
+				amount: 3L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "510AA7FC577E3A41"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "fighting"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 9.0d
+			y: 10.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/poison.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "2BCFADABFF16E43E"
+			tasks: [{
+				action: "catch"
+				amount: 3L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "2E1C4DD2872CA954"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "poison"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 10.0d
+			y: 10.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/ground.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "3C5117161708D9EB"
+			tasks: [{
+				action: "catch"
+				amount: 3L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "5D40369D7502DE20"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "ground"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 11.0d
+			y: 10.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/flying.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "3B312D990B108E43"
+			tasks: [{
+				action: "catch"
+				amount: 3L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "7229B1F23241CBFC"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "flying"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 12.0d
+			y: 10.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/psychic.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "21AF2D9B49047381"
+			tasks: [{
+				action: "catch"
+				amount: 3L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "420D5374F81C0C67"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "psychic"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 13.0d
+			y: 10.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/bug.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "0118E6845232E314"
+			tasks: [{
+				action: "catch"
+				amount: 3L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "31F30BF96127B5BE"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "bug"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 14.0d
+			y: 10.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/rock.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "5DD8F6FAC7D23A6C"
+			tasks: [{
+				action: "catch"
+				amount: 3L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "2B69D3636BCC8C22"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "rock"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 15.0d
+			y: 10.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/ghost.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "3B24012844FCC6A1"
+			tasks: [{
+				action: "catch"
+				amount: 3L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "6C6B67F4FD864101"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "ghost"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 16.0d
+			y: 10.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/dragon.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "5722A2B8C9889EAD"
+			tasks: [{
+				action: "catch"
+				amount: 3L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1A6C1BA514991399"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "dragon"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 17.0d
+			y: 10.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/dark.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "742172AF009791E7"
+			tasks: [{
+				action: "catch"
+				amount: 3L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "052F266245E0CB28"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "dark"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 18.0d
+			y: 10.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/steel.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "75E200BE693932DA"
+			tasks: [{
+				action: "catch"
+				amount: 3L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "3F4E36E87D3E0C04"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "steel"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 19.0d
+			y: 10.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/fairy.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "1C8E37326BA47D6A"
+			tasks: [{
+				action: "catch"
+				amount: 3L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "5EFA9B4E7A30C25B"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "fairy"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 20.0d
+			y: 10.0d
+		}
+		{
+			id: "4E4B562AD3CD1563"
+			tasks: [{
+				icon: {
+					id: "cobblemon:exp_candy_xs"
+				}
+				id: "2B74C78D818180CA"
+				stat: "cobblemon:evolved"
+				type: "stat"
+				value: 1
+			}]
+			x: 6.0d
+			y: 3.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/gui/interact/interact_wheel_icon_battle.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "5CEFF01EC8F6E013"
+			tasks: [{
+				action: "defeat_player,defeat_npc"
+				amount: 5L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "4D0EA11F1FFB44AB"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 4.5d
+			y: 16.5d
+		}
+		{
+			dependencies: ["7324DAB8EE87DAC7"]
+			id: "5236466ED42022FB"
+			tasks: [{
+				action: "have_registered"
+				amount: 6L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "5EE3AE89F69C6FC0"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 2.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["5236466ED42022FB"]
+			id: "420E23FD52F902A8"
+			tasks: [{
+				action: "have_registered"
+				amount: 15L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1400BB2C950E169E"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 3.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["420E23FD52F902A8"]
+			id: "0D15B660F58B410D"
+			tasks: [{
+				action: "have_registered"
+				amount: 20L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "364DC8BF877F9012"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 4.5d
+			y: 2.5d
+		}
+		{
+			hide_dependency_lines: true
+			hide_dependent_lines: true
+			icon: {
+				id: "cobblemon:pokedex_red"
+			}
+			id: "1248F362FE260C79"
+			shape: "octagon"
+			size: 2.0d
+			tasks: [{
+				action: "have_registered"
+				amount: 1025L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "51D1FFA6A9248E81"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 11.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["0D15B660F58B410D"]
+			id: "2A261B570970188D"
+			tasks: [{
+				action: "have_registered"
+				amount: 25L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "36DA50DFA7E693DD"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 5.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["2A261B570970188D"]
+			id: "7703313A47898FEB"
+			tasks: [{
+				action: "have_registered"
+				amount: 30L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1D9441C63FBA3418"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 6.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["7703313A47898FEB"]
+			id: "7354BD941A175327"
+			tasks: [{
+				action: "have_registered"
+				amount: 40L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "766949CF59D3346D"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 7.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["7354BD941A175327"]
+			id: "68FB4E735BEBCB8F"
+			tasks: [{
+				action: "have_registered"
+				amount: 50L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "40C11A398599A642"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 8.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["68FB4E735BEBCB8F"]
+			id: "494D7FEA72E15282"
+			tasks: [{
+				action: "have_registered"
+				amount: 60L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "23996ADFCD702318"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 9.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["494D7FEA72E15282"]
+			id: "564F4BC01A3EB7AC"
+			tasks: [{
+				action: "have_registered"
+				amount: 70L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1D3364EB5987BE25"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 10.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["4E4B562AD3CD1563"]
+			id: "08A82745040753F4"
+			tasks: [{
+				icon: {
+					id: "cobblemon:exp_candy_xs"
+				}
+				id: "5A3E95E97ED1F917"
+				stat: "cobblemon:evolved"
+				type: "stat"
+				value: 3
+			}]
+			x: 7.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["08A82745040753F4"]
+			id: "7CB65FCFF0804E01"
+			tasks: [{
+				icon: {
+					id: "cobblemon:exp_candy_xs"
+				}
+				id: "24709500AD3B77B4"
+				stat: "cobblemon:evolved"
+				type: "stat"
+				value: 6
+			}]
+			x: 8.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["7CB65FCFF0804E01"]
+			id: "64C2C78D05BE367D"
+			tasks: [{
+				icon: {
+					id: "cobblemon:exp_candy_xs"
+				}
+				id: "0454F6D0C04EF760"
+				stat: "cobblemon:evolved"
+				type: "stat"
+				value: 10
+			}]
+			x: 9.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["64C2C78D05BE367D"]
+			id: "69F5CDA9970044B6"
+			tasks: [{
+				icon: {
+					id: "cobblemon:exp_candy_s"
+				}
+				id: "2C91C4DF42A3B0DB"
+				stat: "cobblemon:evolved"
+				type: "stat"
+				value: 25
+			}]
+			x: 10.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["69F5CDA9970044B6"]
+			id: "21F3DCB07E4F7F50"
+			tasks: [{
+				icon: {
+					id: "cobblemon:exp_candy_s"
+				}
+				id: "28CCD87DD561EA0B"
+				stat: "cobblemon:evolved"
+				type: "stat"
+				value: 50
+			}]
+			x: 11.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["54480FFCB8951155"]
+			id: "501F17528DD1EAEF"
+			shape: "hexagon"
+			size: 1.2d
+			tasks: [{
+				icon: {
+					id: "cobblemon:exp_candy_xl"
+				}
+				id: "31F0F75E49EB174C"
+				stat: "cobblemon:evolved"
+				type: "stat"
+				value: 200
+			}]
+			x: 17.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["21F3DCB07E4F7F50"]
+			id: "4E2BA4E64CD62439"
+			tasks: [{
+				icon: {
+					id: "cobblemon:exp_candy_s"
+				}
+				id: "52B3595C4A8D99A0"
+				stat: "cobblemon:evolved"
+				type: "stat"
+				value: 75
+			}]
+			x: 12.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["4E2BA4E64CD62439"]
+			id: "0D70E7D39D7B48FD"
+			tasks: [{
+				icon: {
+					id: "cobblemon:exp_candy_m"
+				}
+				id: "74A3B8EFF8E0DD12"
+				stat: "cobblemon:evolved"
+				type: "stat"
+				value: 100
+			}]
+			x: 13.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["0D70E7D39D7B48FD"]
+			id: "454E6DF3DA0C6197"
+			tasks: [{
+				icon: {
+					id: "cobblemon:exp_candy_m"
+				}
+				id: "11BAB8B001768BB2"
+				stat: "cobblemon:evolved"
+				type: "stat"
+				value: 125
+			}]
+			x: 14.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["454E6DF3DA0C6197"]
+			id: "4E1BCBD027B677B1"
+			tasks: [{
+				icon: {
+					id: "cobblemon:exp_candy_l"
+				}
+				id: "0926216887AD0661"
+				stat: "cobblemon:evolved"
+				type: "stat"
+				value: 150
+			}]
+			x: 15.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["4E1BCBD027B677B1"]
+			id: "54480FFCB8951155"
+			tasks: [{
+				icon: {
+					id: "cobblemon:exp_candy_l"
+				}
+				id: "5972F2CAD0A03307"
+				stat: "cobblemon:evolved"
+				type: "stat"
+				value: 175
+			}]
+			x: 16.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["564F4BC01A3EB7AC"]
+			id: "28A8FDBA860BFD82"
+			tasks: [{
+				action: "have_registered"
+				amount: 80L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "7B340F8B534486A3"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 11.5d
+			y: 2.5d
+		}
+		{
+			icon: {
+				id: "mega_showdown:mega_bracelet"
+			}
+			id: "3FA6199B2D9C5308"
+			tasks: [{
+				action: "have_registered"
+				amount: 5L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: "mega"
+				gender: ""
+				id: "5741796E74BBE5FF"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 0.5d
+			y: 5.5d
+		}
+		{
+			icon: {
+				id: "mega_showdown:dynamax_band"
+			}
+			id: "08CEBE98FB042B5F"
+			tasks: [{
+				action: "have_registered"
+				amount: 5L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: "gmax"
+				gender: ""
+				id: "63579D11D9B2ED82"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 1.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["5CEFF01EC8F6E013"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/gui/interact/interact_wheel_icon_battle.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "5620501EEB260DC8"
+			tasks: [{
+				action: "defeat_player,defeat_npc"
+				amount: 10L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "221E24E7C21E1457"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 5.5d
+			y: 16.5d
+		}
+		{
+			dependencies: ["5620501EEB260DC8"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/gui/interact/interact_wheel_icon_battle.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "01B5263E851242F9"
+			tasks: [{
+				action: "defeat_player,defeat_npc"
+				amount: 15L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1776C39A68EC4227"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 6.5d
+			y: 16.5d
+		}
+		{
+			dependencies: ["01B5263E851242F9"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/gui/interact/interact_wheel_icon_battle.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "7A58CE76A1377538"
+			tasks: [{
+				action: "defeat_player,defeat_npc"
+				amount: 20L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "45371BCDF7C8D9C7"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 7.5d
+			y: 16.5d
+		}
+		{
+			dependencies: ["7A58CE76A1377538"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/gui/interact/interact_wheel_icon_battle.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "47A8DC02682C9448"
+			tasks: [{
+				action: "defeat_player,defeat_npc"
+				amount: 25L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "71AEC4C7BD8CC94B"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 8.5d
+			y: 16.5d
+		}
+		{
+			dependencies: ["47A8DC02682C9448"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/gui/interact/interact_wheel_icon_battle.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "4DFD7755E5E5C699"
+			tasks: [{
+				action: "defeat_player,defeat_npc"
+				amount: 30L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "7EF9987DAA1642E7"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 9.5d
+			y: 16.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/normal.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "095CC6B4F6A47562"
+			shape: "hexagon"
+			size: 1.2d
+			tasks: [{
+				action: "have_registered"
+				amount: 133L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "154B8A226466A340"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "normal"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 3.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["4DFD7755E5E5C699"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/gui/interact/interact_wheel_icon_battle.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "40F42F320EF853E2"
+			tasks: [{
+				action: "defeat_player,defeat_npc"
+				amount: 40L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "771B9AAD726818E3"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 10.5d
+			y: 16.5d
+		}
+		{
+			dependencies: ["40F42F320EF853E2"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/gui/interact/interact_wheel_icon_battle.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "5028C343ECBBC840"
+			tasks: [{
+				action: "defeat_player,defeat_npc"
+				amount: 50L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "3317D77EEBDE4C06"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 11.5d
+			y: 16.5d
+		}
+		{
+			dependencies: ["5028C343ECBBC840"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/gui/interact/interact_wheel_icon_battle.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "6DE1F91404B4CC88"
+			tasks: [{
+				action: "defeat_player,defeat_npc"
+				amount: 60L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "4F07FC31017A3155"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 12.5d
+			y: 16.5d
+		}
+		{
+			dependencies: ["6DE1F91404B4CC88"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/gui/interact/interact_wheel_icon_battle.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "7BC345EF0854103D"
+			tasks: [{
+				action: "defeat_player,defeat_npc"
+				amount: 70L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "37891EF26B5AA5A7"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 13.5d
+			y: 16.5d
+		}
+		{
+			dependencies: ["7BC345EF0854103D"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/gui/interact/interact_wheel_icon_battle.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "3EF5C3EDE8FCB375"
+			tasks: [{
+				action: "defeat_player,defeat_npc"
+				amount: 80L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "0515419423F498E3"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 14.5d
+			y: 16.5d
+		}
+		{
+			dependencies: ["3EF5C3EDE8FCB375"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/gui/interact/interact_wheel_icon_battle.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "1234462102848A18"
+			tasks: [{
+				action: "defeat_player,defeat_npc"
+				amount: 90L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "6D13494E43DBC54B"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 15.5d
+			y: 16.5d
+		}
+		{
+			dependencies: ["1234462102848A18"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/gui/interact/interact_wheel_icon_battle.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "36A74C4731D1C046"
+			tasks: [{
+				action: "defeat_player,defeat_npc"
+				amount: 100L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "28183BDCF6299E57"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 16.5d
+			y: 16.5d
+		}
+		{
+			dependencies: ["36A74C4731D1C046"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/gui/interact/interact_wheel_icon_battle.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "1F449555CC080388"
+			tasks: [{
+				action: "defeat_player,defeat_npc"
+				amount: 500L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "469FDF8DC57F32A2"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 17.5d
+			y: 16.5d
+		}
+		{
+			dependencies: ["1F449555CC080388"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/gui/interact/interact_wheel_icon_battle.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "59139CEE56C53534"
+			shape: "hexagon"
+			size: 1.2d
+			tasks: [{
+				action: "defeat_player,defeat_npc"
+				amount: 1000L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "6E80B2A0B7F278CD"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 18.5d
+			y: 16.5d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/fire.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "2539909D7E6271F0"
+			shape: "hexagon"
+			size: 1.2d
+			tasks: [{
+				action: "have_registered"
+				amount: 87L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "5C30115C5FB314FF"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "fire"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 4.0d
+			y: 9.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/water.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "358781F3F5DC7F20"
+			shape: "hexagon"
+			size: 1.2d
+			tasks: [{
+				action: "have_registered"
+				amount: 159L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "69E047A03AF2F498"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "water"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 5.0d
+			y: 9.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/electric.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "2491D2CE800A29E2"
+			shape: "hexagon"
+			size: 1.2d
+			tasks: [{
+				action: "have_registered"
+				amount: 73L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "04A061F5A601E68C"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "electric"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 6.0d
+			y: 9.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/grass.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "1275F0FEB9C947A6"
+			shape: "hexagon"
+			size: 1.2d
+			tasks: [{
+				action: "have_registered"
+				amount: 130L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "2F39361DA0A12DDC"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "grass"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 7.0d
+			y: 9.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/ice.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "6C3C689755DE1275"
+			shape: "hexagon"
+			size: 1.2d
+			tasks: [{
+				action: "have_registered"
+				amount: 58L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "259171E3128EA59E"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "ice"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 8.0d
+			y: 9.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/fighting.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "471597295A4C634A"
+			shape: "hexagon"
+			size: 1.2d
+			tasks: [{
+				action: "have_registered"
+				amount: 83L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "3C17809AE1015CB7"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "fighting"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 9.0d
+			y: 9.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/poison.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "5C145CB48A922B87"
+			shape: "hexagon"
+			size: 1.2d
+			tasks: [{
+				action: "have_registered"
+				amount: 87L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "6EDA8A89737FBF6D"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "poison"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 10.0d
+			y: 9.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/ground.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "18392342B1C6BD6A"
+			shape: "hexagon"
+			size: 1.2d
+			tasks: [{
+				action: "have_registered"
+				amount: 77L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "2E4FA2E169DAFEB4"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "ground"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 11.0d
+			y: 9.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/flying.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "69067A687299C36E"
+			shape: "hexagon"
+			size: 1.2d
+			tasks: [{
+				action: "have_registered"
+				amount: 113L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "153E10307B61AA46"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "flying"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 12.0d
+			y: 9.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/psychic.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "386EFDFEBC320C88"
+			shape: "hexagon"
+			size: 1.2d
+			tasks: [{
+				action: "have_registered"
+				amount: 109L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "595E1631A6C31F56"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "psychic"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 13.0d
+			y: 9.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/bug.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "597D8056657CD42B"
+			shape: "hexagon"
+			size: 1.2d
+			tasks: [{
+				action: "have_registered"
+				amount: 92L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "37005C620CADF674"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "bug"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 14.0d
+			y: 9.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/rock.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "09B84984B8BEFC86"
+			shape: "hexagon"
+			size: 1.2d
+			tasks: [{
+				action: "have_registered"
+				amount: 78L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "6551CA4C76774B90"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "rock"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 15.0d
+			y: 9.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/ghost.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "39086907115A2D82"
+			shape: "hexagon"
+			size: 1.2d
+			tasks: [{
+				action: "have_registered"
+				amount: 73L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "000F351318C1C3E3"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "ghost"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 16.0d
+			y: 9.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/dragon.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "3F5F3D527C2BB577"
+			shape: "hexagon"
+			size: 1.2d
+			tasks: [{
+				action: "have_registered"
+				amount: 76L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "44B154C1E55B1C4E"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "dragon"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 17.0d
+			y: 9.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/dark.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "769D900EF69D1086"
+			shape: "hexagon"
+			size: 1.2d
+			tasks: [{
+				action: "have_registered"
+				amount: 82L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "21F10A8745B2D3D3"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "dark"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 18.0d
+			y: 9.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/steel.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "1A5C1FF91CAED352"
+			shape: "hexagon"
+			size: 1.2d
+			tasks: [{
+				action: "have_registered"
+				amount: 78L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "41008273810E9C9C"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "steel"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 19.0d
+			y: 9.0d
+		}
+		{
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/fairy.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "069239810C8630F9"
+			shape: "hexagon"
+			size: 1.2d
+			tasks: [{
+				action: "have_registered"
+				amount: 70L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "143BCBC9500E9BB2"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "fairy"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 20.0d
+			y: 9.0d
+		}
+		{
+			icon_scale: 1.5d
+			id: "32828FF80EF4719F"
+			shape: "pentagon"
+			tasks: [
+				{
+					action: "have_registered"
+					amount: 1L
+					biome: ""
+					dex_progress: "caught"
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "6C9AE20732B89CC8"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					poke_ball_used: ""
+					pokemon: "cobblemon:bulbasaur"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+				{
+					action: "have_registered"
+					amount: 1L
+					biome: ""
+					dex_progress: "caught"
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "5E6CCB4D4C4C3FB0"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					poke_ball_used: ""
+					pokemon: "cobblemon:charmander"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+				{
+					action: "have_registered"
+					amount: 1L
+					biome: ""
+					dex_progress: "caught"
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "137E4F6FF70CC8B4"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					poke_ball_used: ""
+					pokemon: "cobblemon:squirtle"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+			]
+			x: 7.5d
+			y: 7.5d
+		}
+		{
+			icon_scale: 1.5d
+			id: "30630368627CE569"
+			shape: "pentagon"
+			tasks: [
+				{
+					action: "have_registered"
+					amount: 1L
+					biome: ""
+					dex_progress: "caught"
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "42DBD9CAF1A0F736"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					poke_ball_used: ""
+					pokemon: "cobblemon:chikorita"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+				{
+					action: "have_registered"
+					amount: 1L
+					biome: ""
+					dex_progress: "caught"
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "7C288275CD2340FD"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					poke_ball_used: ""
+					pokemon: "cobblemon:cyndaquil"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+				{
+					action: "have_registered"
+					amount: 1L
+					biome: ""
+					dex_progress: "caught"
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "0F0ADF99DD50D7B2"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					poke_ball_used: ""
+					pokemon: "cobblemon:totodile"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+			]
+			x: 8.5d
+			y: 7.5d
+		}
+		{
+			icon_scale: 1.5d
+			id: "5516E75C6287D70D"
+			shape: "pentagon"
+			tasks: [
+				{
+					action: "have_registered"
+					amount: 1L
+					biome: ""
+					dex_progress: "caught"
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "6F28C29C75C4287D"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					poke_ball_used: ""
+					pokemon: "cobblemon:treecko"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+				{
+					action: "have_registered"
+					amount: 1L
+					biome: ""
+					dex_progress: "caught"
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "24962A485523848F"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					poke_ball_used: ""
+					pokemon: "cobblemon:torchic"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+				{
+					action: "have_registered"
+					amount: 1L
+					biome: ""
+					dex_progress: "caught"
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "793147C9F85BFD27"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					poke_ball_used: ""
+					pokemon: "cobblemon:mudkip"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+			]
+			x: 9.5d
+			y: 7.5d
+		}
+		{
+			icon_scale: 1.5d
+			id: "12915727132E93FA"
+			shape: "pentagon"
+			tasks: [
+				{
+					action: "have_registered"
+					amount: 1L
+					biome: ""
+					dex_progress: "caught"
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "0E8B7B0C2A1A9D8C"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					poke_ball_used: ""
+					pokemon: "cobblemon:turtwig"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+				{
+					action: "have_registered"
+					amount: 1L
+					biome: ""
+					dex_progress: "caught"
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "5EE920A50A497799"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					poke_ball_used: ""
+					pokemon: "cobblemon:chimchar"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+				{
+					action: "have_registered"
+					amount: 1L
+					biome: ""
+					dex_progress: "caught"
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "223792BEB1DEC999"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					poke_ball_used: ""
+					pokemon: "cobblemon:piplup"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+			]
+			x: 10.5d
+			y: 7.5d
+		}
+		{
+			icon_scale: 1.5d
+			id: "5E2D9111891D2B15"
+			shape: "pentagon"
+			tasks: [
+				{
+					action: "have_registered"
+					amount: 1L
+					biome: ""
+					dex_progress: "caught"
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "26960EE78F8BEDDF"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					poke_ball_used: ""
+					pokemon: "cobblemon:snivy"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+				{
+					action: "have_registered"
+					amount: 1L
+					biome: ""
+					dex_progress: "caught"
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "7E573B05641628D2"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					poke_ball_used: ""
+					pokemon: "cobblemon:tepig"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+				{
+					action: "have_registered"
+					amount: 1L
+					biome: ""
+					dex_progress: "caught"
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "7E8810340D4594D9"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					poke_ball_used: ""
+					pokemon: "cobblemon:oshawott"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+			]
+			x: 11.5d
+			y: 7.5d
+		}
+		{
+			icon_scale: 1.5d
+			id: "2F71D1B43B3D98C2"
+			shape: "pentagon"
+			tasks: [
+				{
+					action: "have_registered"
+					amount: 1L
+					biome: ""
+					dex_progress: "caught"
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "182CA2B6A07D20FD"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					poke_ball_used: ""
+					pokemon: "cobblemon:chespin"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+				{
+					action: "have_registered"
+					amount: 1L
+					biome: ""
+					dex_progress: "caught"
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "2E7786439FBE10A0"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					poke_ball_used: ""
+					pokemon: "cobblemon:fennekin"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+				{
+					action: "have_registered"
+					amount: 1L
+					biome: ""
+					dex_progress: "caught"
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "2E7E786081F59B85"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					poke_ball_used: ""
+					pokemon: "cobblemon:froakie"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+			]
+			x: 12.5d
+			y: 7.5d
+		}
+		{
+			icon_scale: 1.5d
+			id: "66201E01529AB758"
+			shape: "pentagon"
+			tasks: [
+				{
+					action: "have_registered"
+					amount: 1L
+					biome: ""
+					dex_progress: "caught"
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "5E514F3E8ED223FA"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					poke_ball_used: ""
+					pokemon: "cobblemon:rowlet"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+				{
+					action: "have_registered"
+					amount: 1L
+					biome: ""
+					dex_progress: "caught"
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "675B49B71CB0360A"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					poke_ball_used: ""
+					pokemon: "cobblemon:litten"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+				{
+					action: "have_registered"
+					amount: 1L
+					biome: ""
+					dex_progress: "caught"
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "759A008929FFB37B"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					poke_ball_used: ""
+					pokemon: "cobblemon:popplio"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+			]
+			x: 13.5d
+			y: 7.5d
+		}
+		{
+			icon_scale: 1.5d
+			id: "7E512468964BDDB0"
+			shape: "pentagon"
+			tasks: [
+				{
+					action: "have_registered"
+					amount: 1L
+					biome: ""
+					dex_progress: "caught"
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "02C012FE5A67910B"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					poke_ball_used: ""
+					pokemon: "cobblemon:grookey"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+				{
+					action: "have_registered"
+					amount: 1L
+					biome: ""
+					dex_progress: "caught"
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "4B7F39B6A844C8CD"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					poke_ball_used: ""
+					pokemon: "cobblemon:scorbunny"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+				{
+					action: "have_registered"
+					amount: 1L
+					biome: ""
+					dex_progress: "caught"
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "3229A6D8A01D3971"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					poke_ball_used: ""
+					pokemon: "cobblemon:sobble"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+			]
+			x: 14.5d
+			y: 7.5d
+		}
+		{
+			icon_scale: 1.5d
+			id: "376F91F0E89287CF"
+			shape: "pentagon"
+			tasks: [
+				{
+					action: "have_registered"
+					amount: 1L
+					biome: ""
+					dex_progress: "caught"
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "01E7CFB9C850DA99"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					poke_ball_used: ""
+					pokemon: "cobblemon:sprigatito"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+				{
+					action: "have_registered"
+					amount: 1L
+					biome: ""
+					dex_progress: "caught"
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "00DF62F2D597C721"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					poke_ball_used: ""
+					pokemon: "cobblemon:fuecoco"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+				{
+					action: "have_registered"
+					amount: 1L
+					biome: ""
+					dex_progress: "caught"
+					dimension: ""
+					form: ""
+					gender: ""
+					id: "755DAC1912A785A5"
+					max_level: 0
+					min_level: 0
+					natures: ""
+					poke_ball_used: ""
+					pokemon: "cobblemon:quaxly"
+					pokemon_type: ""
+					region: ""
+					shiny: false
+					time_max: 24000L
+					time_min: 0L
+					type: "cobblemon_tasks:cobblemon_task"
+				}
+			]
+			x: 15.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["2A0EE228E720AF77"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/ice.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "6450804C7C855EBE"
+			tasks: [{
+				action: "catch"
+				amount: 8L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "03E046A707A5CB27"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "ice"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 8.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["6450804C7C855EBE"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/ice.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "4E01559F76512390"
+			tasks: [{
+				action: "catch"
+				amount: 15L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "68C55DAE182D920E"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "ice"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 8.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["4E01559F76512390"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/ice.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "44AA8D4913E5EC95"
+			tasks: [{
+				action: "catch"
+				amount: 25L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "7A010F46C66ACDA9"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "ice"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 8.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["44AA8D4913E5EC95"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/ice.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "26E0088D008F6251"
+			tasks: [{
+				action: "catch"
+				amount: 50L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "269BE319937259C4"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "ice"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 8.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["5DD08BCB2E8131BC"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/fighting.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "3F279CD15C522611"
+			tasks: [{
+				action: "catch"
+				amount: 8L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "4C55FB5FC08E3B06"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "fighting"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 9.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["3F279CD15C522611"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/fighting.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "66CA8D3375C8919D"
+			tasks: [{
+				action: "catch"
+				amount: 15L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "7A1857FD019259DD"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "fighting"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 9.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["66CA8D3375C8919D"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/fighting.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "0CFF41AA8E181AF7"
+			tasks: [{
+				action: "catch"
+				amount: 25L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "6E31AF559A6A8029"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "fighting"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 9.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["0CFF41AA8E181AF7"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/fighting.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "748655C4D6D4E80F"
+			tasks: [{
+				action: "catch"
+				amount: 50L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "695587096BC4FA55"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "fighting"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 9.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["2BCFADABFF16E43E"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/poison.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "76CA3B0DCF9D926D"
+			tasks: [{
+				action: "catch"
+				amount: 8L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1D9985E63B18572C"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "poison"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 10.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["76CA3B0DCF9D926D"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/poison.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "30C4F3CACFA2E8C5"
+			tasks: [{
+				action: "catch"
+				amount: 15L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "131C42C541F0446D"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "poison"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 10.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["30C4F3CACFA2E8C5"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/poison.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "171F26D76D2AD590"
+			tasks: [{
+				action: "catch"
+				amount: 25L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "47D480562E7D3F2F"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "poison"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 10.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["171F26D76D2AD590"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/poison.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "677156DFD63E6FF8"
+			tasks: [{
+				action: "catch"
+				amount: 50L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "0AB759BDE7F682CD"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "poison"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 10.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["3C5117161708D9EB"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/ground.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "3AA790904BBE194C"
+			tasks: [{
+				action: "catch"
+				amount: 8L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1A02A2987370AE0B"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "ground"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 11.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["3AA790904BBE194C"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/ground.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "1EE8825CF6D71431"
+			tasks: [{
+				action: "catch"
+				amount: 15L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "13DFE15711DD7461"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "ground"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 11.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["1EE8825CF6D71431"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/ground.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "699A0F2B22BC4FA5"
+			tasks: [{
+				action: "catch"
+				amount: 25L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "0208367F6275A68B"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "ground"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 11.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["699A0F2B22BC4FA5"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/ground.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "7F847257D8519B24"
+			tasks: [{
+				action: "catch"
+				amount: 50L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "249D3C61A7EE7AD4"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "ground"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 11.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["3B312D990B108E43"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/flying.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "59B5A86334A73602"
+			tasks: [{
+				action: "catch"
+				amount: 8L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "245CE394762050D7"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "flying"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 12.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["59B5A86334A73602"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/flying.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "3DF6A25E4696E032"
+			tasks: [{
+				action: "catch"
+				amount: 15L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "628A973F326604E4"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "flying"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 12.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["3DF6A25E4696E032"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/flying.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "2D56B98299B25443"
+			tasks: [{
+				action: "catch"
+				amount: 25L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "4B10A3D9E73A2EA5"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "flying"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 12.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["2D56B98299B25443"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/flying.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "70FEE9F95D977853"
+			tasks: [{
+				action: "catch"
+				amount: 50L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "68DB217A6C163874"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "flying"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 12.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["21AF2D9B49047381"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/psychic.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "4017AA99D0BF7447"
+			tasks: [{
+				action: "catch"
+				amount: 8L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "3F88A0BA6F330382"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "psychic"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 13.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["4017AA99D0BF7447"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/psychic.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "34C5B9F00B0C17BA"
+			tasks: [{
+				action: "catch"
+				amount: 15L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1B4D902C9D96F73F"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "psychic"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 13.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["34C5B9F00B0C17BA"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/psychic.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "5135C917914754A6"
+			tasks: [{
+				action: "catch"
+				amount: 25L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "76D01C8B16169049"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "psychic"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 13.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["5135C917914754A6"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/psychic.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "05D3B37E9E3E0351"
+			tasks: [{
+				action: "catch"
+				amount: 50L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "131BAC249E1D3B6F"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "psychic"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 13.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["0118E6845232E314"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/bug.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "2A4010D05032EDB7"
+			tasks: [{
+				action: "catch"
+				amount: 8L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "5837E7A78F496CBF"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "bug"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 14.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["2A4010D05032EDB7"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/bug.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "2BAB07DD40FECB05"
+			tasks: [{
+				action: "catch"
+				amount: 15L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "0B3420E67B69E3CC"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "bug"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 14.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["2BAB07DD40FECB05"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/bug.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "40A03691208739E7"
+			tasks: [{
+				action: "catch"
+				amount: 25L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "7545F531094A3943"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "bug"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 14.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["40A03691208739E7"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/bug.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "34F891DFA74D79F5"
+			tasks: [{
+				action: "catch"
+				amount: 50L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "0B34F7E9EC053919"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "bug"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 14.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["5DD8F6FAC7D23A6C"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/rock.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "1B5DEBE53CB97580"
+			tasks: [{
+				action: "catch"
+				amount: 8L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "48389441E668B9FE"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "rock"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 15.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["1B5DEBE53CB97580"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/rock.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "56FD14FE65E0A9CB"
+			tasks: [{
+				action: "catch"
+				amount: 15L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "10CDE0E831263316"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "rock"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 15.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["56FD14FE65E0A9CB"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/rock.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "5EDA7253F98669E2"
+			tasks: [{
+				action: "catch"
+				amount: 25L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "45C53A281217888A"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "rock"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 15.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["5EDA7253F98669E2"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/rock.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "6F5B95F826D60809"
+			tasks: [{
+				action: "catch"
+				amount: 50L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1F4BB8FBE5A25073"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "rock"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 15.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["3B24012844FCC6A1"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/ghost.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "6988E8FF2AF03BD9"
+			tasks: [{
+				action: "catch"
+				amount: 8L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "60CC89E552327483"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "ghost"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 16.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["6988E8FF2AF03BD9"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/ghost.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "02C8DCCC2719073F"
+			tasks: [{
+				action: "catch"
+				amount: 15L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "22EFD148BE34F9CC"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "ghost"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 16.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["02C8DCCC2719073F"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/ghost.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "082E2B773C8588CD"
+			tasks: [{
+				action: "catch"
+				amount: 25L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "6143E080211E1B50"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "ghost"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 16.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["082E2B773C8588CD"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/ghost.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "0F82AC631BF5E838"
+			tasks: [{
+				action: "catch"
+				amount: 50L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "39EB379F25E7AB72"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "ghost"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 16.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["5722A2B8C9889EAD"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/dragon.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "71070688C22D2938"
+			tasks: [{
+				action: "catch"
+				amount: 8L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "4928D59CA0F0AC24"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "dragon"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 17.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["71070688C22D2938"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/dragon.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "58DD3FEC7F9CB254"
+			tasks: [{
+				action: "catch"
+				amount: 15L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "68C42E0E7CFDFB78"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "dragon"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 17.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["58DD3FEC7F9CB254"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/dragon.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "40D9F2E913A12ECD"
+			tasks: [{
+				action: "catch"
+				amount: 25L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "1E63196AF650EA7C"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "dragon"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 17.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["40D9F2E913A12ECD"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/dragon.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "1DFCC38B6CA9BB75"
+			tasks: [{
+				action: "catch"
+				amount: 50L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "674744B1785BD49E"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "dragon"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 17.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["742172AF009791E7"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/dark.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "19B91FBA07347B92"
+			tasks: [{
+				action: "catch"
+				amount: 8L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "5231CEE3F81AB9A9"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "dark"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 18.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["19B91FBA07347B92"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/dark.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "210663A0D63D3CA6"
+			tasks: [{
+				action: "catch"
+				amount: 15L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "4B4486C5B091D1FE"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "dark"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 18.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["210663A0D63D3CA6"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/dark.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "1B916C5B12DA8C01"
+			tasks: [{
+				action: "catch"
+				amount: 25L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "372BD71AD8476FE9"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "dark"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 18.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["1B916C5B12DA8C01"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/dark.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "77073147433ADFCE"
+			tasks: [{
+				action: "catch"
+				amount: 50L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "22B3F19CDB50FCFF"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "dark"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 18.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["75E200BE693932DA"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/steel.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "3030C9BD90981A46"
+			tasks: [{
+				action: "catch"
+				amount: 8L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "45FF0C4E58299880"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "steel"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 19.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["3030C9BD90981A46"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/steel.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "7149CF85A8685CFD"
+			tasks: [{
+				action: "catch"
+				amount: 15L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "11B96CBE5C3755FF"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "steel"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 19.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["7149CF85A8685CFD"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/steel.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "7C43E867448C6790"
+			tasks: [{
+				action: "catch"
+				amount: 25L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "4F4C224F43E4CBC2"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "steel"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 19.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["7C43E867448C6790"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/steel.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "1C8A964FA1A63A74"
+			tasks: [{
+				action: "catch"
+				amount: 50L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "7C28F1A5D85009BA"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "steel"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 19.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["1C8E37326BA47D6A"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/fairy.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "6340A7C6F129BC08"
+			tasks: [{
+				action: "catch"
+				amount: 8L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "2F33720502A6D025"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "fairy"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 20.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["6340A7C6F129BC08"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/fairy.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "1BF4E3EA69B8AED8"
+			tasks: [{
+				action: "catch"
+				amount: 15L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "21819CF8D3873120"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "fairy"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 20.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["1BF4E3EA69B8AED8"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/fairy.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "06AA0FE51C159BDD"
+			tasks: [{
+				action: "catch"
+				amount: 25L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "568649F6D6877C8A"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "fairy"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 20.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["06AA0FE51C159BDD"]
+			icon: {
+				components: {
+					"ftbquests:icon": "mega_showdown:textures/gui/summary/tera_types/fairy.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			icon_scale: 1.5d
+			id: "22E9D7BA740105F1"
+			tasks: [{
+				action: "catch"
+				amount: 50L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "35C4DB977E486675"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: "fairy"
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 20.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["28A8FDBA860BFD82"]
+			id: "31E900BC5F0E1F81"
+			tasks: [{
+				action: "have_registered"
+				amount: 90L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "2C1D663672366653"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 12.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["31E900BC5F0E1F81"]
+			id: "703CE087EEADC287"
+			tasks: [{
+				action: "have_registered"
+				amount: 100L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "24A1CE707DDD22C2"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 13.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["703CE087EEADC287"]
+			id: "5FB38C1187FB9971"
+			tasks: [{
+				action: "have_registered"
+				amount: 200L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "423CF0767E5DAE4F"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 14.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["5FB38C1187FB9971"]
+			id: "174C7C9F0F83D59D"
+			tasks: [{
+				action: "have_registered"
+				amount: 300L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "501AC9A528B7E608"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 15.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["174C7C9F0F83D59D"]
+			id: "0757881014C73F9C"
+			tasks: [{
+				action: "have_registered"
+				amount: 400L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "5C32AB5959F152AA"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 16.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["0757881014C73F9C"]
+			id: "04A0F8EF0DCC2B7C"
+			tasks: [{
+				action: "have_registered"
+				amount: 500L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "7A9F1A78BBB2F976"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 17.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["04A0F8EF0DCC2B7C"]
+			id: "3EB1E2253A4A4777"
+			tasks: [{
+				action: "have_registered"
+				amount: 600L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "46447E5322C9F65F"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 18.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["3EB1E2253A4A4777"]
+			id: "1135D516F0E45C54"
+			tasks: [{
+				action: "have_registered"
+				amount: 700L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "5166FF150BD726BC"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 19.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["1135D516F0E45C54"]
+			id: "3CDB72BB514F5BC4"
+			tasks: [{
+				action: "have_registered"
+				amount: 800L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "3A1064085DFB6A44"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 20.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["3CDB72BB514F5BC4"]
+			id: "74538A559BC2A4B6"
+			tasks: [{
+				action: "have_registered"
+				amount: 900L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "3B805F64A9DBD226"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 21.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["3FA6199B2D9C5308"]
+			icon: {
+				id: "mega_showdown:mega_bracelet"
+			}
+			id: "3304E0BA74977A0F"
+			tasks: [{
+				action: "have_registered"
+				amount: 10L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: "mega"
+				gender: ""
+				id: "23413424242B06AF"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 0.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["3304E0BA74977A0F"]
+			icon: {
+				id: "mega_showdown:mega_bracelet"
+			}
+			id: "5EBC2B3F1D139E6B"
+			tasks: [{
+				action: "have_registered"
+				amount: 15L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: "mega"
+				gender: ""
+				id: "51C268B95DB2C38F"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 0.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["5EBC2B3F1D139E6B"]
+			icon: {
+				id: "mega_showdown:mega_bracelet"
+			}
+			id: "349B7504688D0032"
+			tasks: [{
+				action: "have_registered"
+				amount: 20L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: "mega"
+				gender: ""
+				id: "46F98509E8EE4D51"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 0.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["349B7504688D0032"]
+			icon: {
+				id: "mega_showdown:mega_bracelet"
+			}
+			id: "002E81F813B8743B"
+			tasks: [{
+				action: "have_registered"
+				amount: 25L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: "mega"
+				gender: ""
+				id: "427CA9BB5DEE7B16"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 0.5d
+			y: 9.5d
+		}
+		{
+			dependencies: ["002E81F813B8743B"]
+			icon: {
+				id: "mega_showdown:mega_bracelet"
+			}
+			id: "14E4DDF9223AE9D4"
+			tasks: [{
+				action: "have_registered"
+				amount: 30L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: "mega"
+				gender: ""
+				id: "485FAAFFA48B42F3"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 0.5d
+			y: 10.5d
+		}
+		{
+			dependencies: ["14E4DDF9223AE9D4"]
+			icon: {
+				id: "mega_showdown:mega_bracelet"
+			}
+			id: "04B0B7716B02B7F3"
+			tasks: [{
+				action: "have_registered"
+				amount: 35L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: "mega"
+				gender: ""
+				id: "500EC9A10B5810BD"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 0.5d
+			y: 11.5d
+		}
+		{
+			dependencies: ["04B0B7716B02B7F3"]
+			icon: {
+				id: "mega_showdown:mega_bracelet"
+			}
+			id: "77FFE2F31FDE3DE4"
+			tasks: [{
+				action: "have_registered"
+				amount: 40L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: "mega"
+				gender: ""
+				id: "493852FF006D0F23"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 0.5d
+			y: 12.5d
+		}
+		{
+			dependencies: ["77FFE2F31FDE3DE4"]
+			icon: {
+				id: "mega_showdown:mega_bracelet"
+			}
+			id: "1EE1B25BD9FD5462"
+			shape: "hexagon"
+			size: 1.2d
+			tasks: [{
+				action: "have_registered"
+				amount: 48L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: "mega"
+				gender: ""
+				id: "2BA14CB775D12F5F"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 0.5d
+			y: 13.5d
+		}
+		{
+			dependencies: ["08CEBE98FB042B5F"]
+			icon: {
+				id: "mega_showdown:dynamax_band"
+			}
+			id: "62D38723EF896F96"
+			tasks: [{
+				action: "have_registered"
+				amount: 10L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: "gmax"
+				gender: ""
+				id: "390AB335AE57B746"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 1.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["62D38723EF896F96"]
+			icon: {
+				id: "mega_showdown:dynamax_band"
+			}
+			id: "6F9DC135E25A34AA"
+			tasks: [{
+				action: "have_registered"
+				amount: 15L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: "gmax"
+				gender: ""
+				id: "1617F12527EDBF2E"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 1.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["6F9DC135E25A34AA"]
+			icon: {
+				id: "mega_showdown:dynamax_band"
+			}
+			id: "29082FE2B4F19705"
+			tasks: [{
+				action: "have_registered"
+				amount: 20L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: "gmax"
+				gender: ""
+				id: "3D9975A49AB7BB56"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 1.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["29082FE2B4F19705"]
+			icon: {
+				id: "mega_showdown:dynamax_band"
+			}
+			id: "5874B85C4F27235C"
+			tasks: [{
+				action: "have_registered"
+				amount: 25L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: "gmax"
+				gender: ""
+				id: "78DA02034FB06E75"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 1.5d
+			y: 11.0d
+		}
+		{
+			dependencies: ["5874B85C4F27235C"]
+			icon: {
+				id: "mega_showdown:dynamax_band"
+			}
+			id: "4AB249131EC1D4E1"
+			shape: "hexagon"
+			size: 1.2d
+			tasks: [{
+				action: "have_registered"
+				amount: 32L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: "gmax"
+				gender: ""
+				id: "710F8F0142B49673"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 1.5d
+			y: 12.0d
+		}
+		{
+			can_repeat: true
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:textures/gui/summary/icon_shiny.png"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "1A03D2C456B3DBD1"
+			shape: "rsquare"
+			tasks: [{
+				action: "catch"
+				amount: 3L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "51291213453F90F6"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: true
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 9.5d
+			y: 5.5d
+		}
+		{
+			id: "2302ADFC467DB4A9"
+			tasks: [{
+				action: "scan"
+				amount: 1L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "cobblemon:textures/gui/pokedex/scan/scan_unknown.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "2C2F7865326C9EB0"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 21.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["2302ADFC467DB4A9"]
+			id: "1FBC1901CCC9FAA1"
+			tasks: [{
+				action: "scan"
+				amount: 3L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "cobblemon:textures/gui/pokedex/scan/scan_unknown.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "51CBA18275B157B0"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 21.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["1FBC1901CCC9FAA1"]
+			id: "6C2A339A67C7FE11"
+			tasks: [{
+				action: "scan"
+				amount: 8L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "cobblemon:textures/gui/pokedex/scan/scan_unknown.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "646DFB3AEFD9F45A"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 21.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["6C2A339A67C7FE11"]
+			id: "4F8CB536BB591C3A"
+			tasks: [{
+				action: "scan"
+				amount: 15L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "cobblemon:textures/gui/pokedex/scan/scan_unknown.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "736D0038353C869B"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 21.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["4F8CB536BB591C3A"]
+			id: "162D3720B75336F9"
+			tasks: [{
+				action: "scan"
+				amount: 25L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "cobblemon:textures/gui/pokedex/scan/scan_unknown.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "2D2DAFEA44D1B218"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 21.5d
+			y: 11.0d
+		}
+		{
+			dependencies: ["162D3720B75336F9"]
+			id: "56F302FE3C556C12"
+			shape: "hexagon"
+			size: 1.2d
+			tasks: [{
+				action: "scan"
+				amount: 50L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				icon: {
+					components: {
+						"ftbquests:icon": "cobblemon:textures/gui/pokedex/scan/scan_unknown.png"
+					}
+					id: "ftbquests:custom_icon"
+				}
+				id: "303EB97AC5055DB9"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 21.5d
+			y: 12.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:fossil_analyzer"
+			}
+			id: "0D438997ED88984B"
+			tasks: [{
+				action: "revive_fossil"
+				amount: 1L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				id: "2FA032F359928AB7"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 22.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["0D438997ED88984B"]
+			icon: {
+				id: "cobblemon:fossil_analyzer"
+			}
+			id: "574A5939A0A71D1A"
+			tasks: [{
+				action: "have_registered"
+				amount: 3L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				icon: {
+					id: "cobblemon:poke_ball"
+				}
+				id: "301034CECD62AF2C"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:omanyte,cobblemon:kabuto,cobblemon:aerodactyl,cobblemon:lileep,cobblemon:anorith,cobblemon:cranidos,cobblemon:shieldon,cobblemon:tirtouga,cobblemon:archen,cobblemon:tyrunt,cobblemon:amaura,cobblemon:dracozolt,cobblemon:dracovish,cobblemon:arctozolt,cobblemon:arctovish"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 22.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["574A5939A0A71D1A"]
+			icon: {
+				id: "cobblemon:fossil_analyzer"
+			}
+			id: "0D5673C80830398D"
+			tasks: [{
+				action: "have_registered"
+				amount: 6L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				icon: {
+					id: "cobblemon:poke_ball"
+				}
+				id: "2BD3261FF75D6FFC"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:omanyte,cobblemon:kabuto,cobblemon:aerodactyl,cobblemon:lileep,cobblemon:anorith,cobblemon:cranidos,cobblemon:shieldon,cobblemon:tirtouga,cobblemon:archen,cobblemon:tyrunt,cobblemon:amaura,cobblemon:dracozolt,cobblemon:dracovish,cobblemon:arctozolt,cobblemon:arctovish"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 22.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["0D5673C80830398D"]
+			icon: {
+				id: "cobblemon:fossil_analyzer"
+			}
+			id: "1528387CCA9F598B"
+			tasks: [{
+				action: "have_registered"
+				amount: 9L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				icon: {
+					id: "cobblemon:poke_ball"
+				}
+				id: "131A6A796C79701C"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:omanyte,cobblemon:kabuto,cobblemon:aerodactyl,cobblemon:lileep,cobblemon:anorith,cobblemon:cranidos,cobblemon:shieldon,cobblemon:tirtouga,cobblemon:archen,cobblemon:tyrunt,cobblemon:amaura,cobblemon:dracozolt,cobblemon:dracovish,cobblemon:arctozolt,cobblemon:arctovish"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 22.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["1528387CCA9F598B"]
+			icon: {
+				id: "cobblemon:fossil_analyzer"
+			}
+			id: "38C539AB9D8C076A"
+			tasks: [{
+				action: "have_registered"
+				amount: 12L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				icon: {
+					id: "cobblemon:poke_ball"
+				}
+				id: "28A307BD5C6B9BD0"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:omanyte,cobblemon:kabuto,cobblemon:aerodactyl,cobblemon:lileep,cobblemon:anorith,cobblemon:cranidos,cobblemon:shieldon,cobblemon:tirtouga,cobblemon:archen,cobblemon:tyrunt,cobblemon:amaura,cobblemon:dracozolt,cobblemon:dracovish,cobblemon:arctozolt,cobblemon:arctovish"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 22.5d
+			y: 9.5d
+		}
+		{
+			dependencies: ["38C539AB9D8C076A"]
+			icon: {
+				id: "cobblemon:fossil_analyzer"
+			}
+			id: "74628578DDF524AC"
+			shape: "hexagon"
+			size: 1.2d
+			tasks: [{
+				action: "have_registered"
+				amount: 15L
+				biome: ""
+				dex_progress: "caught"
+				dimension: ""
+				form: ""
+				gender: ""
+				icon: {
+					id: "cobblemon:poke_ball"
+				}
+				id: "79C1C2F5E7D5B965"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: "cobblemon:omanyte,cobblemon:kabuto,cobblemon:aerodactyl,cobblemon:lileep,cobblemon:anorith,cobblemon:cranidos,cobblemon:shieldon,cobblemon:tirtouga,cobblemon:archen,cobblemon:tyrunt,cobblemon:amaura,cobblemon:dracozolt,cobblemon:dracovish,cobblemon:arctozolt,cobblemon:arctovish"
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 22.5d
+			y: 10.5d
+		}
+		{
+			can_repeat: true
+			id: "2F3DC5EFCA23C7E6"
+			shape: "rsquare"
+			tasks: [{
+				action: "catch"
+				amount: 1L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				icon: {
+					id: "cobblemon:master_ball"
+				}
+				id: "78237DABC51279B4"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: "cobblemon:master_ball"
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 13.5d
+			y: 5.5d
+		}
+		{
+			id: "57A54146F983CA6A"
+			tasks: [{
+				action: "reel"
+				amount: 1L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				icon: {
+					id: "cobblemon:poke_rod"
+				}
+				id: "464C16D3BA5F4EB4"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 9.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["57A54146F983CA6A"]
+			id: "53ED864D9753F180"
+			tasks: [{
+				action: "reel"
+				amount: 3L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				icon: {
+					id: "cobblemon:poke_rod"
+				}
+				id: "5261238C78E50DD3"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 10.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["53ED864D9753F180"]
+			id: "58B5EFECF18203B9"
+			tasks: [{
+				action: "reel"
+				amount: 8L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				icon: {
+					id: "cobblemon:poke_rod"
+				}
+				id: "44C354D34F5255E2"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 11.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["58B5EFECF18203B9"]
+			id: "08BAE2E26C5CB925"
+			tasks: [{
+				action: "reel"
+				amount: 15L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				icon: {
+					id: "cobblemon:poke_rod"
+				}
+				id: "3B25EAE81074E781"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 12.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["08BAE2E26C5CB925"]
+			id: "5DD571CDE0CE5850"
+			tasks: [{
+				action: "reel"
+				amount: 25L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				icon: {
+					id: "cobblemon:poke_rod"
+				}
+				id: "70CAED8474AA8C67"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 13.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["5DD571CDE0CE5850"]
+			id: "45BD22F1E2F06C7B"
+			shape: "hexagon"
+			size: 1.2d
+			tasks: [{
+				action: "reel"
+				amount: 50L
+				biome: ""
+				dex_progress: "seen"
+				dimension: ""
+				form: ""
+				gender: ""
+				icon: {
+					id: "cobblemon:poke_rod"
+				}
+				id: "06A3119A5633F5D7"
+				max_level: 0
+				min_level: 0
+				natures: ""
+				poke_ball_used: ""
+				pokemon: ""
+				pokemon_type: ""
+				region: ""
+				shiny: false
+				time_max: 24000L
+				time_min: 0L
+				type: "cobblemon_tasks:cobblemon_task"
+			}]
+			x: 14.0d
+			y: 15.5d
+		}
+	]
+}

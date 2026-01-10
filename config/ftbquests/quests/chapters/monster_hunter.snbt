@@ -1,0 +1,218 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "monster_hunter"
+	group: "28843B9FB0224E7E"
+	id: "1488F9827C841EE8"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "66DD56F2AE04093F"
+			rewards: [{
+				id: "07B0B30D24C9CC48"
+				item: {
+					count: 1
+					id: "minecraft:iron_sword"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:zombie"
+				id: "5C9E2D4F4664CC40"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["66DD56F2AE04093F"]
+			id: "6F299172606F87F0"
+			rewards: [{
+				id: "552463396026BE55"
+				item: {
+					count: 1
+					id: "minecraft:iron_sword"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:zombie"
+				id: "445C9514B6F37CD5"
+				type: "kill"
+				value: 20L
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6F299172606F87F0"]
+			id: "2866573C13CA0B54"
+			rewards: [{
+				id: "14D4F36F0B47D451"
+				item: {
+					components: {
+						"minecraft:enchantments": {
+							levels: {
+								"minecraft:sharpness": 3
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:diamond_sword"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:zombie"
+				id: "69035BF3EAA94328"
+				type: "kill"
+				value: 100L
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6F299172606F87F0"]
+			id: "207D1C84F0A774EA"
+			rewards: [{
+				id: "566D17B29406470C"
+				item: {
+					components: {
+						"minecraft:enchantments": {
+							levels: {
+								"minecraft:infinity": 1
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:bow"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:skeleton"
+				id: "666D9DF05353762C"
+				type: "kill"
+				value: 100L
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6F299172606F87F0"]
+			id: "0D1A12BB47949580"
+			rewards: [{
+				id: "02F82629ACD66342"
+				item: {
+					components: {
+						"minecraft:enchantments": {
+							levels: {
+								"minecraft:unbreaking": 3
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:shield"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:spider"
+				id: "3F64AD53553D71AB"
+				type: "kill"
+				value: 100L
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6F299172606F87F0"]
+			id: "41AEA33449966057"
+			rewards: [{
+				id: "3E05B3B3B03006DD"
+				item: {
+					components: {
+						"minecraft:enchantments": {
+							levels: {
+								"minecraft:loyalty": 3
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:trident"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:drowned"
+				id: "23E114D3127455D9"
+				type: "kill"
+				value: 100L
+			}]
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6F299172606F87F0"]
+			id: "3D984B8313252777"
+			rewards: [{
+				id: "3A809283A8708B9E"
+				item: {
+					components: {
+						"minecraft:enchantments": {
+							levels: {
+								"minecraft:multishot": 1
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:crossbow"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:pillager"
+				id: "5AAD83E2DF091B64"
+				type: "kill"
+				value: 100L
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"2866573C13CA0B54"
+				"207D1C84F0A774EA"
+				"0D1A12BB47949580"
+				"3D984B8313252777"
+				"41AEA33449966057"
+			]
+			id: "58D5B5D8884294EC"
+			rewards: [{
+				id: "176CB8C08CE88C00"
+				item: {
+					components: {
+						"minecraft:enchantments": {
+							levels: {
+								"minecraft:density": 5
+							}
+						}
+					}
+					count: 1
+					id: "minecraft:mace"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:wither"
+				id: "494FDD75236B35E7"
+				type: "kill"
+				value: 1L
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+	]
+}

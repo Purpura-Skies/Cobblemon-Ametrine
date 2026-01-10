@@ -1,0 +1,615 @@
+{
+	chapter.0D52CFBBFEEF64B8.title: "Trainer Association"
+	chapter.1488F9827C841EE8.title: "Monster Hunter"
+	chapter.2312EE8F52CBF56A.title: "A Professor's Research"
+	chapter.2901C37C7BBE8C88.title: "Farming and Food"
+	chapter.3080C9E094D553FF.title: "boop"
+	chapter.35F2407D83F2F017.title: "Welcome"
+	chapter.48F9624BC499A6C2.title: "Pokémon Breeder"
+	chapter.5AB785342207B899.title: "Getting Started"
+	chapter_group.28843B9FB0224E7E.title: "The Basics"
+	file.0000000000000001.title: "&l&dPurpura Skies: Cobblemon Ametrine"
+	quest.002E81F813B8743B.quest_desc: ["Obtain Mega Stones and register Mega Evolutions in your Pokédex."]
+	quest.002E81F813B8743B.title: "Filling your Mega Evolution Pokédex"
+	quest.0118E6845232E314.quest_desc: ["Catch wild Bug-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.0118E6845232E314.title: "Catching Bug Types"
+	quest.01B5263E851242F9.quest_desc: ["Claim victory in Pokémon battles against other Trainers. You can use whichever battle regulations you like."]
+	quest.01B5263E851242F9.title: "Winning Pokémon Battles"
+	quest.02C8DCCC2719073F.quest_desc: ["Catch wild Ghost-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.02C8DCCC2719073F.title: "Catching Ghost Types"
+	quest.02FCA5A191FD843C.quest_desc: ["Defeat the wither. If you dont want the star, you can trade it for a masterball"]
+	quest.04A0F8EF0DCC2B7C.quest_desc: ["Register various Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
+	quest.04A0F8EF0DCC2B7C.title: "Filling Your Pokédex"
+	quest.04B0B7716B02B7F3.quest_desc: ["Obtain Mega Stones and register Mega Evolutions in your Pokédex."]
+	quest.04B0B7716B02B7F3.title: "Filling your Mega Evolution Pokédex"
+	quest.04E8748E53709D37.quest_desc: [
+		"Embark on a whimsical journey through &l&5Purpura Skies: Cobblemon Ametrine&r&r, where &lMinecraft meets Pokémon&r in adorable harmony."
+		""
+		"Explore charming beautiful biomes, engaging in playful battles with lovable Pokémon from the &lCobblemon mod&r and &lComplete Cobblemon Collection pack&r as you adventure."
+		""
+		"Enhanced with &lcozy mods&r, the experience promises &lenchantment and delight&r for all players."
+	]
+	quest.04E8748E53709D37.quest_subtitle: "Let's begin."
+	quest.04E8748E53709D37.title: "Welcome!"
+	quest.053AB3B07CBAA324.title: "Sabrina"
+	quest.054CC42E09A281E3.quest_desc: ["Catch wild Water-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.054CC42E09A281E3.title: "Catching Water Types"
+	quest.05D3B37E9E3E0351.quest_desc: ["Catch wild Psychic-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.05D3B37E9E3E0351.title: "Catching Psychic Types"
+	quest.05F290799F795334.title: "Obtain a Tier 5 Poké Ball"
+	quest.069239810C8630F9.quest_desc: ["Register Fairy-type Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
+	quest.069239810C8630F9.title: "Complete Fairy Type Collection"
+	quest.06AA0FE51C159BDD.quest_desc: ["Catch wild Fairy-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.06AA0FE51C159BDD.title: "Catching Fairy Types"
+	quest.06D107A1E5E90AF5.title: "Obtain a Tier 3 Poké Ball"
+	quest.0757881014C73F9C.quest_desc: ["Register various Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
+	quest.0757881014C73F9C.title: "Filling Your Pokédex"
+	quest.077F906A4A9F6467.quest_desc: ["Catch wild Water-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.077F906A4A9F6467.title: "Catching Water Types"
+	quest.082E2B773C8588CD.quest_desc: ["Catch wild Ghost-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.082E2B773C8588CD.title: "Catching Ghost Types"
+	quest.08A82745040753F4.quest_desc: ["Trigger Pokémon Evolution. Any species or method will do."]
+	quest.08A82745040753F4.title: "Evolving Pokémon"
+	quest.08BAE2E26C5CB925.quest_desc: ["Fish up Pokémon with any Poké Rod."]
+	quest.08BAE2E26C5CB925.title: "Fishing for Pokémon"
+	quest.08CEBE98FB042B5F.quest_desc: ["Obtain a Dynamax Band and register Gigantamax forms in your Pokédex."]
+	quest.08CEBE98FB042B5F.title: "Filling your Gigantamax Pokédex"
+	quest.095CC6B4F6A47562.quest_desc: ["Register Normal-type Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
+	quest.095CC6B4F6A47562.title: "Complete Normal Type Collection"
+	quest.09A1A0D828019F15.title: "Complete Cobblemon Collection"
+	quest.09AB66793EBEA796.title: "Obtain a Tier 4 Poké Ball"
+	quest.09B84984B8BEFC86.quest_desc: ["Register Rock-type Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
+	quest.09B84984B8BEFC86.title: "Complete Rock Type Collection"
+	quest.0CB255F5CD6E31CD.title: "Blane"
+	quest.0CD1935ED8C62924.quest_desc: ["Catch wild Electric-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.0CD1935ED8C62924.title: "Catching Electric Types"
+	quest.0CFF41AA8E181AF7.quest_desc: ["Catch wild Fighting-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.0CFF41AA8E181AF7.title: "Catching Fighting Types"
+	quest.0D15B660F58B410D.quest_desc: ["Register various Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
+	quest.0D15B660F58B410D.title: "Filling Your Pokédex"
+	quest.0D438997ED88984B.quest_desc: ["Restore Pokémon from Fossils or Amber. Any species will do."]
+	quest.0D438997ED88984B.title: "Restoring Fossils"
+	quest.0D5673C80830398D.quest_desc: ["Register fossil Pokémon in your Pokédex. Restore them, trade them - however you do it is all the same."]
+	quest.0D5673C80830398D.title: "Restoring Fossils"
+	quest.0D70E7D39D7B48FD.quest_desc: ["Trigger Pokémon Evolution. Any species or method will do."]
+	quest.0D70E7D39D7B48FD.title: "Evolving Pokémon"
+	quest.0D9CBA80872D5BED.quest_desc: ["Catch wild Water-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.0D9CBA80872D5BED.title: "Catching Water Types"
+	quest.0E9284D03A1C0923.title: "Whitney"
+	quest.0F82AC631BF5E838.quest_desc: ["Catch wild Ghost-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.0F82AC631BF5E838.title: "Catching Ghost Types"
+	quest.0FAA556D38A32147.quest_desc: ["Catch wild Fire-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.0FAA556D38A32147.title: "Catching Fire Types"
+	quest.105D9AF35881ADF5.quest_desc: ["Pokeballs are the most basic item used to capture wild pokemon. There are various kinds of pokeball with different colors, but all have the same X1 catch rate. "]
+	quest.105D9AF35881ADF5.title: "Your first Pokeball"
+	quest.1135D516F0E45C54.quest_desc: ["Register various Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
+	quest.1135D516F0E45C54.title: "Filling Your Pokédex"
+	quest.118CCC5E4EDE6AF9.quest_desc: ["Catch wild Grass-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.118CCC5E4EDE6AF9.title: "Catching Grass Types"
+	quest.1234462102848A18.quest_desc: ["Claim victory in Pokémon battles against other Trainers. You can use whichever battle regulations you like."]
+	quest.1234462102848A18.title: "Winning Pokémon Battles"
+	quest.1248F362FE260C79.quest_desc: ["Register various Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
+	quest.1248F362FE260C79.title: "Filling your Pokédex"
+	quest.1275F0FEB9C947A6.quest_desc: ["Register Grass-type Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
+	quest.1275F0FEB9C947A6.title: "Complete Grass Type Collection"
+	quest.1278E6159402498F.title: "Craft Any Poké Ball"
+	quest.12915727132E93FA.quest_desc: ["Catch one of each of the Pokémon known as first partners from the Sinnoh region. Pokémon you receive from other people don't count."]
+	quest.12915727132E93FA.title: "Catch the Sinnoh Starters"
+	quest.14E4DDF9223AE9D4.quest_desc: ["Obtain Mega Stones and register Mega Evolutions in your Pokédex."]
+	quest.14E4DDF9223AE9D4.title: "Filling your Mega Evolution Pokédex"
+	quest.1528387CCA9F598B.quest_desc: ["Register fossil Pokémon in your Pokédex. Restore them, trade them - however you do it is all the same."]
+	quest.1528387CCA9F598B.title: "Restoring Fossils"
+	quest.15670FD8AF952432.quest_desc: ["Catch wild Grass-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.15670FD8AF952432.title: "Catching Grass Types"
+	quest.162D3720B75336F9.quest_desc: ["Use a Pokédex to scan Pokémon."]
+	quest.162D3720B75336F9.title: "Scanning Pokémon"
+	quest.16E55FF6E8BA2998.quest_desc: ["Pokemon may attack you, and you may need to fight them off, as well as the mobs. So its always handy to have a good sword"]
+	quest.171F26D76D2AD590.quest_desc: ["Catch wild Poison-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.171F26D76D2AD590.title: "Catching Poison Types"
+	quest.174C7C9F0F83D59D.quest_desc: ["Register various Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
+	quest.174C7C9F0F83D59D.title: "Filling Your Pokédex"
+	quest.17CB4966931A4981.quest_desc: ["Long ago, when Sinnoh was still called Hisui, Primitive Pokeballs were made with Tumblestones. Back then it was uncommon for people to battle Pokemon before trying to caputre them, as such some of these Ancient Pokeballs have effects that will help when trying to catch a Pokemon out of battle"]
+	quest.18392342B1C6BD6A.quest_desc: ["Register Ground-type Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
+	quest.18392342B1C6BD6A.title: "Complete Ground Type Collection"
+	quest.19B91FBA07347B92.quest_desc: ["Catch wild Dark-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.19B91FBA07347B92.title: "Catching Dark Types"
+	quest.1A03D2C456B3DBD1.quest_desc: ["Catch wild shiny Pokémon. Pokémon you receive from other people don't count."]
+	quest.1A03D2C456B3DBD1.title: "Catching Shiny Pokémon"
+	quest.1A5C1FF91CAED352.quest_desc: ["Register Steel-type Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
+	quest.1A5C1FF91CAED352.title: "Complete Steel Type Collection"
+	quest.1B5DEBE53CB97580.quest_desc: ["Catch wild Rock-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.1B5DEBE53CB97580.title: "Catching Rock Types"
+	quest.1B916C5B12DA8C01.quest_desc: ["Catch wild Dark-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.1B916C5B12DA8C01.title: "Catching Dark Types"
+	quest.1BF4E3EA69B8AED8.quest_desc: ["Catch wild Fairy-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.1BF4E3EA69B8AED8.title: "Catching Fairy Types"
+	quest.1C53247EE7E4F966.quest_desc: ["Trading 1 masterball will get you 20 rare candies. If you really want to level up  your pokemon. Best at higher levels"]
+	quest.1C8A964FA1A63A74.quest_desc: ["Catch wild Steel-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.1C8A964FA1A63A74.title: "Catching Steel Types"
+	quest.1C8E37326BA47D6A.quest_desc: ["Catch wild Fairy-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.1C8E37326BA47D6A.title: "Catching Fairy Types"
+	quest.1CF1E94864754748.quest_desc: ["Catch wild Electric-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.1CF1E94864754748.title: "Catching Electric Types"
+	quest.1DFCC38B6CA9BB75.quest_desc: ["Catch wild Dragon-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.1DFCC38B6CA9BB75.title: "Catching Dragon Types"
+	quest.1EE1B25BD9FD5462.quest_desc: ["Obtain Mega Stones and register Mega Evolutions in your Pokédex."]
+	quest.1EE1B25BD9FD5462.title: "Filling your Mega Evolution Pokédex"
+	quest.1EE8825CF6D71431.quest_desc: ["Catch wild Ground-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.1EE8825CF6D71431.title: "Catching Ground Types"
+	quest.1F449555CC080388.quest_desc: ["Claim victory in Pokémon battles against other Trainers. You can use whichever battle regulations you like."]
+	quest.1F449555CC080388.title: "Winning Pokémon Battles"
+	quest.1FBC1901CCC9FAA1.quest_desc: ["Use a Pokédex to scan Pokémon."]
+	quest.1FBC1901CCC9FAA1.title: "Scanning Pokémon"
+	quest.20A9045213580DAA.title: "Falkner"
+	quest.210663A0D63D3CA6.quest_desc: ["Catch wild Dark-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.210663A0D63D3CA6.title: "Catching Dark Types"
+	quest.210E5426B9F23747.quest_desc: ["So you have a chest wall that you want to connect to your storage/crafting interface? Well the Inventory Connecter is for you! Put the connecter in the middle of your chests, and make sure all the chests are touching. Chests adjacent to the connecter extend the connecters range, so you can have as many chests to a connecter as you want"]
+	quest.210E5426B9F23747.quest_subtitle: "Storage Wall"
+	quest.21AF2D9B49047381.quest_desc: ["Catch wild Psychic-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.21AF2D9B49047381.title: "Catching Psychic Types"
+	quest.21F3DCB07E4F7F50.quest_desc: ["Trigger Pokémon Evolution. Any species or method will do."]
+	quest.21F3DCB07E4F7F50.title: "Evolving Pokémon"
+	quest.22E9D7BA740105F1.quest_desc: ["Catch wild Fairy-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.22E9D7BA740105F1.title: "Catching Fairy Types"
+	quest.2302ADFC467DB4A9.quest_desc: ["Use a Pokédex to scan Pokémon."]
+	quest.2302ADFC467DB4A9.title: "Scanning Pokémon"
+	quest.24620A08F6590AAA.quest_desc: ["Your pokemon may need to heal. If you wait, they will automatically revive but this could take a while, so you will want one of these machines so you can heal them right away and get back into the fight"]
+	quest.2491D2CE800A29E2.quest_desc: ["Register Electric-type Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
+	quest.2491D2CE800A29E2.title: "Complete Electric Type Collection"
+	quest.2539909D7E6271F0.quest_desc: ["Register Fire-type Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
+	quest.2539909D7E6271F0.title: "Complete Fire Type Collection"
+	quest.258D56DB5588C2EF.title: "Survival and Adventure"
+	quest.2595CD4D52049FED.title: "Eevee"
+	quest.25F1493EA6A7375A.quest_desc: ["They say finding this place is even rarer than finding a shiny pokemon"]
+	quest.25F1493EA6A7375A.title: "Mirage island"
+	quest.26B6F237AF32AC4E.title: "Defeat pokemon from each type"
+	quest.26E0088D008F6251.quest_desc: ["Catch wild Ice-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.26E0088D008F6251.title: "Catching Ice Types"
+	quest.26FC60A2BBEF1E29.title: "Throw a ball and catch a Pokémon"
+	quest.28A8FDBA860BFD82.quest_desc: ["Register various Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
+	quest.28A8FDBA860BFD82.title: "Filling Your Pokédex"
+	quest.29082FE2B4F19705.quest_desc: ["Obtain a Dynamax Band and register Gigantamax forms in your Pokédex."]
+	quest.29082FE2B4F19705.title: "Filling your Gigantamax Pokédex"
+	quest.2A0EE228E720AF77.quest_desc: ["Catch wild Ice-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.2A0EE228E720AF77.title: "Catching Ice Types"
+	quest.2A261B570970188D.quest_desc: ["Register various Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
+	quest.2A261B570970188D.title: "Filling Your Pokédex"
+	quest.2A4010D05032EDB7.quest_desc: ["Catch wild Bug-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.2A4010D05032EDB7.title: "Catching Bug Types"
+	quest.2A6A9041FE0C4888.quest_desc: ["Iron is the lifeblood of minecraft. If you need it, it probably uses iron. "]
+	quest.2AADB51A9C011561.quest_desc: ["Nice, you got a full team!"]
+	quest.2AADB51A9C011561.quest_subtitle: "A full Team!"
+	quest.2BAB07DD40FECB05.quest_desc: ["Catch wild Bug-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.2BAB07DD40FECB05.title: "Catching Bug Types"
+	quest.2BCFADABFF16E43E.quest_desc: ["Catch wild Poison-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.2BCFADABFF16E43E.title: "Catching Poison Types"
+	quest.2C31A2E60500AF7D.quest_desc: ["Catch wild Fire-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.2C31A2E60500AF7D.title: "Catching Fire Types"
+	quest.2D56B98299B25443.quest_desc: ["Catch wild Flying-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.2D56B98299B25443.title: "Catching Flying Types"
+	quest.2E54CF3858793E28.quest_desc: ["Catch the favorite Pokemon of the person who made these quests. Thanks everyone who downloaded this and enjoyed it!"]
+	quest.2E54CF3858793E28.title: "Team Clarissa"
+	quest.2F2ADEC6F4BCE766.quest_desc: ["With a level 4 beacon, so long as your storage is chunkloaded, you can access your storage from anywhere using this wireless terminal. "]
+	quest.2F2ADEC6F4BCE766.quest_subtitle: "Level 4 Beacon"
+	quest.2F3DC5EFCA23C7E6.quest_desc: ["Catch Pokémon using a Master Ball to 100% guarantee their capture."]
+	quest.2F3DC5EFCA23C7E6.title: "Catching Pokémon with a Master Ball"
+	quest.2F5433F8FA15F7F6.quest_desc: ["Iron chests is a mod that allows you to make larger chests that take up the same ammount of space. Its also a good way to make use of the billions of copper you probably have"]
+	quest.2F5433F8FA15F7F6.quest_subtitle: "Useful Copper!"
+	quest.2F71D1B43B3D98C2.quest_desc: ["Catch one of each of the Pokémon known as first partners from the Kalos region. Pokémon you receive from other people don't count."]
+	quest.2F71D1B43B3D98C2.title: "Catch the Kalos Starters"
+	quest.3030C9BD90981A46.quest_desc: ["Catch wild Steel-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.3030C9BD90981A46.title: "Catching Steel Types"
+	quest.303A47753A92FCED.quest_desc: ["When thrown, this ball will fly further, allowing you to try to capture pokemon at a further distance, including pokemon mid air or otherwise out of reach"]
+	quest.30630368627CE569.quest_desc: ["Catch one of each of the Pokémon known as first partners from the Johto region. Pokémon you receive from other people don't count."]
+	quest.30630368627CE569.title: "Catch the Johto Starters"
+	quest.30C4F3CACFA2E8C5.quest_desc: ["Catch wild Poison-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.30C4F3CACFA2E8C5.title: "Catching Poison Types"
+	quest.310DF134407136A4.quest_desc: ["If you really cant get a specific type of dye, this will allow you to trade for it at a loss"]
+	quest.3178302C98DE92A8.title: "Catch Cute Pokemon"
+	quest.3193EEEDCB438D7E.title: "Foraging for Apricorns"
+	quest.31E900BC5F0E1F81.quest_desc: ["Register various Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
+	quest.31E900BC5F0E1F81.title: "Filling Your Pokédex"
+	quest.32828FF80EF4719F.quest_desc: ["Catch one of each of the Pokémon known as first partners from the Kanto region. Pokémon you receive from other people don't count."]
+	quest.32828FF80EF4719F.title: "Catch the Kanto Starters"
+	quest.3304E0BA74977A0F.quest_desc: ["Obtain Mega Stones and register Mega Evolutions in your Pokédex."]
+	quest.3304E0BA74977A0F.title: "Filling your Mega Evolution Pokédex"
+	quest.349B7504688D0032.quest_desc: ["Obtain Mega Stones and register Mega Evolutions in your Pokédex."]
+	quest.349B7504688D0032.title: "Filling your Mega Evolution Pokédex"
+	quest.34C5B9F00B0C17BA.quest_desc: ["Catch wild Psychic-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.34C5B9F00B0C17BA.title: "Catching Psychic Types"
+	quest.34F891DFA74D79F5.quest_desc: ["Catch wild Bug-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.34F891DFA74D79F5.title: "Catching Bug Types"
+	quest.357B5EAD822F1233.title: "Cobblemon Addons"
+	quest.358781F3F5DC7F20.quest_desc: ["Register Water-type Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
+	quest.358781F3F5DC7F20.title: "Complete Water Type Collection"
+	quest.36A74C4731D1C046.quest_desc: ["Claim victory in Pokémon battles against other Trainers. You can use whichever battle regulations you like."]
+	quest.36A74C4731D1C046.title: "Winning Pokémon Battles"
+	quest.36BABAAB9C0921BE.quest_desc: ["Catch wild Normal-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.36BABAAB9C0921BE.title: "Catching Normal Types"
+	quest.376501E5C6CA0E99.quest_desc: ["Catch wild Fire-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.376501E5C6CA0E99.title: "Catching Fire Types"
+	quest.376F91F0E89287CF.quest_desc: ["Catch one of each of the Pokémon known as first partners from the Paldea region. Pokémon you receive from other people don't count."]
+	quest.376F91F0E89287CF.title: "Catch the Paldea Starters"
+	quest.383EC3D68433F17A.quest_desc: ["Don't think you need a masterball? Trade it for some enchantment books"]
+	quest.386EFDFEBC320C88.quest_desc: ["Register Psychic-type Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
+	quest.386EFDFEBC320C88.title: "Complete Psychic Type Collection"
+	quest.38C539AB9D8C076A.quest_desc: ["Register fossil Pokémon in your Pokédex. Restore them, trade them - however you do it is all the same."]
+	quest.38C539AB9D8C076A.title: "Restoring Fossils"
+	quest.39086907115A2D82.quest_desc: ["Register Ghost-type Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
+	quest.39086907115A2D82.title: "Complete Ghost Type Collection"
+	quest.398F48B0F4A1B459.quest_desc: ["Catch wild Fire-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.398F48B0F4A1B459.title: "Catching Fire Types"
+	quest.3A88F116F5349A26.quest_desc: ["Farming pokemon is the quickest and best way to obtain many materials. Wool from Wooloo, Milk form Miltank, theres tons of options, so experiment!"]
+	quest.3AA790904BBE194C.quest_desc: ["Catch wild Ground-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.3AA790904BBE194C.title: "Catching Ground Types"
+	quest.3B24012844FCC6A1.quest_desc: ["Catch wild Ghost-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.3B24012844FCC6A1.title: "Catching Ghost Types"
+	quest.3B312D990B108E43.quest_desc: ["Catch wild Flying-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.3B312D990B108E43.title: "Catching Flying Types"
+	quest.3C5117161708D9EB.quest_desc: ["Catch wild Ground-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.3C5117161708D9EB.title: "Catching Ground Types"
+	quest.3C6C3D28FF13165D.title: "Defeat Pokemon from each Region"
+	quest.3CD9DE0E7ED97749.quest_desc: ["You know what to do. Punch Trees. Get wood. And become the very best, like no one ever was"]
+	quest.3CD9DE0E7ED97749.title: "Welcome to Minecraft"
+	quest.3CDB72BB514F5BC4.quest_desc: ["Register various Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
+	quest.3CDB72BB514F5BC4.title: "Filling Your Pokédex"
+	quest.3CF8E500DD409439.quest_desc: ["Catch wild Normal-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.3CF8E500DD409439.title: "Catching Normal Types"
+	quest.3D0A24C140121FA8.title: "Bugsy"
+	quest.3DF6A25E4696E032.quest_desc: ["Catch wild Flying-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.3DF6A25E4696E032.title: "Catching Flying Types"
+	quest.3E7B359798B52627.quest_desc: ["Catch wild Electric-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.3E7B359798B52627.title: "Catching Electric Types"
+	quest.3EB1E2253A4A4777.quest_desc: ["Register various Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
+	quest.3EB1E2253A4A4777.title: "Filling Your Pokédex"
+	quest.3ECA55623A3B58E0.quest_desc: ["Catch wild Grass-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.3ECA55623A3B58E0.title: "Catching Grass Types"
+	quest.3EF5C3EDE8FCB375.quest_desc: ["Claim victory in Pokémon battles against other Trainers. You can use whichever battle regulations you like."]
+	quest.3EF5C3EDE8FCB375.title: "Winning Pokémon Battles"
+	quest.3F279CD15C522611.quest_desc: ["Catch wild Fighting-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.3F279CD15C522611.title: "Catching Fighting Types"
+	quest.3F5F3D527C2BB577.quest_desc: ["Register Dragon-type Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
+	quest.3F5F3D527C2BB577.title: "Complete Dragon Type Collection"
+	quest.3FA6199B2D9C5308.quest_desc: ["Obtain Mega Stones and register Mega Evolutions in your Pokédex."]
+	quest.3FA6199B2D9C5308.title: "Filling your Mega Evolution Pokédex"
+	quest.4017AA99D0BF7447.quest_desc: ["Catch wild Psychic-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.4017AA99D0BF7447.title: "Catching Psychic Types"
+	quest.40A03691208739E7.quest_desc: ["Catch wild Bug-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.40A03691208739E7.title: "Catching Bug Types"
+	quest.40D9F2E913A12ECD.quest_desc: ["Catch wild Dragon-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.40D9F2E913A12ECD.title: "Catching Dragon Types"
+	quest.40F42F320EF853E2.quest_desc: ["Claim victory in Pokémon battles against other Trainers. You can use whichever battle regulations you like."]
+	quest.40F42F320EF853E2.title: "Winning Pokémon Battles"
+	quest.418E22D6A0DA4064.quest_desc: ["Toms Simple Storage is a mod similar to Applied Energistics 2 and Simple Storage Network. The premise is simple. A storage terminal attached to a chest will let you see the chests inventory. A crafting terminal will let you craft from within the chest. Works with Iron chests too!"]
+	quest.418E22D6A0DA4064.quest_subtitle: "Storage made cheap and Easy"
+	quest.420E23FD52F902A8.quest_desc: ["Register various Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
+	quest.420E23FD52F902A8.title: "Filling Your Pokédex"
+	quest.42F6AB1CEC3A3902.quest_desc: ["Catch wild Normal-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.42F6AB1CEC3A3902.title: "Catching Normal Types"
+	quest.43BAC8BA5BE7EA83.quest_desc: ["When thrown, this ball will fly further, allowing you to try to capture pokemon at a further distance, including pokemon mid air or otherwise out of reach"]
+	quest.441E721B860EF365.quest_desc: ["Catch wild Normal-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.441E721B860EF365.title: "Catching Normal Types"
+	quest.44AA8D4913E5EC95.quest_desc: ["Catch wild Ice-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.44AA8D4913E5EC95.title: "Catching Ice Types"
+	quest.450189AD59025B65.title: "Obtain a Tier 1 Poké Ball"
+	quest.454E6DF3DA0C6197.quest_desc: ["Trigger Pokémon Evolution. Any species or method will do."]
+	quest.454E6DF3DA0C6197.title: "Evolving Pokémon"
+	quest.45BD22F1E2F06C7B.quest_desc: ["Fish up Pokémon with any Poké Rod."]
+	quest.45BD22F1E2F06C7B.title: "Fishing for Pokémon"
+	quest.45F3580A14CBA303.quest_desc: ["When thrown, this ball will fly further, allowing you to try to capture pokemon at a further distance, including pokemon mid air or otherwise out of reach"]
+	quest.471597295A4C634A.quest_desc: ["Register Fighting-type Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
+	quest.471597295A4C634A.title: "Complete Fighting Type Collection"
+	quest.47A8DC02682C9448.quest_desc: ["Claim victory in Pokémon battles against other Trainers. You can use whichever battle regulations you like."]
+	quest.47A8DC02682C9448.title: "Winning Pokémon Battles"
+	quest.483EA248B41F7FE9.title: "Minecraft Basics"
+	quest.494D7FEA72E15282.quest_desc: ["Register various Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
+	quest.494D7FEA72E15282.title: "Filling Your Pokédex"
+	quest.4A67FCABB56FC720.quest_desc: ["Do you got too many enchantment books? The filing cabinent holds 1 type of item, but all of them. So you can fill it with enchantment books!"]
+	quest.4A67FCABB56FC720.quest_subtitle: "Enchantment Storage"
+	quest.4AB249131EC1D4E1.quest_desc: ["Obtain a Dynamax Band and register Gigantamax forms in your Pokédex."]
+	quest.4AB249131EC1D4E1.title: "Filling your Gigantamax Pokédex"
+	quest.4DFD7755E5E5C699.quest_desc: ["Claim victory in Pokémon battles against other Trainers. You can use whichever battle regulations you like."]
+	quest.4DFD7755E5E5C699.title: "Winning Pokémon Battles"
+	quest.4E01559F76512390.quest_desc: ["Catch wild Ice-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.4E01559F76512390.title: "Catching Ice Types"
+	quest.4E1BCBD027B677B1.quest_desc: ["Trigger Pokémon Evolution. Any species or method will do."]
+	quest.4E1BCBD027B677B1.title: "Evolving Pokémon"
+	quest.4E2BA4E64CD62439.quest_desc: ["Trigger Pokémon Evolution. Any species or method will do."]
+	quest.4E2BA4E64CD62439.title: "Evolving Pokémon"
+	quest.4E4B562AD3CD1563.quest_desc: ["Trigger Pokémon Evolution. Any species or method will do."]
+	quest.4E4B562AD3CD1563.title: "Evolving Pokémon"
+	quest.4E4DB653FE5E6926.quest_desc: ["Catch wild Electric-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.4E4DB653FE5E6926.title: "Catching Electric Types"
+	quest.4E760EF79FA2BCDE.quest_desc: ["Farming will become even more important in Cobblemon. Berries, Apricorns, and medicine all require you to till the fields. "]
+	quest.4F8CB536BB591C3A.quest_desc: ["Use a Pokédex to scan Pokémon."]
+	quest.4F8CB536BB591C3A.title: "Scanning Pokémon"
+	quest.4FCFA22B4871EB0A.title: "Obtain an Ancient Poké Ball"
+	quest.501F17528DD1EAEF.quest_desc: ["Trigger Pokémon Evolution. Any species or method will do."]
+	quest.501F17528DD1EAEF.title: "Evolving Pokémon"
+	quest.5028C343ECBBC840.quest_desc: ["Claim victory in Pokémon battles against other Trainers. You can use whichever battle regulations you like."]
+	quest.5028C343ECBBC840.title: "Winning Pokémon Battles"
+	quest.5032D5FCFDBE580A.title: "Clair"
+	quest.507516F435862D37.quest_desc: ["Catch wild Normal-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.507516F435862D37.title: "Catching Normal Types"
+	quest.5135C917914754A6.quest_desc: ["Catch wild Psychic-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.5135C917914754A6.title: "Catching Psychic Types"
+	quest.5222C54639AD9CA5.title: "Obtain a Tier 2 Poké Ball"
+	quest.5236466ED42022FB.quest_desc: ["Register various Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
+	quest.5236466ED42022FB.title: "Filling Your Pokédex"
+	quest.53ED864D9753F180.quest_desc: ["Fish up Pokémon with any Poké Rod."]
+	quest.53ED864D9753F180.title: "Fishing for Pokémon"
+	quest.54480FFCB8951155.quest_desc: ["Trigger Pokémon Evolution. Any species or method will do."]
+	quest.54480FFCB8951155.title: "Evolving Pokémon"
+	quest.548AA8E3D135BB27.title: "Cosmetics"
+	quest.54E2F5E0A09C91E7.quest_desc: ["Catch wild Electric-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.54E2F5E0A09C91E7.title: "Catching Electric Types"
+	quest.5516E75C6287D70D.quest_desc: ["Catch one of each of the Pokémon known as first partners from the Hoenn region. Pokémon you receive from other people don't count."]
+	quest.5516E75C6287D70D.title: "Catch the Hoenn Starters"
+	quest.5620501EEB260DC8.quest_desc: ["Claim victory in Pokémon battles against other Trainers. You can use whichever battle regulations you like."]
+	quest.5620501EEB260DC8.title: "Winning Pokémon Battles"
+	quest.564F4BC01A3EB7AC.quest_desc: ["Register various Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
+	quest.564F4BC01A3EB7AC.title: "Filling Your Pokédex"
+	quest.56F302FE3C556C12.quest_desc: ["Use a Pokédex to scan Pokémon."]
+	quest.56F302FE3C556C12.title: "Scanning Pokémon"
+	quest.56FD14FE65E0A9CB.quest_desc: ["Catch wild Rock-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.56FD14FE65E0A9CB.title: "Catching Rock Types"
+	quest.5722A2B8C9889EAD.quest_desc: ["Catch wild Dragon-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.5722A2B8C9889EAD.title: "Catching Dragon Types"
+	quest.574A5939A0A71D1A.quest_desc: ["Register fossil Pokémon in your Pokédex. Restore them, trade them - however you do it is all the same."]
+	quest.574A5939A0A71D1A.title: "Restoring Fossils"
+	quest.57A54146F983CA6A.quest_desc: ["Fish up Pokémon with any Poké Rod."]
+	quest.57A54146F983CA6A.title: "Fishing for Pokémon"
+	quest.5822EA9B8C023762.quest_desc: ["In order to revive pokemon from Fossils, you will need to first analyze the fossil, and then put it in the restoration tank. "]
+	quest.5874B85C4F27235C.quest_desc: ["Obtain a Dynamax Band and register Gigantamax forms in your Pokédex."]
+	quest.5874B85C4F27235C.title: "Filling your Gigantamax Pokédex"
+	quest.58B5EFECF18203B9.quest_desc: ["Fish up Pokémon with any Poké Rod."]
+	quest.58B5EFECF18203B9.title: "Fishing for Pokémon"
+	quest.58DD3FEC7F9CB254.quest_desc: ["Catch wild Dragon-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.58DD3FEC7F9CB254.title: "Catching Dragon Types"
+	quest.59139CEE56C53534.quest_desc: ["Claim victory in Pokémon battles against other Trainers. You can use whichever battle regulations you like."]
+	quest.59139CEE56C53534.title: "Winning Pokémon Battles"
+	quest.597D8056657CD42B.quest_desc: ["Register Bug-type Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
+	quest.597D8056657CD42B.title: "Complete Bug Type Collection"
+	quest.59B5A86334A73602.quest_desc: ["Catch wild Flying-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.59B5A86334A73602.title: "Catching Flying Types"
+	quest.5B6B57376414ED14.quest_desc: ["These are quests to collect and turn in massive ammounts of items. The rewards are big, but the effort will also be big. You must turn the items in "]
+	quest.5C145CB48A922B87.quest_desc: ["Register Poison-type Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
+	quest.5C145CB48A922B87.title: "Complete Poison Type Collection"
+	quest.5CEFF01EC8F6E013.quest_desc: ["Claim victory in Pokémon battles against other Trainers. You can use whichever battle regulations you like."]
+	quest.5CEFF01EC8F6E013.title: "Winning Pokémon Battles"
+	quest.5DD08BCB2E8131BC.quest_desc: ["Catch wild Fighting-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.5DD08BCB2E8131BC.title: "Catching Fighting Types"
+	quest.5DD571CDE0CE5850.quest_desc: ["Fish up Pokémon with any Poké Rod."]
+	quest.5DD571CDE0CE5850.title: "Fishing for Pokémon"
+	quest.5DD8F6FAC7D23A6C.quest_desc: ["Catch wild Rock-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.5DD8F6FAC7D23A6C.title: "Catching Rock Types"
+	quest.5E2D9111891D2B15.quest_desc: ["Catch one of each of the Pokémon known as first partners from the Unova region. Pokémon you receive from other people don't count."]
+	quest.5E2D9111891D2B15.title: "Catch the Unova Starters"
+	quest.5E340215D732510A.quest_desc: ["Warning: Ancient Heavy balls, Leaden balls, and Gigaton Balls have no effect right now. "]
+	quest.5E460EFFED6906C8.title: "A Cozy Overworld"
+	quest.5EBC2B3F1D139E6B.quest_desc: ["Obtain Mega Stones and register Mega Evolutions in your Pokédex."]
+	quest.5EBC2B3F1D139E6B.title: "Filling your Mega Evolution Pokédex"
+	quest.5EC1446EA85C2097.quest_desc: ["Surely rare pokemon must spawn within the beautiful pink trees of this place"]
+	quest.5EC1446EA85C2097.quest_subtitle: "An Ocean of Pink"
+	quest.5EDA7253F98669E2.quest_desc: ["Catch wild Rock-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.5EDA7253F98669E2.title: "Catching Rock Types"
+	quest.5FB38C1187FB9971.quest_desc: ["Register various Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
+	quest.5FB38C1187FB9971.title: "Filling Your Pokédex"
+	quest.6158C620A866F32A.title: "Koga"
+	quest.621E0327A0389CBF.quest_desc: ["Catch wild Fire-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.621E0327A0389CBF.title: "Catching Fire Types"
+	quest.623A85393A3D51A8.title: "Radical Cobblemon Trainers"
+	quest.62686725CEF63030.title: "Jasmine"
+	quest.629B455C647B8233.quest_desc: ["In case you somehow got a Masterball or Ancient Origin Ball and wanted the other one, This will allow you to repeatedly change them"]
+	quest.62D38723EF896F96.quest_desc: ["Obtain a Dynamax Band and register Gigantamax forms in your Pokédex."]
+	quest.62D38723EF896F96.title: "Filling your Gigantamax Pokédex"
+	quest.62E79DF618930C4C.quest_desc: ["Pokemon live in many differnt places, and many of them are dangerous.  Try to explore every area you can, that way you can find the rarest, strongest pokemon. Hey whats that...? "]
+	quest.62E79DF618930C4C.quest_subtitle: "Hot Hot Hot"
+	quest.62E79DF618930C4C.title: "Brave the Volcano"
+	quest.6340A7C6F129BC08.quest_desc: ["Catch wild Fairy-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.6340A7C6F129BC08.title: "Catching Fairy Types"
+	quest.63CD9C8091D62B65.quest_desc: ["Catch wild Grass-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.63CD9C8091D62B65.title: "Catching Grass Types"
+	quest.64303CC2037C37B1.title: "Pryce"
+	quest.6450804C7C855EBE.quest_desc: ["Catch wild Ice-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.6450804C7C855EBE.title: "Catching Ice Types"
+	quest.64C2C78D05BE367D.quest_desc: ["Trigger Pokémon Evolution. Any species or method will do."]
+	quest.64C2C78D05BE367D.title: "Evolving Pokémon"
+	quest.64E9DB26B7CF4309.quest_desc: ["For the not so rare times when you find plenty of dripstone and not a single pointed dripstone"]
+	quest.65CDB9F01373E258.quest_desc: ["We really hope you enjoy your stay! We have worked hard to make this server as enjoayble as possible!"]
+	quest.65CDB9F01373E258.title: "Choose your starter"
+	quest.66201E01529AB758.quest_desc: ["Catch one of each of the Pokémon known as first partners from the Alola region. Pokémon you receive from other people don't count."]
+	quest.66201E01529AB758.title: "Catch the Alola Starters"
+	quest.6633783DA14F9B96.title: "Morty"
+	quest.66CA8D3375C8919D.quest_desc: ["Catch wild Fighting-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.66CA8D3375C8919D.title: "Catching Fighting Types"
+	quest.677156DFD63E6FF8.quest_desc: ["Catch wild Poison-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.677156DFD63E6FF8.title: "Catching Poison Types"
+	quest.68FB4E735BEBCB8F.quest_desc: ["Register various Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
+	quest.68FB4E735BEBCB8F.title: "Filling Your Pokédex"
+	quest.69067A687299C36E.quest_desc: ["Register Flying-type Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
+	quest.69067A687299C36E.title: "Complete Flying Type Collection"
+	quest.6988E8FF2AF03BD9.quest_desc: ["Catch wild Ghost-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.6988E8FF2AF03BD9.title: "Catching Ghost Types"
+	quest.699A0F2B22BC4FA5.quest_desc: ["Catch wild Ground-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.699A0F2B22BC4FA5.title: "Catching Ground Types"
+	quest.69F5CDA9970044B6.quest_desc: ["Trigger Pokémon Evolution. Any species or method will do."]
+	quest.69F5CDA9970044B6.title: "Evolving Pokémon"
+	quest.6B057C91A8B2499C.title: "Giovanni"
+	quest.6B13A114922D11AE.quest_desc: ["Warning: Ancient Heavy balls, Leaden balls, and Gigaton Balls have no effect right now. "]
+	quest.6C0AE4328070596E.quest_desc: ["Warning: Ancient Heavy balls, Leaden balls, and Gigaton Balls have no effect right now. "]
+	quest.6C2A339A67C7FE11.quest_desc: ["Use a Pokédex to scan Pokémon."]
+	quest.6C2A339A67C7FE11.title: "Scanning Pokémon"
+	quest.6C3C689755DE1275.quest_desc: ["Register Ice-type Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
+	quest.6C3C689755DE1275.title: "Complete Ice Type Collection"
+	quest.6DD38045E00D1FC3.quest_desc: ["Want to trash specific items? Dont want your storage cluttered? The open crate drops any item that goes into it on the ground. Drop it into a pool of lava and that pesky trash is no more!"]
+	quest.6DD38045E00D1FC3.quest_subtitle: "Garbage Can"
+	quest.6DD8E4EEE9DBBF94.quest_desc: ["Some trainers strive to be the best when it comes to battle, and raise only the strongest pokemon. We call them \"Ace\" "]
+	quest.6DE1F91404B4CC88.quest_desc: ["Claim victory in Pokémon battles against other Trainers. You can use whichever battle regulations you like."]
+	quest.6DE1F91404B4CC88.title: "Winning Pokémon Battles"
+	quest.6F198110217E741B.quest_desc: ["Catch wild Grass-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.6F198110217E741B.title: "Catching Grass Types"
+	quest.6F5B95F826D60809.quest_desc: ["Catch wild Rock-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.6F5B95F826D60809.title: "Catching Rock Types"
+	quest.6F9DC135E25A34AA.quest_desc: ["Obtain a Dynamax Band and register Gigantamax forms in your Pokédex."]
+	quest.6F9DC135E25A34AA.title: "Filling your Gigantamax Pokédex"
+	quest.703CE087EEADC287.quest_desc: ["Register various Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
+	quest.703CE087EEADC287.title: "Filling Your Pokédex"
+	quest.70FEE9F95D977853.quest_desc: ["Catch wild Flying-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.70FEE9F95D977853.title: "Catching Flying Types"
+	quest.71070688C22D2938.quest_desc: ["Catch wild Dragon-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.71070688C22D2938.title: "Catching Dragon Types"
+	quest.7149CF85A8685CFD.quest_desc: ["Catch wild Steel-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.7149CF85A8685CFD.title: "Catching Steel Types"
+	quest.731CAB0CEFF0039D.quest_desc: ["Catch wild Water-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.731CAB0CEFF0039D.title: "Catching Water Types"
+	quest.7324DAB8EE87DAC7.quest_desc: ["Register various Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
+	quest.7324DAB8EE87DAC7.title: "Filling Your Pokédex"
+	quest.7335E72C33E2B092.quest_desc: ["Using a Level Emitter you can send out a restone signal to turn an automated cobblegen on and off. "]
+	quest.7335E72C33E2B092.quest_subtitle: "Cobblegen"
+	quest.7354BD941A175327.quest_desc: ["Register various Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
+	quest.7354BD941A175327.title: "Filling Your Pokédex"
+	quest.742172AF009791E7.quest_desc: ["Catch wild Dark-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.742172AF009791E7.title: "Catching Dark Types"
+	quest.74538A559BC2A4B6.quest_desc: ["Register various Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
+	quest.74538A559BC2A4B6.title: "Filling Your Pokédex"
+	quest.74628578DDF524AC.quest_desc: ["Register fossil Pokémon in your Pokédex. Restore them, trade them - however you do it is all the same."]
+	quest.74628578DDF524AC.title: "Restoring Fossils"
+	quest.74710F787BC24312.title: "Dressed to impress"
+	quest.748655C4D6D4E80F.quest_desc: ["Catch wild Fighting-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.748655C4D6D4E80F.title: "Catching Fighting Types"
+	quest.75E200BE693932DA.quest_desc: ["Catch wild Steel-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.75E200BE693932DA.title: "Catching Steel Types"
+	quest.75EC89F7DEFB3297.title: "Lt. Surge"
+	quest.760989E122A37DD7.title: "Erica"
+	quest.769D900EF69D1086.quest_desc: ["Register Dark-type Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
+	quest.769D900EF69D1086.title: "Complete Dark Type Collection"
+	quest.76CA3B0DCF9D926D.quest_desc: ["Catch wild Poison-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.76CA3B0DCF9D926D.title: "Catching Poison Types"
+	quest.7703313A47898FEB.quest_desc: ["Register various Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
+	quest.7703313A47898FEB.title: "Filling Your Pokédex"
+	quest.77073147433ADFCE.quest_desc: ["Catch wild Dark-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.77073147433ADFCE.title: "Catching Dark Types"
+	quest.77FFE2F31FDE3DE4.quest_desc: ["Obtain Mega Stones and register Mega Evolutions in your Pokédex."]
+	quest.77FFE2F31FDE3DE4.title: "Filling your Mega Evolution Pokédex"
+	quest.79B999792D7A0C91.quest_desc: ["Catch wild Water-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.79B999792D7A0C91.title: "Catching Water Types"
+	quest.7A58CE76A1377538.quest_desc: ["Claim victory in Pokémon battles against other Trainers. You can use whichever battle regulations you like."]
+	quest.7A58CE76A1377538.title: "Winning Pokémon Battles"
+	quest.7A8142FA184DFA02.title: "Friendship is Magic"
+	quest.7BC345EF0854103D.quest_desc: ["Claim victory in Pokémon battles against other Trainers. You can use whichever battle regulations you like."]
+	quest.7BC345EF0854103D.title: "Winning Pokémon Battles"
+	quest.7C43E867448C6790.quest_desc: ["Catch wild Steel-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.7C43E867448C6790.title: "Catching Steel Types"
+	quest.7CB65FCFF0804E01.quest_desc: ["Trigger Pokémon Evolution. Any species or method will do."]
+	quest.7CB65FCFF0804E01.title: "Evolving Pokémon"
+	quest.7E512468964BDDB0.quest_desc: ["Catch one of each of the Pokémon known as first partners from the Galar region. Pokémon you receive from other people don't count."]
+	quest.7E512468964BDDB0.title: "Catch the Galar Starters"
+	quest.7F847257D8519B24.quest_desc: ["Catch wild Ground-type Pokémon. Pokémon you receive from other people don't count."]
+	quest.7F847257D8519B24.title: "Catching Ground Types"
+	reward.096289B7C3AEE2C5.title: "Inner Peace"
+	reward_table.08BDC2A13740066A.title: "Small Material Box"
+	reward_table.0C2410BA28C17E8E.title: "Masterballs"
+	reward_table.173394CE21041EF9.title: "Fossils"
+	reward_table.1A0C9239F0F87EC9.title: "Mint Seeds"
+	reward_table.1BF328190FFA5B90.title: "Deepsea"
+	reward_table.2371F675DF28B9D3.title: "Ingots"
+	reward_table.2694227683C4D647.title: "Dye"
+	reward_table.3771C561B1E75B40.title: "Saplings"
+	reward_table.37CCDCDC4F9BDEB5.title: "Evo Stones"
+	reward_table.4454B205973BE76B.title: "Dex"
+	reward_table.54489AD8DE3BFD3C.title: "Balls"
+	reward_table.6A2302790D950272.title: "Tyrogue"
+	reward_table.6ACD6DD8E1D2F562.title: "Tumblestones"
+	task.00A8B0F7370CA981.title: "Tier 2 Poké Ball"
+	task.00FA5E28E88D07A5.title: "Any #c:concrete_powder"
+	task.035F2EAAABC2D84B.title: "Evolving via Link Trade"
+	task.03A6052880AC99BF.title: "Radical Trainers"
+	task.03BB442B73D363F3.title: "Tier 4 Poké Ball"
+	task.0454F6D0C04EF760.title: "Evolve 10x Pokémon"
+	task.0515419423F498E3.title: "Defeat 80x Trainer"
+	task.0926216887AD0661.title: "Evolve 150x Pokémon"
+	task.09AEC91D5F8E67AE.title: "Any #cobblemon:mints"
+	task.0B190FE6A9B78D7E.title: "Have registered 3x Fossil Pokémon"
+	task.100DF988FEA2C144.title: "Any #minecraft:logs"
+	task.11BAB8B001768BB2.title: "Evolve 125x Pokémon"
+	task.131A6A796C79701C.title: "Have registered 9x Fossil Pokémon"
+	task.13733F418AB99502.title: "Cosmetics"
+	task.1617F12527EDBF2E.title: "Have registered (caught) 15x G-Max Pokémon"
+	task.1776BD4AD0B145E1.title: "Any #c:crops"
+	task.1776C39A68EC4227.title: "Defeat 15x Trainer"
+	task.1B2596D5F1DC2DAC.title: "Tier 1 Poké Ball"
+	task.1C9DE267D5C5038E.title: "Click me!"
+	task.1CB07D78D337FDC1.title: "Any #cobblemon:berries"
+	task.1F64F01C6372A3FB.title: "Misty"
+	task.211F76207858285F.title: "Gather an Apricorn"
+	task.21D578B52C876BA7.title: "Storage Options"
+	task.221E24E7C21E1457.title: "Defeat 10x Trainer"
+	task.23413424242B06AF.title: "Have registered (caught) 10x Mega Pokémon"
+	task.24709500AD3B77B4.title: "Evolve 6x Pokémon"
+	task.2577314F7FABEF8B.title: "Tier 3 Poké Ball"
+	task.27A092B8579ABB35.title: "Any #comforts:sleeping_bags"
+	task.28183BDCF6299E57.title: "Defeat 100x Trainer"
+	task.28A307BD5C6B9BD0.title: "Have registered 12x Fossil Pokémon"
+	task.28CCD87DD561EA0B.title: "Evolve 50x Pokémon"
+	task.2B74C78D818180CA.title: "Evolve 1x Pokémon"
+	task.2BA14CB775D12F5F.title: "Have registered (caught) 48x Mega Pokémon"
+	task.2BD3261FF75D6FFC.title: "Have registered 6x Fossil Pokémon"
+	task.2C91C4DF42A3B0DB.title: "Evolve 25x Pokémon"
+	task.2CA317FA51926586.title: "Any #cobblemon:tier_5_poke_balls"
+	task.2E493CDA1A563BE0.title: "Any #minecraft:beds"
+	task.2F86CDE6A03524AA.title: "Any #cobblemon:apricorns"
+	task.2FA032F359928AB7.title: "Revive 1x Fossil Pokémon"
+	task.2FCEC5B145B7558C.title: "Tier 2 Poké Ball"
+	task.301034CECD62AF2C.title: "Have registered 3x Fossil Pokémon"
+	task.31F0F75E49EB174C.title: "Evolve 200x Pokémon"
+	task.3317D77EEBDE4C06.title: "Defeat 50x Trainer"
+	task.3406EA1EC34C3D00.title: "Any #c:cobblestones"
+	task.36666918D004064C.title: "Cobblemon Addons"
+	task.37296AD706E8C564.title: "Revive 1x Fossil Pokémon"
+	task.37891EF26B5AA5A7.title: "Defeat 70x Trainer"
+	task.38B2ECD8AA0A4DA6.title: "Tier 5 Poké Ball"
+	task.390AB335AE57B746.title: "Have registered (caught) 10x G-Max Pokémon"
+	task.3D9975A49AB7BB56.title: "Have registered (caught) 20x G-Max Pokémon"
+	task.3FCF151E68A59FAF.title: "Any #minecraft:wool"
+	task.40709E98AC1F0B4F.title: "Have registered 15x Fossil Pokémon"
+	task.427CA9BB5DEE7B16.title: "Have registered (caught) 25x Mega Pokémon"
+	task.43352FCD96C1E9D5.title: "Any #cobblemon:tier_5_poke_balls"
+	task.4473E895512E49DD.title: "5"
+	task.45371BCDF7C8D9C7.title: "Defeat 20x Trainer"
+	task.46092D2569768850.title: "Any Poké Ball"
+	task.469FDF8DC57F32A2.title: "Defeat 500x Trainer"
+	task.46F98509E8EE4D51.title: "Have registered (caught) 20x Mega Pokémon"
+	task.485FAAFFA48B42F3.title: "Have registered (caught) 30x Mega Pokémon"
+	task.493852FF006D0F23.title: "Have registered (caught) 40x Mega Pokémon"
+	task.4D0EA11F1FFB44AB.title: "Defeat 5x Trainer"
+	task.4E132224F0759A40.title: "Ancient Poké Ball"
+	task.4F07FC31017A3155.title: "Defeat 60x Trainer"
+	task.500EC9A10B5810BD.title: "Have registered (caught) 35x Mega Pokémon"
+	task.51C268B95DB2C38F.title: "Have registered (caught) 15x Mega Pokémon"
+	task.52B3595C4A8D99A0.title: "Evolve 75x Pokémon"
+	task.5344A04951759D08.title: "Any #c:dyes"
+	task.5741796E74BBE5FF.title: "Have registered (caught) 5x Mega Pokémon"
+	task.58CEF0D65D843475.title: "Brock"
+	task.5972F2CAD0A03307.title: "Evolve 175x Pokémon"
+	task.5A3E95E97ED1F917.title: "Evolve 3x Pokémon"
+	task.5B233A6639C25DD3.title: "Evolving with Items"
+	task.63579D11D9B2ED82.title: "Have registered (caught) 5x G-Max Pokémon"
+	task.66CC5CC6540D5078.title: "Any #minecraft:hoes"
+	task.699D3B962C6CCF46.title: "Any #cobblemon:tier_5_poke_balls"
+	task.6BC368C2ECD09F4C.title: "Biomes"
+	task.6D13494E43DBC54B.title: "Defeat 90x Trainer"
+	task.6E80B2A0B7F278CD.title: "Defeat 1000x Trainer"
+	task.6FDBBC7759E9F01A.title: "Gather any Tumblestone"
+	task.710F8F0142B49673.title: "Have registered (caught) 32x G-Max Pokémon"
+	task.71AEC4C7BD8CC94B.title: "Defeat 25x Trainer"
+	task.74A3B8EFF8E0DD12.title: "Evolve 100x Pokémon"
+	task.76C48DBC8EC02785.title: "Food and Farming"
+	task.771B9AAD726818E3.title: "Defeat 40x Trainer"
+	task.78DA02034FB06E75.title: "Have registered (caught) 25x G-Max Pokémon"
+	task.79C1C2F5E7D5B965.title: "Have registered 15x Fossil Pokémon"
+	task.7A262A19546B0AA2.title: "Any #cobblemon:poke_balls"
+	task.7D4CB9BA149AAE43.title: "Any #minecraft:logs"
+	task.7EF8D7205216C907.title: "10"
+	task.7EF9987DAA1642E7.title: "Defeat 30x Trainer"
+}

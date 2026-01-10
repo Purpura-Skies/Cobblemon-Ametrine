@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "cobblemon_progression"
+	group: ""
+	id: "0D52CFBBFEEF64B8"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+}
