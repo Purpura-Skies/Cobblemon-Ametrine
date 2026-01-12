@@ -4,6 +4,7 @@
   "includeListInSuperCategory": true,
   "excludeMode": "ONLY",
   "excludeList": [
+    "cobbleloots:loot_ball",
     "minecraft:glow_item_frame",
     "minecraft:item_frame"
   ],
