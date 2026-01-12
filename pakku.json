@@ -5,6 +5,12 @@
         "config"
     ],
     "projects": {
+        "bluemap": {
+            "side": "SERVER"
+        },
+        "cobblemon-challenge": {
+            "side": "SERVER"
+        },
         "flerovium": {
             "side": "CLIENT"
         },
