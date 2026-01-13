@@ -967,6 +967,7 @@
         {
             "pakku_id": "Ckcb5A70cBbj7sHZ",
             "type": "MOD",
+            "side": "SERVER",
             "slug": {
                 "curseforge": "bluemap"
             },
@@ -1815,6 +1816,7 @@
         {
             "pakku_id": "LjeI4r6xIBmpB4LS",
             "type": "MOD",
+            "side": "SERVER",
             "slug": {
                 "curseforge": "cobblemon-challenge"
             },
@@ -6334,6 +6336,47 @@
             ]
         },
         {
+            "pakku_id": "XESJQsxbmJ2jFdWT",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "lambdynamiclights"
+            },
+            "name": {
+                "curseforge": "LambDynamicLights"
+            },
+            "id": {
+                "curseforge": "393442"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "lambdynamiclights-4.8.7+1.21.1.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "neoforge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7306/458/lambdynamiclights-4.8.7+1.21.1.jar",
+                    "id": "7306458",
+                    "parent_id": "393442",
+                    "hashes": {
+                        "sha1": "b7dc4acb053b98810faffab19fde0f18b453a824",
+                        "md5": "0651066c414e8907641f5aaee20659c6"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 2012226,
+                    "date_published": "2025-12-08T00:40:45.087Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "nnFKBJONzLf7R894",
             "pakku_links": [
                 "L2X12P3asTqCPz17"
@@ -9526,45 +9569,6 @@
                     ],
                     "size": 58071,
                     "date_published": "2024-12-05T02:39:43.120Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "to3GBCf8F6E7swKV",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "dynamiclights-reforged"
-            },
-            "name": {
-                "curseforge": "Sodium/Embeddium Dynamic Lights"
-            },
-            "id": {
-                "curseforge": "551736"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6044/477/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
-                    "id": "6044477",
-                    "parent_id": "551736",
-                    "hashes": {
-                        "sha1": "02e9bc7ba28147cdf2d608ecf4f2c1eab34b4652",
-                        "md5": "daaa3a9e438fddffc1db19bf8a7dfba0"
-                    },
-                    "required_dependencies": [
-                        "1103431",
-                        "394468"
-                    ],
-                    "size": 299353,
-                    "date_published": "2025-01-02T01:22:42.973Z"
                 }
             ]
         },
