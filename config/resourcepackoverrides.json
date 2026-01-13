@@ -54,6 +54,7 @@
       "scholar:colored_books"
     ],
     "$$modresources": {
+      "default_position": "BOTTOM",
       "hidden": false,
       "required": true,
       "fixed_position": true
