@@ -5767,7 +5767,6 @@
         {
             "pakku_id": "rYHbguOO2HWMGjKZ",
             "type": "MOD",
-            "side": "CLIENT",
             "slug": {
                 "curseforge": "inventory-tweaks-refoxed"
             },
@@ -6107,7 +6106,6 @@
         {
             "pakku_id": "fgLxrlTuf3P9X4ED",
             "type": "MOD",
-            "side": "CLIENT",
             "slug": {
                 "curseforge": "jei"
             },
@@ -6338,6 +6336,7 @@
         {
             "pakku_id": "XESJQsxbmJ2jFdWT",
             "type": "MOD",
+            "side": "CLIENT",
             "slug": {
                 "curseforge": "lambdynamiclights"
             },

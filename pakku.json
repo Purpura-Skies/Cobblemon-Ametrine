@@ -11,6 +11,9 @@
         "cobblemon-challenge": {
             "side": "SERVER"
         },
+        "lambdynamiclights": {
+            "side": "CLIENT"
+        },
         "flerovium": {
             "side": "CLIENT"
         },
