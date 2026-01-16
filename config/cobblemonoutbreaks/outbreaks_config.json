@@ -12,8 +12,8 @@
     "min_spawn_radius": 32,
     "max_spawn_radius": 64,
     "portal_spawn_choice": "random_player",
-    "per_player_outbreak_timer": 36000,
-    "random_outbreak_timer": 36000
+    "per_player_outbreak_timer": 144000,
+    "random_outbreak_timer": 144000
   },
   "shiny_config": {
     "shiny_chance": 1024.0
@@ -30,10 +30,10 @@
       "outbreak_portal_shiny_pokemon_spawn_volume": 0.5,
       "outbreak_portal_spawn_volume": 0.2
     },
-    "outbreak_portal_spawn_sound": true
+    "outbreak_portal_spawn_sound": false
   },
   "messages": {
-    "send_portal_spawn_message": true,
+    "send_portal_spawn_message": false,
     "biome_specific_spawns": true,
     "biome_specific_spawns_debug": false
   }
