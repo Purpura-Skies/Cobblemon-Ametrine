@@ -5,12 +5,12 @@
   },
   "default_packs": [
     "vanilla",
-    "moonlight:merged_pack",
-    "mod_resources",
-    "pasturefix",
     "fabric",
+    "mod_resources",
+    "moonlight:merged_pack",
     "scholar:chiseled_bookshelf_colored_books",
     "scholar:colored_books",
+    "pasturefix",
     "file/CobblemonTextFixv2.0.2.zip",
     "file/Tom's Cobblemoned.zip",
 	"file/Cobblemon 3D Poké Rods 1.0.zip",
@@ -46,12 +46,12 @@
     },
     "modresources": [
       "vanilla",
-      "moonlight:merged_pack",
-      "mod_resources",
-      "pasturefix",
       "fabric",
+      "mod_resources",
+      "moonlight:merged_pack",
       "scholar:chiseled_bookshelf_colored_books",
-      "scholar:colored_books"
+      "scholar:colored_books",
+      "pasturefix"
     ],
     "$$modresources": {
       "default_position": "BOTTOM",
