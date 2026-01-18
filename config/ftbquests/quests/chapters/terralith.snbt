@@ -1,0 +1,130 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "explore_the_world"
+	group: "5FAB93800A98CD2D"
+	id: "4B6C74CA7C7E19EE"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "62E79DF618930C4C"
+			rewards: [{
+				command: "/pokespawn magmar level=10"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "321DD460E52831E1"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				biome: "#terralith:volcanic"
+				id: "6CB9BCCCE55212E6"
+				type: "biome"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "5EC1446EA85C2097"
+			rewards: [{
+				command: "/pokespawn flabebe level=10"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "730C2C10A3D31A11"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				biome: "terralith:sakura_valley"
+				id: "79B7E1E8DD2BFB86"
+				type: "biome"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			id: "17359B665774C9EE"
+			rewards: [{
+				command: "/pokespawn froakie level=10"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "4D6435C6E5EBC90A"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				biome: "terralith:orchid_swamp"
+				id: "09D7356489BB0055"
+				type: "biome"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			id: "25F1493EA6A7375A"
+			rewards: [
+				{
+					count: 8
+					id: "0D0F5D62D0A5AC6A"
+					item: {
+						count: 1
+						id: "cobblemon:liechi_berry"
+					}
+					type: "item"
+				}
+				{
+					command: "/pokespawn wynaut level=10"
+					elevate_perms: true
+					exclude_from_claim_all: true
+					id: "402BF56F236B2FA3"
+					silent: true
+					type: "command"
+				}
+			]
+			tasks: [{
+				biome: "terralith:mirage_isles"
+				id: "00E41CA111751C08"
+				type: "biome"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			id: "2F92F79904CBDD0C"
+			rewards: [{
+				command: "/pokespawn comfey level=10"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "7BA8D5F6AD9B8B08"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				biome: "terralith:blooming_valley"
+				id: "7CCF87E9D2985E7F"
+				type: "biome"
+			}]
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			id: "67283CAC432ED066"
+			rewards: [{
+				command: "/pokespawn Tropius level=10"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				id: "64FD3643D972C278"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				biome: "terralith:red_oasis"
+				id: "4622CCBB139416A0"
+				type: "biome"
+			}]
+			x: 1.0d
+			y: -1.0d
+		}
+	]
+}

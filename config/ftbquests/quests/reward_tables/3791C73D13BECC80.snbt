@@ -1,0 +1,15 @@
+{
+	id: "3791C73D13BECC80"
+	loot_size: 1
+	order_index: 9
+	rewards: [
+		{ id: "43820693B2942796", item: { count: 1, id: "cobblemon:growth_mulch" } }
+		{ id: "60F873577097EDFF", item: { count: 1, id: "cobblemon:rich_mulch" } }
+		{ id: "4538ECEEAA535FE5", item: { count: 1, id: "cobblemon:surprise_mulch" } }
+		{ id: "494D7FF20DBE6ECC", item: { count: 1, id: "cobblemon:loamy_mulch" } }
+		{ id: "759502CC9013972E", item: { count: 1, id: "cobblemon:coarse_mulch" } }
+		{ id: "1E4D727281B14176", item: { count: 1, id: "cobblemon:peat_mulch" } }
+		{ id: "7895CA559CD4A1FA", item: { count: 1, id: "cobblemon:humid_mulch" } }
+		{ id: "37581324985AAACC", item: { count: 1, id: "cobblemon:sandy_mulch" } }
+	]
+}

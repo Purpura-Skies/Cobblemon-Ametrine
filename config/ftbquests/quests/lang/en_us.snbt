@@ -1,13 +1,16 @@
 {
 	chapter.0D52CFBBFEEF64B8.title: "Trainer Association"
 	chapter.1488F9827C841EE8.title: "Monster Hunter"
+	chapter.165CEFE034705373.title: "Master Pokeball Smith"
+	chapter.1804290171CE483F.title: "Nurse Joy Training"
+	chapter.1F7A8E79DF5C73B8.title: "Apprentice Pokeball Smith"
 	chapter.2312EE8F52CBF56A.title: "A Professor's Research"
-	chapter.2901C37C7BBE8C88.title: "Farming and Food"
 	chapter.3080C9E094D553FF.title: "boop"
 	chapter.35F2407D83F2F017.title: "Welcome"
-	chapter.48F9624BC499A6C2.title: "Pokémon Breeder"
 	chapter.5AB785342207B899.title: "Getting Started"
+	chapter.6E253B79F16227BC.title: "Journeyman Pokeball Smith"
 	chapter_group.28843B9FB0224E7E.title: "The Basics"
+	chapter_group.401665B40F1DA943.title: "Cobblemon"
 	file.0000000000000001.title: "&l&dPurpura Skies: Cobblemon Ametrine"
 	quest.002E81F813B8743B.quest_desc: ["Obtain Mega Stones and register Mega Evolutions in your Pokédex."]
 	quest.002E81F813B8743B.title: "Filling your Mega Evolution Pokédex"
@@ -158,8 +161,25 @@
 	quest.2491D2CE800A29E2.title: "Complete Electric Type Collection"
 	quest.2539909D7E6271F0.quest_desc: ["Register Fire-type Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
 	quest.2539909D7E6271F0.title: "Complete Fire Type Collection"
+	quest.258D56DB5588C2EF.quest_desc: [
+		"&lBiomes&r"
+		""
+		"With Biomes O' Plenty, Oh The Biomes We've Gone, and Regions Unexplored, the number of different biomes feels almost endless while exploring!"
+		""
+		"Not to mention Terralith, Tectonic, and Geophilic, which overhaul the overall landscapes themselves."
+		""
+		"Last but not least, Incendium, to spruce up the Nether!"
+		"{@pagebreak}"
+		"&lMoog's End and Nether Structures&r"
+		"These mods add new and exciting structures to the End and Nether dimensions. You'll find loot, tough enemies, and fun challenges as you explore."
+		""
+		"&lRadical Gyms \\& Structures&r"
+		"Expect to find naturally generating, survival friendly gym structures that house the 8 kanto gym leaders, elite 4 and champion featured in the Radical Cobblemon Trainers mod"
+		""
+		"&lSimple Pokecenters&r"
+		"Adds pokemon centers with a healing machine and pc."
+	]
 	quest.258D56DB5588C2EF.title: "Survival and Adventure"
-	quest.2595CD4D52049FED.title: "Eevee"
 	quest.25F1493EA6A7375A.quest_desc: ["They say finding this place is even rarer than finding a shiny pokemon"]
 	quest.25F1493EA6A7375A.title: "Mirage island"
 	quest.26B6F237AF32AC4E.title: "Defeat pokemon from each type"
@@ -177,8 +197,6 @@
 	quest.2A4010D05032EDB7.quest_desc: ["Catch wild Bug-type Pokémon. Pokémon you receive from other people don't count."]
 	quest.2A4010D05032EDB7.title: "Catching Bug Types"
 	quest.2A6A9041FE0C4888.quest_desc: ["Iron is the lifeblood of minecraft. If you need it, it probably uses iron. "]
-	quest.2AADB51A9C011561.quest_desc: ["Nice, you got a full team!"]
-	quest.2AADB51A9C011561.quest_subtitle: "A full Team!"
 	quest.2BAB07DD40FECB05.quest_desc: ["Catch wild Bug-type Pokémon. Pokémon you receive from other people don't count."]
 	quest.2BAB07DD40FECB05.title: "Catching Bug Types"
 	quest.2BCFADABFF16E43E.quest_desc: ["Catch wild Poison-type Pokémon. Pokémon you receive from other people don't count."]
@@ -187,8 +205,6 @@
 	quest.2C31A2E60500AF7D.title: "Catching Fire Types"
 	quest.2D56B98299B25443.quest_desc: ["Catch wild Flying-type Pokémon. Pokémon you receive from other people don't count."]
 	quest.2D56B98299B25443.title: "Catching Flying Types"
-	quest.2E54CF3858793E28.quest_desc: ["Catch the favorite Pokemon of the person who made these quests. Thanks everyone who downloaded this and enjoyed it!"]
-	quest.2E54CF3858793E28.title: "Team Clarissa"
 	quest.2F2ADEC6F4BCE766.quest_desc: ["With a level 4 beacon, so long as your storage is chunkloaded, you can access your storage from anywhere using this wireless terminal. "]
 	quest.2F2ADEC6F4BCE766.quest_subtitle: "Level 4 Beacon"
 	quest.2F3DC5EFCA23C7E6.quest_desc: ["Catch Pokémon using a Master Ball to 100% guarantee their capture."]
@@ -301,6 +317,7 @@
 	quest.471597295A4C634A.title: "Complete Fighting Type Collection"
 	quest.47A8DC02682C9448.quest_desc: ["Claim victory in Pokémon battles against other Trainers. You can use whichever battle regulations you like."]
 	quest.47A8DC02682C9448.title: "Winning Pokémon Battles"
+	quest.483EA248B41F7FE9.quest_desc: ["The usual, you know what to do here. Get to the punching of trees."]
 	quest.483EA248B41F7FE9.title: "Minecraft Basics"
 	quest.494D7FEA72E15282.quest_desc: ["Register various Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
 	quest.494D7FEA72E15282.title: "Filling Your Pokédex"
@@ -340,6 +357,17 @@
 	quest.53ED864D9753F180.title: "Fishing for Pokémon"
 	quest.54480FFCB8951155.quest_desc: ["Trigger Pokémon Evolution. Any species or method will do."]
 	quest.54480FFCB8951155.title: "Evolving Pokémon"
+	quest.548AA8E3D135BB27.quest_desc: [
+		"&lPlayer Cosmetics"
+		""
+		"Selfexpression, Simple Hats, Weaver's Cosplay, and Cobblemon: Armory all add fun items you can wear!"
+		""
+		"Grab yourself a Portable Wardrobe for ease of outfit switching, and remember to utilize your Cosmetic Armor and Accessories inventories!"
+		"{@pagebreak}"
+		"&lBuilding"
+		""
+		"Another Furniture, Beautify, Bibliocraft, Chipped, Cluttered, CobbleFurnies, Dark Paintings, Furnies, Handcrafted, the Macaw's suite, Storage Delight, and Yuushya Townscape all over tons of decoration options for all your building needs."
+	]
 	quest.548AA8E3D135BB27.title: "Cosmetics"
 	quest.54E2F5E0A09C91E7.quest_desc: ["Catch wild Electric-type Pokémon. Pokémon you receive from other people don't count."]
 	quest.54E2F5E0A09C91E7.title: "Catching Electric Types"
@@ -386,6 +414,13 @@
 	quest.5E2D9111891D2B15.quest_desc: ["Catch one of each of the Pokémon known as first partners from the Unova region. Pokémon you receive from other people don't count."]
 	quest.5E2D9111891D2B15.title: "Catch the Unova Starters"
 	quest.5E340215D732510A.quest_desc: ["Warning: Ancient Heavy balls, Leaden balls, and Gigaton Balls have no effect right now. "]
+	quest.5E460EFFED6906C8.quest_desc: [
+		"A little too peaceful... until you go into the caves, of course!"
+		""
+		"This modpack uses InControl to &lremove hostile mob spawns&r on the surface of the &lOverworld&r. It also disables patrol spawns and insomnia, and &lenables keep inventory&r!"
+		""
+		"However, beware &langry&r Pokémon!"
+	]
 	quest.5E460EFFED6906C8.title: "A Cozy Overworld"
 	quest.5EBC2B3F1D139E6B.quest_desc: ["Obtain Mega Stones and register Mega Evolutions in your Pokédex."]
 	quest.5EBC2B3F1D139E6B.title: "Filling your Mega Evolution Pokédex"
@@ -393,6 +428,7 @@
 	quest.5EC1446EA85C2097.quest_subtitle: "An Ocean of Pink"
 	quest.5EDA7253F98669E2.quest_desc: ["Catch wild Rock-type Pokémon. Pokémon you receive from other people don't count."]
 	quest.5EDA7253F98669E2.title: "Catching Rock Types"
+	quest.5F560FEED8FB2E10.quest_desc: ["Farming will become even more important in Cobblemon. Berries, Apricorns, and medicine all require you to till the fields. "]
 	quest.5FB38C1187FB9971.quest_desc: ["Register various Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
 	quest.5FB38C1187FB9971.title: "Filling Your Pokédex"
 	quest.6158C620A866F32A.title: "Koga"
@@ -410,14 +446,33 @@
 	quest.6340A7C6F129BC08.title: "Catching Fairy Types"
 	quest.63CD9C8091D62B65.quest_desc: ["Catch wild Grass-type Pokémon. Pokémon you receive from other people don't count."]
 	quest.63CD9C8091D62B65.title: "Catching Grass Types"
+	quest.63EFD4A495AC32BB.quest_desc: [
+		"This modpack comes with a couple different options of storage besides the basic vanilla chests!"
+		""
+		"First and foremost, &lSophisticated Backpacks&r! Take this backpack with you for extra on-the-go storage. Equip it to your back slot and access it with your 'B' key."
+		""
+		"{@pagebreak}"
+		"&lSophisticated Storage&r"
+		"Introducing multiple tiers of Barrels, Chests, and Shulker Boxes, with extensive customization and functionality."
+		""
+		"A wide range of upgrades are available to enhance and expand their functionality."
+		""
+		"Limited Barrels are designed for efficient mass storage, offering 1 to 4 slots for items, with increased stack size limits that grow even larger as the barrel's tier is upgraded."
+		""
+		"{@pagebreak}"
+		"&lTom's Simple Storage&r"
+		"Attach a storage terminal to a chest to see the chests inventory. Add a crafting terminal to craft from within the chest."
+		""
+		"Use an Inventory Connecter to connect all adjacent (touching) chests."
+		""
+		"Add a level 4 beacon to access your storage from anywhere using a wireless terminal! (As long as the chunks are loaded.)"
+	]
 	quest.64303CC2037C37B1.title: "Pryce"
 	quest.6450804C7C855EBE.quest_desc: ["Catch wild Ice-type Pokémon. Pokémon you receive from other people don't count."]
 	quest.6450804C7C855EBE.title: "Catching Ice Types"
 	quest.64C2C78D05BE367D.quest_desc: ["Trigger Pokémon Evolution. Any species or method will do."]
 	quest.64C2C78D05BE367D.title: "Evolving Pokémon"
 	quest.64E9DB26B7CF4309.quest_desc: ["For the not so rare times when you find plenty of dripstone and not a single pointed dripstone"]
-	quest.65CDB9F01373E258.quest_desc: ["We really hope you enjoy your stay! We have worked hard to make this server as enjoayble as possible!"]
-	quest.65CDB9F01373E258.title: "Choose your starter"
 	quest.66201E01529AB758.quest_desc: ["Catch one of each of the Pokémon known as first partners from the Alola region. Pokémon you receive from other people don't count."]
 	quest.66201E01529AB758.title: "Catch the Alola Starters"
 	quest.6633783DA14F9B96.title: "Morty"
@@ -507,19 +562,16 @@
 	quest.7E512468964BDDB0.title: "Catch the Galar Starters"
 	quest.7F847257D8519B24.quest_desc: ["Catch wild Ground-type Pokémon. Pokémon you receive from other people don't count."]
 	quest.7F847257D8519B24.title: "Catching Ground Types"
-	reward.096289B7C3AEE2C5.title: "Inner Peace"
 	reward_table.08BDC2A13740066A.title: "Small Material Box"
-	reward_table.0C2410BA28C17E8E.title: "Masterballs"
-	reward_table.173394CE21041EF9.title: "Fossils"
+	reward_table.0A51D3DC9120D4DE.title: "Trainer Cap"
 	reward_table.1A0C9239F0F87EC9.title: "Mint Seeds"
-	reward_table.1BF328190FFA5B90.title: "Deepsea"
+	reward_table.1B145C52938C47A4.title: "Snack"
 	reward_table.2371F675DF28B9D3.title: "Ingots"
-	reward_table.2694227683C4D647.title: "Dye"
-	reward_table.3771C561B1E75B40.title: "Saplings"
-	reward_table.37CCDCDC4F9BDEB5.title: "Evo Stones"
+	reward_table.2392B011F3FF863B.title: "Meal"
+	reward_table.3791C73D13BECC80.title: "Mulch"
 	reward_table.4454B205973BE76B.title: "Dex"
-	reward_table.54489AD8DE3BFD3C.title: "Balls"
-	reward_table.6A2302790D950272.title: "Tyrogue"
+	reward_table.4537921BA5592FED.title: "Caps"
+	reward_table.668B43169322FE4C.title: "Bike"
 	reward_table.6ACD6DD8E1D2F562.title: "Tumblestones"
 	task.00A8B0F7370CA981.title: "Tier 2 Poké Ball"
 	task.00FA5E28E88D07A5.title: "Any #c:concrete_powder"

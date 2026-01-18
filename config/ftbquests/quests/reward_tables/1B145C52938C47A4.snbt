@@ -1,0 +1,55 @@
+{
+	id: "1B145C52938C47A4"
+	loot_size: 1
+	order_index: 10
+	rewards: [
+		{
+			count: 32
+			id: "1DF5A7DFF0CB58D6"
+			item: {
+				count: 1
+				id: "culturaldelights:popcorn"
+			}
+		}
+		{
+			count: 8
+			id: "119273F08F025A4D"
+			item: {
+				count: 1
+				id: "culturaldelights:avocado_toast"
+			}
+		}
+		{
+			count: 16
+			id: "1B47A9BEC6CB3315"
+			item: {
+				count: 1
+				id: "farmersdelight:honey_cookie"
+			}
+		}
+		{
+			count: 5
+			id: "71278EDC8A6AE085"
+			item: {
+				count: 1
+				id: "farmersdelight:kelp_roll_slice"
+			}
+		}
+		{
+			count: 6
+			id: "318F3E6595F2DCC2"
+			item: {
+				count: 1
+				id: "fruitsdelight:blueberry_muffin"
+			}
+		}
+		{
+			count: 16
+			id: "26D6606688945966"
+			item: {
+				count: 1
+				id: "fruitsdelight:orange_slice"
+			}
+		}
+	]
+}

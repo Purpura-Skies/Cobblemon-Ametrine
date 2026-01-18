@@ -1,0 +1,11 @@
+{
+	id: "668B43169322FE4C"
+	loot_size: 1
+	order_index: 4
+	rewards: [
+		{ id: "7E27FC1AEF16870B", item: { count: 1, id: "pokebike:red_bike" } }
+		{ id: "060B10C42246C8B4", item: { count: 1, id: "pokebike:yellow_bike" } }
+		{ id: "4B93646F119BD92A", item: { count: 1, id: "pokebike:green_bike" } }
+		{ id: "7047768B15722A7A", item: { count: 1, id: "pokebike:blue_bike" } }
+	]
+}

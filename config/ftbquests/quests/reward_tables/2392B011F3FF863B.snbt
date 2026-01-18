@@ -1,0 +1,55 @@
+{
+	id: "2392B011F3FF863B"
+	loot_size: 1
+	order_index: 8
+	rewards: [
+		{
+			count: 8
+			id: "7DCAF3F88F71B371"
+			item: {
+				count: 1
+				id: "culturaldelights:chicken_taco"
+			}
+		}
+		{
+			count: 8
+			id: "10BB68D77EEA7A2E"
+			item: {
+				count: 1
+				id: "culturaldelights:pork_wrap"
+			}
+		}
+		{
+			count: 8
+			id: "79A5735ED9F7E65B"
+			item: {
+				count: 1
+				id: "farmersdelight:mutton_wrap"
+			}
+		}
+		{
+			count: 8
+			id: "4153FA75B33CD1AD"
+			item: {
+				count: 1
+				id: "culturaldelights:fish_taco"
+			}
+		}
+		{
+			count: 8
+			id: "5FB536E3BAB1C966"
+			item: {
+				count: 1
+				id: "farmersdelight:hamburger"
+			}
+		}
+		{
+			count: 8
+			id: "7D9145E47BF52748"
+			item: {
+				count: 1
+				id: "culturaldelights:eggplant_burger"
+			}
+		}
+	]
+}

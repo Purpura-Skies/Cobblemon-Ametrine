@@ -1,7 +1,7 @@
 {
 	id: "1A0C9239F0F87EC9"
 	loot_size: 1
-	order_index: 4
+	order_index: 7
 	rewards: [
 		{ id: "539C3E564C69DADA", item: { count: 1, id: "cobblemon:red_mint_seeds" } }
 		{ id: "703BFB0BF2CC978A", item: { count: 1, id: "cobblemon:blue_mint_seeds" } }

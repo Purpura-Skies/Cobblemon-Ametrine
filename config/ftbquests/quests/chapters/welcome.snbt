@@ -23,6 +23,26 @@
 				id: "ftbquests:custom_icon"
 			}
 			id: "04E8748E53709D37"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6031A13FC7579FA1"
+					table_id: 743608357773956318L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "61DA347B03B0FB0F"
+					table_id: 4923756029704660843L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1E333A38E6B95841"
+					table_id: 2563304729081775675L
+					type: "choice"
+				}
+			]
 			size: 2.0d
 			tasks: [{
 				disable_toast: true
@@ -64,6 +84,24 @@
 				id: "naturescompass:naturescompass"
 			}
 			id: "258D56DB5588C2EF"
+			rewards: [
+				{
+					id: "252D32877D855ADB"
+					item: {
+						count: 1
+						id: "naturescompass:naturescompass"
+					}
+					type: "item"
+				}
+				{
+					id: "4CD8F8CE76393DDC"
+					item: {
+						count: 1
+						id: "explorerscompass:explorerscompass"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "6BC368C2ECD09F4C"
 				type: "checkmark"
@@ -77,6 +115,14 @@
 				id: "minecraft:chest"
 			}
 			id: "63EFD4A495AC32BB"
+			rewards: [{
+				id: "2F63E40F9DF450E6"
+				item: {
+					count: 1
+					id: "sophisticatedbackpacks:backpack"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "21D578B52C876BA7"
 				type: "checkmark"
@@ -106,6 +152,14 @@
 				id: "simplehats:haticon"
 			}
 			id: "548AA8E3D135BB27"
+			rewards: [{
+				id: "3F0D38BC88271FB5"
+				item: {
+					count: 1
+					id: "portablewardrobearmorswap:leather_portable_wardrobe"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "76C48DBC8EC02785"
 				type: "checkmark"
@@ -121,12 +175,27 @@
 			id: "5E460EFFED6906C8"
 			rewards: [
 				{
-					auto: "no_toast"
-					command: "/gamerule doPatrolSpawning false"
-					icon: {
-						id: "cobblemon:air_balloon"
+					count: 8
+					id: "679E8FC8B7D8691B"
+					item: {
+						count: 1
+						id: "cobblemon:safari_ball"
 					}
-					id: "096289B7C3AEE2C5"
+					type: "item"
+				}
+				{
+					count: 12
+					id: "130E104A8C079577"
+					item: {
+						count: 1
+						id: "cobblemon:potion"
+					}
+					type: "item"
+				}
+				{
+					auto: "invisible"
+					command: "/rctmod player set series radicalred @p"
+					id: "5A6294DDEEABDCEB"
 					ignore_reward_blocking: true
 					permission_level: 2
 					silent: true
@@ -143,8 +212,8 @@
 				}
 				{
 					auto: "invisible"
-					command: "/gamerule doInsomnia false"
-					id: "041D2EE67BF0EC55"
+					command: "/gamerule doPatrolSpawning false"
+					id: "096289B7C3AEE2C5"
 					ignore_reward_blocking: true
 					permission_level: 2
 					silent: true
@@ -152,8 +221,8 @@
 				}
 				{
 					auto: "invisible"
-					command: "/rctmod player set series radicalred @p"
-					id: "5A6294DDEEABDCEB"
+					command: "/gamerule doInsomnia false"
+					id: "041D2EE67BF0EC55"
 					ignore_reward_blocking: true
 					permission_level: 2
 					silent: true
