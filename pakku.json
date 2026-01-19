@@ -56,7 +56,7 @@
         "cobblemon-move-inspector": {
             "side": "CLIENT"
         },
-        "craftpresence": {
+        "simple-discord-rpc": {
             "side": "CLIENT"
         },
         "dynamic-fps": {

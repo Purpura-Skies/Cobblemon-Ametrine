@@ -3417,49 +3417,6 @@
             ]
         },
         {
-            "pakku_id": "xfjK8ECXnmUbQumG",
-            "pakku_links": [
-                "GPx0v8Ivt2JltUXQ"
-            ],
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "curseforge": "craftpresence"
-            },
-            "name": {
-                "curseforge": "CraftPresence"
-            },
-            "id": {
-                "curseforge": "297038"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "CraftPresence-2.7.0+1.21.1-neoforge.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7146/462/CraftPresence-2.7.0+1.21.1-neoforge.jar",
-                    "id": "7146462",
-                    "parent_id": "297038",
-                    "hashes": {
-                        "sha1": "53e252f44a2b5c2db8f1a54111ada2c84d6ae55c",
-                        "md5": "1e4e2e6a419d61fa04aa79568a13fae9"
-                    },
-                    "required_dependencies": [
-                        "1056812"
-                    ],
-                    "size": 2055636,
-                    "date_published": "2025-10-25T01:13:41.493Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "77abZMH4mCFG1bjy",
             "type": "MOD",
             "slug": {
@@ -9337,6 +9294,62 @@
             ]
         },
         {
+            "pakku_id": "FMffPTbrUrGPSY5e",
+            "pakku_links": [
+                "EtGm2LkdbJ1eYA7a"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "simple-discord-rpc"
+            },
+            "name": {
+                "curseforge": "Simple Discord RPC"
+            },
+            "id": {
+                "curseforge": "411816"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "SimpleRPC-4.0.5.jar",
+                    "mc_versions": [
+                        "1.21",
+                        "1.21.8",
+                        "1.21.5",
+                        "1.21.4",
+                        "1.21.1",
+                        "1.21.6",
+                        "1.21.3",
+                        "1.21.7",
+                        "1.21.2",
+                        "1.21.9",
+                        "1.21.10",
+                        "1.21.11"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "neoforge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/7297/826/SimpleRPC-4.0.5.jar",
+                    "id": "7297826",
+                    "parent_id": "411816",
+                    "hashes": {
+                        "sha1": "6ec6f18ac26b82101e5d78974a541f3dff6ca1c4",
+                        "md5": "a50e60d4ff0297eef39f6e67f01d983c"
+                    },
+                    "required_dependencies": [
+                        "867099"
+                    ],
+                    "size": 714159,
+                    "date_published": "2025-12-05T19:08:14.203Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "0apoHAJy6SETWMQ6",
             "type": "MOD",
             "slug": {
@@ -10636,44 +10649,6 @@
                     "required_dependencies": [],
                     "size": 2655346,
                     "date_published": "2025-10-23T19:07:44.643Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "GPx0v8Ivt2JltUXQ",
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "curseforge": "unilib"
-            },
-            "name": {
-                "curseforge": "UniLib"
-            },
-            "id": {
-                "curseforge": "1056812"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "UniLib-1.2.0+1.21.1-neoforge.jar",
-                    "mc_versions": [
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7145/286/UniLib-1.2.0+1.21.1-neoforge.jar",
-                    "id": "7145286",
-                    "parent_id": "1056812",
-                    "hashes": {
-                        "sha1": "6d344d22b58267714328cbf13d9e69587936de84",
-                        "md5": "e42ea7548e0bf1c3695bdffc31920aa0"
-                    },
-                    "required_dependencies": [],
-                    "size": 1554796,
-                    "date_published": "2025-10-24T18:41:48.707Z"
                 }
             ]
         },
