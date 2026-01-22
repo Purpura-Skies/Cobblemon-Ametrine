@@ -3155,7 +3155,7 @@
             ]
         },
         {
-            "pakku_id": "wQPLk9so1f3piW8w",
+            "pakku_id": "hwNITAOssOl1z1LA",
             "type": "RESOURCE_PACK",
             "slug": {
                 "curseforge": "complete-cobblemon-collection"
@@ -3170,21 +3170,21 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "CCCC-1.7.2.zip",
+                    "file_name": "CCC_MAL1.7.3.zip",
                     "mc_versions": [
                         "1.21.1"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7476/026/CCCC-1.7.2.zip",
-                    "id": "7476026",
+                    "url": "https://edge.forgecdn.net/files/6988/381/CCC_MAL1.7.3.zip",
+                    "id": "6988381",
                     "parent_id": "1258311",
                     "hashes": {
-                        "sha1": "b37e878f7e5539bfd145ca0fe9d63bcfef0a128c",
-                        "md5": "361597921e68221e6c072a49ac190040"
+                        "sha1": "a1c36cd993a8da1a2450cbebd84617370282e874",
+                        "md5": "bbba46bc4b7427bf4ab9e91fbe039373"
                     },
                     "required_dependencies": [],
-                    "size": 8517776,
-                    "date_published": "2026-01-17T16:03:58.137Z"
+                    "size": 19600213,
+                    "date_published": "2025-09-12T04:31:39.403Z"
                 }
             ]
         },
