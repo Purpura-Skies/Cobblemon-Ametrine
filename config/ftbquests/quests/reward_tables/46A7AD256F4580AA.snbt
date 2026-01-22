@@ -1,0 +1,55 @@
+{
+	id: "46A7AD256F4580AA"
+	loot_size: 1
+	order_index: 10
+	rewards: [
+		{
+			count: 10
+			id: "53FCCE52486BBD72"
+			item: {
+				count: 1
+				id: "cobblemon:health_candy"
+			}
+		}
+		{
+			count: 10
+			id: "580D23BF9E39F867"
+			item: {
+				count: 1
+				id: "cobblemon:mighty_candy"
+			}
+		}
+		{
+			count: 10
+			id: "7BFF81BDE93D40F0"
+			item: {
+				count: 1
+				id: "cobblemon:tough_candy"
+			}
+		}
+		{
+			count: 10
+			id: "433897F7E4303CC4"
+			item: {
+				count: 1
+				id: "cobblemon:smart_candy"
+			}
+		}
+		{
+			count: 10
+			id: "7D4B9FA099C356BB"
+			item: {
+				count: 1
+				id: "cobblemon:courage_candy"
+			}
+		}
+		{
+			count: 10
+			id: "708A1BE8CDC411EC"
+			item: {
+				count: 1
+				id: "cobblemon:quick_candy"
+			}
+		}
+	]
+}

@@ -1,0 +1,174 @@
+{
+	id: "7A6CA2473CFEB22E"
+	loot_size: 1
+	order_index: 12
+	rewards: [
+		{
+			id: "7E58BC7A81A221B0"
+			item: {
+				count: 1
+				id: "cobblemon:relic_coin_sack"
+			}
+			weight: 12.0f
+		}
+		{
+			count: 5
+			id: "28593150FB3B1567"
+			item: {
+				count: 1
+				id: "cobblemon:hp_up"
+			}
+			weight: 6.0f
+		}
+		{
+			count: 5
+			id: "232AE9213921A5DC"
+			item: {
+				count: 1
+				id: "cobblemon:protein"
+			}
+			weight: 6.0f
+		}
+		{
+			count: 5
+			id: "7D7460AD1417ADAA"
+			item: {
+				count: 1
+				id: "cobblemon:iron"
+			}
+			weight: 6.0f
+		}
+		{
+			count: 5
+			id: "2F235FD142D8995C"
+			item: {
+				count: 1
+				id: "cobblemon:carbos"
+			}
+			weight: 6.0f
+		}
+		{
+			count: 5
+			id: "4F504C3FFB42A88A"
+			item: {
+				count: 1
+				id: "cobblemon:calcium"
+			}
+			weight: 6.0f
+		}
+		{
+			count: 5
+			id: "58581F7652647D2F"
+			item: {
+				count: 1
+				id: "cobblemon:zinc"
+			}
+			weight: 6.0f
+		}
+		{
+			id: "650228F959051FF6"
+			item: {
+				count: 1
+				id: "cobblemon:exp_candy_xl"
+			}
+			weight: 6.0f
+		}
+		{
+			id: "0E15D7A778CA58A6"
+			item: {
+				count: 1
+				id: "cobblemon:metal_coat"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "22977EAAB12D9D9F"
+			item: {
+				count: 1
+				id: "cobblemon:whipped_dream"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "5265B506D2321606"
+			item: {
+				count: 1
+				id: "cobblemon:sachet"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "592B3BDE3707B0E8"
+			item: {
+				count: 1
+				id: "cobblemon:kings_rock"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "1C4C1A7F303BE580"
+			item: {
+				count: 1
+				id: "cobblemon_utility:goldencap"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "6A65FA007C804AF9"
+			item: {
+				count: 1
+				id: "cobblemon:fast_ball"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "10A54594013C741A"
+			item: {
+				count: 1
+				id: "cobblemon:level_ball"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "3603F7542EB0F73D"
+			item: {
+				count: 1
+				id: "cobblemon:lure_ball"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "00DF61D759AAA4F1"
+			item: {
+				count: 1
+				id: "cobblemon:heavy_ball"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "18BAC15190104FA3"
+			item: {
+				count: 1
+				id: "cobblemon:love_ball"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "61DCCF769F04C660"
+			item: {
+				count: 1
+				id: "cobblemon:friend_ball"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "6B231B312A470E4B"
+			item: {
+				count: 1
+				id: "cobblemon:moon_ball"
+			}
+			weight: 2.0f
+		}
+		{ id: "0945925071AB25CD", item: { count: 1, id: "cobblemon:master_ball" } }
+	]
+}

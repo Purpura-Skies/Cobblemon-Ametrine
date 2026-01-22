@@ -15,6 +15,15 @@
 	quests: [
 		{
 			id: "7324DAB8EE87DAC7"
+			rewards: [{
+				count: 4
+				id: "79A0D4F004F304E0"
+				item: {
+					count: 1
+					id: "cobblemon:poke_ball"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "have_registered"
 				amount: 1L
@@ -150,6 +159,15 @@
 			}
 			icon_scale: 1.5d
 			id: "3CF8E500DD409439"
+			rewards: [{
+				count: 10
+				id: "0275F1A2DCD7D3CB"
+				item: {
+					count: 1
+					id: "cobblemon:normal_gem"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "catch"
 				amount: 25L
@@ -319,6 +337,15 @@
 			}
 			icon_scale: 1.5d
 			id: "731CAB0CEFF0039D"
+			rewards: [{
+				count: 10
+				id: "3619A86137D89366"
+				item: {
+					count: 1
+					id: "cobblemon:water_gem"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "catch"
 				amount: 25L
@@ -488,6 +515,15 @@
 			}
 			icon_scale: 1.5d
 			id: "376501E5C6CA0E99"
+			rewards: [{
+				count: 10
+				id: "6CE4A92138F8BD2B"
+				item: {
+					count: 1
+					id: "cobblemon:fire_gem"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "catch"
 				amount: 25L
@@ -657,6 +693,15 @@
 			}
 			icon_scale: 1.5d
 			id: "4E4DB653FE5E6926"
+			rewards: [{
+				count: 10
+				id: "53FF084E0487B36D"
+				item: {
+					count: 1
+					id: "cobblemon:electric_gem"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "catch"
 				amount: 25L
@@ -826,6 +871,15 @@
 			}
 			icon_scale: 1.5d
 			id: "118CCC5E4EDE6AF9"
+			rewards: [{
+				count: 10
+				id: "3B3C660EF8B615D4"
+				item: {
+					count: 1
+					id: "cobblemon:grass_gem"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "catch"
 				amount: 25L
@@ -1315,6 +1369,15 @@
 		}
 		{
 			id: "4E4B562AD3CD1563"
+			rewards: [{
+				count: 5
+				id: "6488EEBF4033B39C"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_xs"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				icon: {
 					id: "cobblemon:exp_candy_xs"
@@ -1335,6 +1398,14 @@
 				id: "ftbquests:custom_icon"
 			}
 			id: "5CEFF01EC8F6E013"
+			rewards: [{
+				id: "335183AA717AB53F"
+				item: {
+					count: 1
+					id: "cobblemon:relic_coin_sack"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "defeat_player,defeat_npc"
 				amount: 5L
@@ -1362,6 +1433,15 @@
 		{
 			dependencies: ["7324DAB8EE87DAC7"]
 			id: "5236466ED42022FB"
+			rewards: [{
+				count: 8
+				id: "696DD13B677D6D6A"
+				item: {
+					count: 1
+					id: "cobblemon:potion"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "have_registered"
 				amount: 6L
@@ -1389,6 +1469,15 @@
 		{
 			dependencies: ["5236466ED42022FB"]
 			id: "420E23FD52F902A8"
+			rewards: [{
+				count: 10
+				id: "2A96BD2BCBFB5214"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_xs"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "have_registered"
 				amount: 15L
@@ -1416,6 +1505,15 @@
 		{
 			dependencies: ["420E23FD52F902A8"]
 			id: "0D15B660F58B410D"
+			rewards: [{
+				count: 10
+				id: "5316A961BFA4FB9E"
+				item: {
+					count: 1
+					id: "cobblemon:poke_ball"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "have_registered"
 				amount: 20L
@@ -1447,6 +1545,14 @@
 				id: "cobblemon:pokedex_red"
 			}
 			id: "1248F362FE260C79"
+			rewards: [{
+				id: "12D7AA9CCC276937"
+				item: {
+					count: 1
+					id: "cobblemon:master_ball"
+				}
+				type: "item"
+			}]
 			shape: "octagon"
 			size: 2.0d
 			tasks: [{
@@ -1476,6 +1582,15 @@
 		{
 			dependencies: ["0D15B660F58B410D"]
 			id: "2A261B570970188D"
+			rewards: [{
+				count: 12
+				id: "574131AF4458C258"
+				item: {
+					count: 1
+					id: "cobblemon:potion"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "have_registered"
 				amount: 25L
@@ -1503,6 +1618,15 @@
 		{
 			dependencies: ["2A261B570970188D"]
 			id: "7703313A47898FEB"
+			rewards: [{
+				count: 10
+				id: "5A140DB97C974F5E"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_s"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "have_registered"
 				amount: 30L
@@ -1530,6 +1654,15 @@
 		{
 			dependencies: ["7703313A47898FEB"]
 			id: "7354BD941A175327"
+			rewards: [{
+				count: 10
+				id: "045B073FF5A8EFB6"
+				item: {
+					count: 1
+					id: "cobblemon:great_ball"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "have_registered"
 				amount: 40L
@@ -1557,6 +1690,14 @@
 		{
 			dependencies: ["7354BD941A175327"]
 			id: "68FB4E735BEBCB8F"
+			rewards: [{
+				id: "2F0C402E7A881B67"
+				item: {
+					count: 1
+					id: "cobblemon:lucky_egg"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "have_registered"
 				amount: 50L
@@ -1584,6 +1725,15 @@
 		{
 			dependencies: ["68FB4E735BEBCB8F"]
 			id: "494D7FEA72E15282"
+			rewards: [{
+				count: 10
+				id: "5C6C1D7B9A24C162"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_m"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "have_registered"
 				amount: 60L
@@ -1611,6 +1761,15 @@
 		{
 			dependencies: ["494D7FEA72E15282"]
 			id: "564F4BC01A3EB7AC"
+			rewards: [{
+				count: 12
+				id: "6FCEF3C0785595D5"
+				item: {
+					count: 1
+					id: "cobblemon:super_potion"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "have_registered"
 				amount: 70L
@@ -1638,6 +1797,12 @@
 		{
 			dependencies: ["4E4B562AD3CD1563"]
 			id: "08A82745040753F4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7054C6942CD3F8A2"
+				table_id: 9082814318838465181L
+				type: "choice"
+			}]
 			tasks: [{
 				icon: {
 					id: "cobblemon:exp_candy_xs"
@@ -1653,6 +1818,15 @@
 		{
 			dependencies: ["08A82745040753F4"]
 			id: "7CB65FCFF0804E01"
+			rewards: [{
+				count: 10
+				id: "598C241C0D9D1D62"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_xs"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				icon: {
 					id: "cobblemon:exp_candy_xs"
@@ -1668,6 +1842,15 @@
 		{
 			dependencies: ["7CB65FCFF0804E01"]
 			id: "64C2C78D05BE367D"
+			rewards: [{
+				count: 10
+				id: "31D8258A4F1699C0"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_s"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				icon: {
 					id: "cobblemon:exp_candy_xs"
@@ -1683,6 +1866,15 @@
 		{
 			dependencies: ["64C2C78D05BE367D"]
 			id: "69F5CDA9970044B6"
+			rewards: [{
+				count: 10
+				id: "584D868889AAA86A"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_m"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				icon: {
 					id: "cobblemon:exp_candy_s"
@@ -1698,6 +1890,12 @@
 		{
 			dependencies: ["69F5CDA9970044B6"]
 			id: "21F3DCB07E4F7F50"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "61450C385EC232D4"
+				table_id: 5091228280057856170L
+				type: "choice"
+			}]
 			tasks: [{
 				icon: {
 					id: "cobblemon:exp_candy_s"
@@ -1713,6 +1911,14 @@
 		{
 			dependencies: ["54480FFCB8951155"]
 			id: "501F17528DD1EAEF"
+			rewards: [{
+				id: "3C10EA2C33264028"
+				item: {
+					count: 1
+					id: "cobblemon:master_ball"
+				}
+				type: "item"
+			}]
 			shape: "hexagon"
 			size: 1.2d
 			tasks: [{
@@ -1730,6 +1936,15 @@
 		{
 			dependencies: ["21F3DCB07E4F7F50"]
 			id: "4E2BA4E64CD62439"
+			rewards: [{
+				count: 10
+				id: "66B44164F50BC083"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_l"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				icon: {
 					id: "cobblemon:exp_candy_s"
@@ -1745,6 +1960,15 @@
 		{
 			dependencies: ["4E2BA4E64CD62439"]
 			id: "0D70E7D39D7B48FD"
+			rewards: [{
+				count: 10
+				id: "6AE4F9450F11A513"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_xl"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				icon: {
 					id: "cobblemon:exp_candy_m"
@@ -1760,6 +1984,15 @@
 		{
 			dependencies: ["0D70E7D39D7B48FD"]
 			id: "454E6DF3DA0C6197"
+			rewards: [{
+				count: 3
+				id: "63A334FCC41F9F3F"
+				item: {
+					count: 1
+					id: "cobblemon_utility:goldencap"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				icon: {
 					id: "cobblemon:exp_candy_m"
@@ -1775,6 +2008,14 @@
 		{
 			dependencies: ["454E6DF3DA0C6197"]
 			id: "4E1BCBD027B677B1"
+			rewards: [{
+				id: "0BB8657CC10F1E33"
+				item: {
+					count: 1
+					id: "cobblemon:beast_ball"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				icon: {
 					id: "cobblemon:exp_candy_l"
@@ -1790,6 +2031,15 @@
 		{
 			dependencies: ["4E1BCBD027B677B1"]
 			id: "54480FFCB8951155"
+			rewards: [{
+				count: 3
+				id: "71164DB62B11ECB4"
+				item: {
+					count: 1
+					id: "cobblemon:ability_patch"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				icon: {
 					id: "cobblemon:exp_candy_l"
@@ -1805,6 +2055,15 @@
 		{
 			dependencies: ["564F4BC01A3EB7AC"]
 			id: "28A8FDBA860BFD82"
+			rewards: [{
+				count: 10
+				id: "3B61B46E22979C28"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_m"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "have_registered"
 				amount: 80L
@@ -1896,6 +2155,12 @@
 				id: "ftbquests:custom_icon"
 			}
 			id: "5620501EEB260DC8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "40AB16B41786C97D"
+				table_id: 8821604196961661486L
+				type: "random"
+			}]
 			tasks: [{
 				action: "defeat_player,defeat_npc"
 				amount: 10L
@@ -1929,6 +2194,12 @@
 				id: "ftbquests:custom_icon"
 			}
 			id: "01B5263E851242F9"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0A8ACAC7DE560C97"
+				table_id: 8821604196961661486L
+				type: "random"
+			}]
 			tasks: [{
 				action: "defeat_player,defeat_npc"
 				amount: 15L
@@ -1962,6 +2233,12 @@
 				id: "ftbquests:custom_icon"
 			}
 			id: "7A58CE76A1377538"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4148F4ED3E65C349"
+				table_id: 8821604196961661486L
+				type: "random"
+			}]
 			tasks: [{
 				action: "defeat_player,defeat_npc"
 				amount: 20L
@@ -1995,6 +2272,12 @@
 				id: "ftbquests:custom_icon"
 			}
 			id: "47A8DC02682C9448"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3564D5C54C7548E7"
+				table_id: 8821604196961661486L
+				type: "random"
+			}]
 			tasks: [{
 				action: "defeat_player,defeat_npc"
 				amount: 25L
@@ -2028,6 +2311,12 @@
 				id: "ftbquests:custom_icon"
 			}
 			id: "4DFD7755E5E5C699"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "03DEAC8849B4DEAA"
+				table_id: 8821604196961661486L
+				type: "random"
+			}]
 			tasks: [{
 				action: "defeat_player,defeat_npc"
 				amount: 30L
@@ -2096,6 +2385,12 @@
 				id: "ftbquests:custom_icon"
 			}
 			id: "40F42F320EF853E2"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "14E09A201B9FB02E"
+				table_id: 8821604196961661486L
+				type: "random"
+			}]
 			tasks: [{
 				action: "defeat_player,defeat_npc"
 				amount: 40L
@@ -2129,6 +2424,12 @@
 				id: "ftbquests:custom_icon"
 			}
 			id: "5028C343ECBBC840"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "035D1E20E0083955"
+				table_id: 8821604196961661486L
+				type: "random"
+			}]
 			tasks: [{
 				action: "defeat_player,defeat_npc"
 				amount: 50L
@@ -2162,6 +2463,12 @@
 				id: "ftbquests:custom_icon"
 			}
 			id: "6DE1F91404B4CC88"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "33AF1BB3784119FD"
+				table_id: 8821604196961661486L
+				type: "random"
+			}]
 			tasks: [{
 				action: "defeat_player,defeat_npc"
 				amount: 60L
@@ -2195,6 +2502,12 @@
 				id: "ftbquests:custom_icon"
 			}
 			id: "7BC345EF0854103D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "178C4E7ADA254919"
+				table_id: 4987615759771971565L
+				type: "choice"
+			}]
 			tasks: [{
 				action: "defeat_player,defeat_npc"
 				amount: 70L
@@ -2228,6 +2541,15 @@
 				id: "ftbquests:custom_icon"
 			}
 			id: "3EF5C3EDE8FCB375"
+			rewards: [{
+				count: 3
+				id: "3A81FC4F5055E235"
+				item: {
+					count: 1
+					id: "cobblemon:ability_capsule"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "defeat_player,defeat_npc"
 				amount: 80L
@@ -2261,6 +2583,15 @@
 				id: "ftbquests:custom_icon"
 			}
 			id: "1234462102848A18"
+			rewards: [{
+				count: 3
+				id: "73D667FCE06278AC"
+				item: {
+					count: 1
+					id: "cobblemon_utility:goldencap"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "defeat_player,defeat_npc"
 				amount: 90L
@@ -2294,6 +2625,14 @@
 				id: "ftbquests:custom_icon"
 			}
 			id: "36A74C4731D1C046"
+			rewards: [{
+				id: "66DD68E002FAECFB"
+				item: {
+					count: 1
+					id: "cobblemon:beast_ball"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "defeat_player,defeat_npc"
 				amount: 100L
@@ -2327,6 +2666,15 @@
 				id: "ftbquests:custom_icon"
 			}
 			id: "1F449555CC080388"
+			rewards: [{
+				count: 3
+				id: "2995AEF1A42446CB"
+				item: {
+					count: 1
+					id: "cobblemon:ability_patch"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "defeat_player,defeat_npc"
 				amount: 500L
@@ -2360,6 +2708,14 @@
 				id: "ftbquests:custom_icon"
 			}
 			id: "59139CEE56C53534"
+			rewards: [{
+				id: "6A06334E74C32959"
+				item: {
+					count: 1
+					id: "cobblemon:master_ball"
+				}
+				type: "item"
+			}]
 			shape: "hexagon"
 			size: 1.2d
 			tasks: [{
@@ -3707,6 +4063,15 @@
 			}
 			icon_scale: 1.5d
 			id: "44AA8D4913E5EC95"
+			rewards: [{
+				count: 10
+				id: "3CC8F224D125C3DF"
+				item: {
+					count: 1
+					id: "cobblemon:ice_gem"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "catch"
 				amount: 25L
@@ -3843,6 +4208,15 @@
 			}
 			icon_scale: 1.5d
 			id: "0CFF41AA8E181AF7"
+			rewards: [{
+				count: 10
+				id: "2EE84B66C2A5A46D"
+				item: {
+					count: 1
+					id: "cobblemon:fighting_gem"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "catch"
 				amount: 25L
@@ -3979,6 +4353,15 @@
 			}
 			icon_scale: 1.5d
 			id: "171F26D76D2AD590"
+			rewards: [{
+				count: 10
+				id: "0BCEDA0F74545764"
+				item: {
+					count: 1
+					id: "cobblemon:poison_gem"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "catch"
 				amount: 25L
@@ -4115,6 +4498,15 @@
 			}
 			icon_scale: 1.5d
 			id: "699A0F2B22BC4FA5"
+			rewards: [{
+				count: 10
+				id: "4B0FB89DF8D277ED"
+				item: {
+					count: 1
+					id: "cobblemon:ground_gem"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "catch"
 				amount: 25L
@@ -4251,6 +4643,15 @@
 			}
 			icon_scale: 1.5d
 			id: "2D56B98299B25443"
+			rewards: [{
+				count: 10
+				id: "5B5389E0FF29048F"
+				item: {
+					count: 1
+					id: "cobblemon:flying_gem"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "catch"
 				amount: 25L
@@ -4387,6 +4788,15 @@
 			}
 			icon_scale: 1.5d
 			id: "5135C917914754A6"
+			rewards: [{
+				count: 10
+				id: "4FA1621DFCACA144"
+				item: {
+					count: 1
+					id: "cobblemon:psychic_gem"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "catch"
 				amount: 25L
@@ -4523,6 +4933,15 @@
 			}
 			icon_scale: 1.5d
 			id: "40A03691208739E7"
+			rewards: [{
+				count: 10
+				id: "01F0FF772E69022A"
+				item: {
+					count: 1
+					id: "cobblemon:bug_gem"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "catch"
 				amount: 25L
@@ -4659,6 +5078,15 @@
 			}
 			icon_scale: 1.5d
 			id: "5EDA7253F98669E2"
+			rewards: [{
+				count: 10
+				id: "05A74F03076CDE69"
+				item: {
+					count: 1
+					id: "cobblemon:rock_gem"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "catch"
 				amount: 25L
@@ -4795,6 +5223,15 @@
 			}
 			icon_scale: 1.5d
 			id: "082E2B773C8588CD"
+			rewards: [{
+				count: 10
+				id: "3B07AF10B6FBF34B"
+				item: {
+					count: 1
+					id: "cobblemon:ghost_gem"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "catch"
 				amount: 25L
@@ -4931,6 +5368,15 @@
 			}
 			icon_scale: 1.5d
 			id: "40D9F2E913A12ECD"
+			rewards: [{
+				count: 10
+				id: "464E87A0E1007773"
+				item: {
+					count: 1
+					id: "cobblemon:dragon_gem"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "catch"
 				amount: 25L
@@ -5067,6 +5513,15 @@
 			}
 			icon_scale: 1.5d
 			id: "1B916C5B12DA8C01"
+			rewards: [{
+				count: 10
+				id: "0B6FFA3802E703EF"
+				item: {
+					count: 1
+					id: "cobblemon:dark_gem"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "catch"
 				amount: 25L
@@ -5203,6 +5658,15 @@
 			}
 			icon_scale: 1.5d
 			id: "7C43E867448C6790"
+			rewards: [{
+				count: 10
+				id: "1FAE09F18287E538"
+				item: {
+					count: 1
+					id: "cobblemon:steel_gem"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "catch"
 				amount: 25L
@@ -5339,6 +5803,15 @@
 			}
 			icon_scale: 1.5d
 			id: "06AA0FE51C159BDD"
+			rewards: [{
+				count: 10
+				id: "7477F4F9E2DAE3C7"
+				item: {
+					count: 1
+					id: "cobblemon:fairy_gem"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "catch"
 				amount: 25L
@@ -5400,6 +5873,12 @@
 		{
 			dependencies: ["28A8FDBA860BFD82"]
 			id: "31E900BC5F0E1F81"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0641D89CFC73440E"
+				table_id: 5091228280057856170L
+				type: "choice"
+			}]
 			tasks: [{
 				action: "have_registered"
 				amount: 90L
@@ -5427,6 +5906,15 @@
 		{
 			dependencies: ["31E900BC5F0E1F81"]
 			id: "703CE087EEADC287"
+			rewards: [{
+				count: 10
+				id: "7D64F8E9A649C664"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_l"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "have_registered"
 				amount: 100L
@@ -5454,6 +5942,15 @@
 		{
 			dependencies: ["703CE087EEADC287"]
 			id: "5FB38C1187FB9971"
+			rewards: [{
+				count: 10
+				id: "5801BF9448466E9C"
+				item: {
+					count: 1
+					id: "cobblemon:ultra_ball"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "have_registered"
 				amount: 200L
@@ -5481,6 +5978,15 @@
 		{
 			dependencies: ["5FB38C1187FB9971"]
 			id: "174C7C9F0F83D59D"
+			rewards: [{
+				count: 10
+				id: "40E88D0FB711FF8A"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_l"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "have_registered"
 				amount: 300L
@@ -5508,6 +6014,12 @@
 		{
 			dependencies: ["174C7C9F0F83D59D"]
 			id: "0757881014C73F9C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "38088AB80C9A7BBE"
+				table_id: 4987615759771971565L
+				type: "choice"
+			}]
 			tasks: [{
 				action: "have_registered"
 				amount: 400L
@@ -5535,6 +6047,15 @@
 		{
 			dependencies: ["0757881014C73F9C"]
 			id: "04A0F8EF0DCC2B7C"
+			rewards: [{
+				count: 3
+				id: "6B996B9A9A986899"
+				item: {
+					count: 1
+					id: "cobblemon:ability_capsule"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "have_registered"
 				amount: 500L
@@ -5562,6 +6083,15 @@
 		{
 			dependencies: ["04A0F8EF0DCC2B7C"]
 			id: "3EB1E2253A4A4777"
+			rewards: [{
+				count: 10
+				id: "399AD1C21984C770"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_xl"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "have_registered"
 				amount: 600L
@@ -5589,6 +6119,15 @@
 		{
 			dependencies: ["3EB1E2253A4A4777"]
 			id: "1135D516F0E45C54"
+			rewards: [{
+				count: 3
+				id: "6C55DD1B99A68D34"
+				item: {
+					count: 1
+					id: "cobblemon_utility:goldencap"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "have_registered"
 				amount: 700L
@@ -5616,6 +6155,14 @@
 		{
 			dependencies: ["1135D516F0E45C54"]
 			id: "3CDB72BB514F5BC4"
+			rewards: [{
+				id: "28A97CD1E16F79E0"
+				item: {
+					count: 1
+					id: "cobblemon:beast_ball"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "have_registered"
 				amount: 800L
@@ -5643,6 +6190,15 @@
 		{
 			dependencies: ["3CDB72BB514F5BC4"]
 			id: "74538A559BC2A4B6"
+			rewards: [{
+				count: 3
+				id: "34591FE3F2DC79B4"
+				item: {
+					count: 1
+					id: "cobblemon:ability_patch"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "have_registered"
 				amount: 900L
@@ -6070,6 +6626,12 @@
 				id: "ftbquests:custom_icon"
 			}
 			id: "1A03D2C456B3DBD1"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "65953B7C7A57E949"
+				table_id: 8821604196961661486L
+				type: "random"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				action: "catch"
@@ -6493,6 +7055,12 @@
 		{
 			can_repeat: true
 			id: "2F3DC5EFCA23C7E6"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "37070B6FBE330AC5"
+				table_id: 8821604196961661486L
+				type: "random"
+			}]
 			shape: "rsquare"
 			tasks: [{
 				action: "catch"

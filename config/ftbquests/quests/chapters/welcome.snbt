@@ -115,14 +115,24 @@
 				id: "minecraft:chest"
 			}
 			id: "63EFD4A495AC32BB"
-			rewards: [{
-				id: "2F63E40F9DF450E6"
-				item: {
-					count: 1
-					id: "sophisticatedbackpacks:backpack"
+			rewards: [
+				{
+					id: "2F63E40F9DF450E6"
+					item: {
+						count: 1
+						id: "sophisticatedbackpacks:backpack"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "4432EEFCBAC567CE"
+					item: {
+						count: 1
+						id: "berrypouch:berry_pouch_30"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "21D578B52C876BA7"
 				type: "checkmark"
@@ -139,6 +149,33 @@
 				id: "ftbquests:custom_icon"
 			}
 			id: "357B5EAD822F1233"
+			rewards: [
+				{
+					id: "3328C18908F70D60"
+					item: {
+						count: 1
+						id: "rctmod:trainer_card"
+					}
+					type: "item"
+				}
+				{
+					id: "11328F5CB27DD106"
+					item: {
+						count: 1
+						id: "cobble_contests:contest_card"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "7E56526F1AC221DA"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				id: "36666918D004064C"
 				type: "checkmark"
@@ -191,15 +228,6 @@
 						id: "cobblemon:potion"
 					}
 					type: "item"
-				}
-				{
-					auto: "invisible"
-					command: "/rctmod player set series radicalred @p"
-					id: "5A6294DDEEABDCEB"
-					ignore_reward_blocking: true
-					permission_level: 2
-					silent: true
-					type: "command"
 				}
 				{
 					auto: "invisible"

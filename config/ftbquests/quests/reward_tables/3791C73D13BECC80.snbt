@@ -1,7 +1,7 @@
 {
 	id: "3791C73D13BECC80"
 	loot_size: 1
-	order_index: 9
+	order_index: 8
 	rewards: [
 		{ id: "43820693B2942796", item: { count: 1, id: "cobblemon:growth_mulch" } }
 		{ id: "60F873577097EDFF", item: { count: 1, id: "cobblemon:rich_mulch" } }

@@ -3,11 +3,53 @@
 	loot_size: 1
 	order_index: 6
 	rewards: [
-		{ id: "5A148051C07385EA", item: { count: 1, id: "cobblemon_utility:atksilvercap" } }
-		{ id: "52B80FCC8D12E8E3", item: { count: 1, id: "cobblemon_utility:spatksilvercap" } }
-		{ id: "6A1502D0DA149E8E", item: { count: 1, id: "cobblemon_utility:spdefsilvercap" } }
-		{ id: "12630200425867DB", item: { count: 1, id: "cobblemon_utility:speedsilvercap" } }
-		{ id: "617462EF0A416930", item: { count: 1, id: "cobblemon_utility:defsilvercap" } }
-		{ id: "4A9A618D528B8870", item: { count: 1, id: "cobblemon_utility:hpsilvercap" } }
+		{
+			count: 5
+			id: "5A148051C07385EA"
+			item: {
+				count: 1
+				id: "cobblemon_utility:atksilvercap"
+			}
+		}
+		{
+			count: 5
+			id: "52B80FCC8D12E8E3"
+			item: {
+				count: 1
+				id: "cobblemon_utility:spatksilvercap"
+			}
+		}
+		{
+			count: 5
+			id: "6A1502D0DA149E8E"
+			item: {
+				count: 1
+				id: "cobblemon_utility:spdefsilvercap"
+			}
+		}
+		{
+			count: 5
+			id: "12630200425867DB"
+			item: {
+				count: 1
+				id: "cobblemon_utility:speedsilvercap"
+			}
+		}
+		{
+			count: 5
+			id: "617462EF0A416930"
+			item: {
+				count: 1
+				id: "cobblemon_utility:defsilvercap"
+			}
+		}
+		{
+			count: 5
+			id: "4A9A618D528B8870"
+			item: {
+				count: 1
+				id: "cobblemon_utility:hpsilvercap"
+			}
+		}
 	]
 }

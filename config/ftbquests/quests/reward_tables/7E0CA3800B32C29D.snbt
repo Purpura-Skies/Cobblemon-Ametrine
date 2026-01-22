@@ -1,0 +1,17 @@
+{
+	id: "7E0CA3800B32C29D"
+	loot_size: 1
+	order_index: 11
+	rewards: [
+		{ id: "3769F6EDA2917EF1", item: { count: 1, id: "cobblemon:fire_stone" } }
+		{ id: "1258D8D8C0AE546E", item: { count: 1, id: "cobblemon:water_stone" } }
+		{ id: "44FF31BCB69AC45E", item: { count: 1, id: "cobblemon:thunder_stone" } }
+		{ id: "46069E8090721E1D", item: { count: 1, id: "cobblemon:leaf_stone" } }
+		{ id: "4AB2139961957697", item: { count: 1, id: "cobblemon:moon_stone" } }
+		{ id: "6A0DA947A88F84D7", item: { count: 1, id: "cobblemon:sun_stone" } }
+		{ id: "346355628AAC6A2C", item: { count: 1, id: "cobblemon:shiny_stone" } }
+		{ id: "3FD5C8A6009477F1", item: { count: 1, id: "cobblemon:dusk_stone" } }
+		{ id: "58466BD1E809EB68", item: { count: 1, id: "cobblemon:dawn_stone" } }
+		{ id: "3DD330CCFB258763", item: { count: 1, id: "cobblemon:ice_stone" } }
+	]
+}

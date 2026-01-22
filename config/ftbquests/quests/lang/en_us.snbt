@@ -9,8 +9,8 @@
 	chapter.35F2407D83F2F017.title: "Welcome"
 	chapter.5AB785342207B899.title: "Getting Started"
 	chapter.6E253B79F16227BC.title: "Journeyman Pokeball Smith"
-	chapter_group.28843B9FB0224E7E.title: "The Basics"
-	chapter_group.401665B40F1DA943.title: "Cobblemon"
+	chapter_group.1474D7CB71E8D62D.title: "Collections"
+	chapter_group.28843B9FB0224E7E.title: "Adventure is out there"
 	file.0000000000000001.title: "&l&dPurpura Skies: Cobblemon Ametrine"
 	quest.002E81F813B8743B.quest_desc: ["Obtain Mega Stones and register Mega Evolutions in your Pokédex."]
 	quest.002E81F813B8743B.title: "Filling your Mega Evolution Pokédex"
@@ -34,7 +34,6 @@
 	]
 	quest.04E8748E53709D37.quest_subtitle: "Let's begin."
 	quest.04E8748E53709D37.title: "Welcome!"
-	quest.053AB3B07CBAA324.title: "Sabrina"
 	quest.054CC42E09A281E3.quest_desc: ["Catch wild Water-type Pokémon. Pokémon you receive from other people don't count."]
 	quest.054CC42E09A281E3.title: "Catching Water Types"
 	quest.05D3B37E9E3E0351.quest_desc: ["Catch wild Psychic-type Pokémon. Pokémon you receive from other people don't count."]
@@ -63,7 +62,6 @@
 	quest.09AB66793EBEA796.title: "Obtain a Tier 4 Poké Ball"
 	quest.09B84984B8BEFC86.quest_desc: ["Register Rock-type Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
 	quest.09B84984B8BEFC86.title: "Complete Rock Type Collection"
-	quest.0CB255F5CD6E31CD.title: "Blane"
 	quest.0CD1935ED8C62924.quest_desc: ["Catch wild Electric-type Pokémon. Pokémon you receive from other people don't count."]
 	quest.0CD1935ED8C62924.title: "Catching Electric Types"
 	quest.0CFF41AA8E181AF7.quest_desc: ["Catch wild Fighting-type Pokémon. Pokémon you receive from other people don't count."]
@@ -78,7 +76,6 @@
 	quest.0D70E7D39D7B48FD.title: "Evolving Pokémon"
 	quest.0D9CBA80872D5BED.quest_desc: ["Catch wild Water-type Pokémon. Pokémon you receive from other people don't count."]
 	quest.0D9CBA80872D5BED.title: "Catching Water Types"
-	quest.0E9284D03A1C0923.title: "Whitney"
 	quest.0F82AC631BF5E838.quest_desc: ["Catch wild Ghost-type Pokémon. Pokémon you receive from other people don't count."]
 	quest.0F82AC631BF5E838.title: "Catching Ghost Types"
 	quest.0FAA556D38A32147.quest_desc: ["Catch wild Fire-type Pokémon. Pokémon you receive from other people don't count."]
@@ -143,7 +140,6 @@
 	quest.1F449555CC080388.title: "Winning Pokémon Battles"
 	quest.1FBC1901CCC9FAA1.quest_desc: ["Use a Pokédex to scan Pokémon."]
 	quest.1FBC1901CCC9FAA1.title: "Scanning Pokémon"
-	quest.20A9045213580DAA.title: "Falkner"
 	quest.210663A0D63D3CA6.quest_desc: ["Catch wild Dark-type Pokémon. Pokémon you receive from other people don't count."]
 	quest.210663A0D63D3CA6.title: "Catching Dark Types"
 	quest.210E5426B9F23747.quest_desc: ["So you have a chest wall that you want to connect to your storage/crafting interface? Well the Inventory Connecter is for you! Put the connecter in the middle of your chests, and make sure all the chests are touching. Chests adjacent to the connecter extend the connecters range, so you can have as many chests to a connecter as you want"]
@@ -180,8 +176,6 @@
 		"Adds pokemon centers with a healing machine and pc."
 	]
 	quest.258D56DB5588C2EF.title: "Survival and Adventure"
-	quest.25F1493EA6A7375A.quest_desc: ["They say finding this place is even rarer than finding a shiny pokemon"]
-	quest.25F1493EA6A7375A.title: "Mirage island"
 	quest.26B6F237AF32AC4E.title: "Defeat pokemon from each type"
 	quest.26E0088D008F6251.quest_desc: ["Catch wild Ice-type Pokémon. Pokémon you receive from other people don't count."]
 	quest.26E0088D008F6251.title: "Catching Ice Types"
@@ -235,6 +229,33 @@
 	quest.34C5B9F00B0C17BA.title: "Catching Psychic Types"
 	quest.34F891DFA74D79F5.quest_desc: ["Catch wild Bug-type Pokémon. Pokémon you receive from other people don't count."]
 	quest.34F891DFA74D79F5.title: "Catching Bug Types"
+	quest.357B5EAD822F1233.quest_desc: [
+		"&lBattling and Gimmicks&r"
+		""
+		"From &lMega Showdown&r, &lMyths and Legends&r, and &lRaid Dens&r providing access to powerful forms and abilities, to &lFight or Flight&r and &lMass Outbreaks&r spicing up the wild Pokémon experience."
+		""
+		"Even with &lCobblemon Challenge&r, you can battle your buddies with a simple use of the /challenge command!"
+		""
+		""
+		"{@pagebreak}"
+		"&lTools&r"
+		""
+		"Keep track of your KO and capture counts/streaks with the &lCounter&r item and boost your lucky chances."
+		""
+		"Make use of the &lPokéNav&r, &lFishingNav&r, and &lPokéFinder&r items to help find the exact Pokémon you're looking for."
+		""
+		"Tired of wild Pokémon cramping your style? Craft up some &lRepels&r to keep them at bay!"
+		""
+		""
+		"{@pagebreak}"
+		"&lFun and Games&r"
+		""
+		"Enter your Pokémon in contests at a &lContest Booth&r! You can cook up some &lPoffins&r in a &lPoffin Pot&r and feed them to your Pokémon to up their stats."
+		""
+		"Willing to barter away your Relic Coins? Check out the various &lGacha Machines&r and let loose your inner gambler."
+		""
+		"&lLoot Balls&r will spawn around periodically, be sure to collect them for extra loot!"
+	]
 	quest.357B5EAD822F1233.title: "Cobblemon Addons"
 	quest.358781F3F5DC7F20.quest_desc: ["Register Water-type Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
 	quest.358781F3F5DC7F20.title: "Complete Water Type Collection"
@@ -271,7 +292,6 @@
 	quest.3CDB72BB514F5BC4.title: "Filling Your Pokédex"
 	quest.3CF8E500DD409439.quest_desc: ["Catch wild Normal-type Pokémon. Pokémon you receive from other people don't count."]
 	quest.3CF8E500DD409439.title: "Catching Normal Types"
-	quest.3D0A24C140121FA8.title: "Bugsy"
 	quest.3DF6A25E4696E032.quest_desc: ["Catch wild Flying-type Pokémon. Pokémon you receive from other people don't count."]
 	quest.3DF6A25E4696E032.title: "Catching Flying Types"
 	quest.3E7B359798B52627.quest_desc: ["Catch wild Electric-type Pokémon. Pokémon you receive from other people don't count."]
@@ -345,7 +365,6 @@
 	quest.501F17528DD1EAEF.title: "Evolving Pokémon"
 	quest.5028C343ECBBC840.quest_desc: ["Claim victory in Pokémon battles against other Trainers. You can use whichever battle regulations you like."]
 	quest.5028C343ECBBC840.title: "Winning Pokémon Battles"
-	quest.5032D5FCFDBE580A.title: "Clair"
 	quest.507516F435862D37.quest_desc: ["Catch wild Normal-type Pokémon. Pokémon you receive from other people don't count."]
 	quest.507516F435862D37.title: "Catching Normal Types"
 	quest.5135C917914754A6.quest_desc: ["Catch wild Psychic-type Pokémon. Pokémon you receive from other people don't count."]
@@ -363,8 +382,10 @@
 		"Selfexpression, Simple Hats, Weaver's Cosplay, and Cobblemon: Armory all add fun items you can wear!"
 		""
 		"Grab yourself a Portable Wardrobe for ease of outfit switching, and remember to utilize your Cosmetic Armor and Accessories inventories!"
+		""
+		""
 		"{@pagebreak}"
-		"&lBuilding"
+		"&lBuilding and Decorations"
 		""
 		"Another Furniture, Beautify, Bibliocraft, Chipped, Cluttered, CobbleFurnies, Dark Paintings, Furnies, Handcrafted, the Macaw's suite, Storage Delight, and Yuushya Townscape all over tons of decoration options for all your building needs."
 	]
@@ -424,24 +445,18 @@
 	quest.5E460EFFED6906C8.title: "A Cozy Overworld"
 	quest.5EBC2B3F1D139E6B.quest_desc: ["Obtain Mega Stones and register Mega Evolutions in your Pokédex."]
 	quest.5EBC2B3F1D139E6B.title: "Filling your Mega Evolution Pokédex"
-	quest.5EC1446EA85C2097.quest_desc: ["Surely rare pokemon must spawn within the beautiful pink trees of this place"]
-	quest.5EC1446EA85C2097.quest_subtitle: "An Ocean of Pink"
 	quest.5EDA7253F98669E2.quest_desc: ["Catch wild Rock-type Pokémon. Pokémon you receive from other people don't count."]
 	quest.5EDA7253F98669E2.title: "Catching Rock Types"
 	quest.5F560FEED8FB2E10.quest_desc: ["Farming will become even more important in Cobblemon. Berries, Apricorns, and medicine all require you to till the fields. "]
 	quest.5FB38C1187FB9971.quest_desc: ["Register various Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
 	quest.5FB38C1187FB9971.title: "Filling Your Pokédex"
-	quest.6158C620A866F32A.title: "Koga"
 	quest.621E0327A0389CBF.quest_desc: ["Catch wild Fire-type Pokémon. Pokémon you receive from other people don't count."]
 	quest.621E0327A0389CBF.title: "Catching Fire Types"
+	quest.623A85393A3D51A8.quest_desc: ["Over 1500 unique and challenging trainers, from the Pokémon ROM hacks Radical Red (v3.02) and Unbound (v2.0.3.2) as well as the main series games Brilliant Diamond/Shining Pearl."]
 	quest.623A85393A3D51A8.title: "Radical Cobblemon Trainers"
-	quest.62686725CEF63030.title: "Jasmine"
 	quest.629B455C647B8233.quest_desc: ["In case you somehow got a Masterball or Ancient Origin Ball and wanted the other one, This will allow you to repeatedly change them"]
 	quest.62D38723EF896F96.quest_desc: ["Obtain a Dynamax Band and register Gigantamax forms in your Pokédex."]
 	quest.62D38723EF896F96.title: "Filling your Gigantamax Pokédex"
-	quest.62E79DF618930C4C.quest_desc: ["Pokemon live in many differnt places, and many of them are dangerous.  Try to explore every area you can, that way you can find the rarest, strongest pokemon. Hey whats that...? "]
-	quest.62E79DF618930C4C.quest_subtitle: "Hot Hot Hot"
-	quest.62E79DF618930C4C.title: "Brave the Volcano"
 	quest.6340A7C6F129BC08.quest_desc: ["Catch wild Fairy-type Pokémon. Pokémon you receive from other people don't count."]
 	quest.6340A7C6F129BC08.title: "Catching Fairy Types"
 	quest.63CD9C8091D62B65.quest_desc: ["Catch wild Grass-type Pokémon. Pokémon you receive from other people don't count."]
@@ -449,7 +464,9 @@
 	quest.63EFD4A495AC32BB.quest_desc: [
 		"This modpack comes with a couple different options of storage besides the basic vanilla chests!"
 		""
-		"First and foremost, &lSophisticated Backpacks&r! Take this backpack with you for extra on-the-go storage. Equip it to your back slot and access it with your 'B' key."
+		"First and foremost, &lSophisticated Backpacks&r! Take this backpack with you for extra on-the-go storage. Equip it and access its inventory with your 'B' key."
+		""
+		"Another, smaller, on-the-go storage is the &lBerry Pouch&r! It can also be equipped and accessed with your 'P' key."
 		""
 		"{@pagebreak}"
 		"&lSophisticated Storage&r"
@@ -467,7 +484,7 @@
 		""
 		"Add a level 4 beacon to access your storage from anywhere using a wireless terminal! (As long as the chunks are loaded.)"
 	]
-	quest.64303CC2037C37B1.title: "Pryce"
+	quest.63EFD4A495AC32BB.title: "Storage Options"
 	quest.6450804C7C855EBE.quest_desc: ["Catch wild Ice-type Pokémon. Pokémon you receive from other people don't count."]
 	quest.6450804C7C855EBE.title: "Catching Ice Types"
 	quest.64C2C78D05BE367D.quest_desc: ["Trigger Pokémon Evolution. Any species or method will do."]
@@ -475,7 +492,6 @@
 	quest.64E9DB26B7CF4309.quest_desc: ["For the not so rare times when you find plenty of dripstone and not a single pointed dripstone"]
 	quest.66201E01529AB758.quest_desc: ["Catch one of each of the Pokémon known as first partners from the Alola region. Pokémon you receive from other people don't count."]
 	quest.66201E01529AB758.title: "Catch the Alola Starters"
-	quest.6633783DA14F9B96.title: "Morty"
 	quest.66CA8D3375C8919D.quest_desc: ["Catch wild Fighting-type Pokémon. Pokémon you receive from other people don't count."]
 	quest.66CA8D3375C8919D.title: "Catching Fighting Types"
 	quest.677156DFD63E6FF8.quest_desc: ["Catch wild Poison-type Pokémon. Pokémon you receive from other people don't count."]
@@ -490,7 +506,6 @@
 	quest.699A0F2B22BC4FA5.title: "Catching Ground Types"
 	quest.69F5CDA9970044B6.quest_desc: ["Trigger Pokémon Evolution. Any species or method will do."]
 	quest.69F5CDA9970044B6.title: "Evolving Pokémon"
-	quest.6B057C91A8B2499C.title: "Giovanni"
 	quest.6B13A114922D11AE.quest_desc: ["Warning: Ancient Heavy balls, Leaden balls, and Gigaton Balls have no effect right now. "]
 	quest.6C0AE4328070596E.quest_desc: ["Warning: Ancient Heavy balls, Leaden balls, and Gigaton Balls have no effect right now. "]
 	quest.6C2A339A67C7FE11.quest_desc: ["Use a Pokédex to scan Pokémon."]
@@ -535,8 +550,6 @@
 	quest.748655C4D6D4E80F.title: "Catching Fighting Types"
 	quest.75E200BE693932DA.quest_desc: ["Catch wild Steel-type Pokémon. Pokémon you receive from other people don't count."]
 	quest.75E200BE693932DA.title: "Catching Steel Types"
-	quest.75EC89F7DEFB3297.title: "Lt. Surge"
-	quest.760989E122A37DD7.title: "Erica"
 	quest.769D900EF69D1086.quest_desc: ["Register Dark-type Pokémon in your Pokédex. Catch them, evolve them - however you do it is all the same."]
 	quest.769D900EF69D1086.title: "Complete Dark Type Collection"
 	quest.76CA3B0DCF9D926D.quest_desc: ["Catch wild Poison-type Pokémon. Pokémon you receive from other people don't count."]
@@ -564,15 +577,18 @@
 	quest.7F847257D8519B24.title: "Catching Ground Types"
 	reward_table.08BDC2A13740066A.title: "Small Material Box"
 	reward_table.0A51D3DC9120D4DE.title: "Trainer Cap"
-	reward_table.1A0C9239F0F87EC9.title: "Mint Seeds"
 	reward_table.1B145C52938C47A4.title: "Snack"
 	reward_table.2371F675DF28B9D3.title: "Ingots"
 	reward_table.2392B011F3FF863B.title: "Meal"
 	reward_table.3791C73D13BECC80.title: "Mulch"
 	reward_table.4454B205973BE76B.title: "Dex"
 	reward_table.4537921BA5592FED.title: "Caps"
+	reward_table.46A7AD256F4580AA.title: "IV Candies"
 	reward_table.668B43169322FE4C.title: "Bike"
 	reward_table.6ACD6DD8E1D2F562.title: "Tumblestones"
+	reward_table.7A6CA2473CFEB22E.title: "Rank Up Battle Rewards"
+	reward_table.7E0CA3800B32C29D.title: "Evolution Stones"
+	task.00559D6059EFD931.title: "Join the world for the first time!"
 	task.00A8B0F7370CA981.title: "Tier 2 Poké Ball"
 	task.00FA5E28E88D07A5.title: "Any #c:concrete_powder"
 	task.035F2EAAABC2D84B.title: "Evolving via Link Trade"
@@ -591,11 +607,11 @@
 	task.1776BD4AD0B145E1.title: "Any #c:crops"
 	task.1776C39A68EC4227.title: "Defeat 15x Trainer"
 	task.1B2596D5F1DC2DAC.title: "Tier 1 Poké Ball"
-	task.1C9DE267D5C5038E.title: "Click me!"
+	task.1C9DE267D5C5038E.title: "Click Me!"
 	task.1CB07D78D337FDC1.title: "Any #cobblemon:berries"
 	task.1F64F01C6372A3FB.title: "Misty"
 	task.211F76207858285F.title: "Gather an Apricorn"
-	task.21D578B52C876BA7.title: "Storage Options"
+	task.21D578B52C876BA7.title: "Click Me!"
 	task.221E24E7C21E1457.title: "Defeat 10x Trainer"
 	task.23413424242B06AF.title: "Have registered (caught) 10x Mega Pokémon"
 	task.24709500AD3B77B4.title: "Evolve 6x Pokémon"
@@ -649,14 +665,14 @@
 	task.63579D11D9B2ED82.title: "Have registered (caught) 5x G-Max Pokémon"
 	task.66CC5CC6540D5078.title: "Any #minecraft:hoes"
 	task.699D3B962C6CCF46.title: "Any #cobblemon:tier_5_poke_balls"
-	task.6BC368C2ECD09F4C.title: "Biomes"
+	task.6BC368C2ECD09F4C.title: "Click Me!"
 	task.6D13494E43DBC54B.title: "Defeat 90x Trainer"
 	task.6E80B2A0B7F278CD.title: "Defeat 1000x Trainer"
 	task.6FDBBC7759E9F01A.title: "Gather any Tumblestone"
 	task.710F8F0142B49673.title: "Have registered (caught) 32x G-Max Pokémon"
 	task.71AEC4C7BD8CC94B.title: "Defeat 25x Trainer"
 	task.74A3B8EFF8E0DD12.title: "Evolve 100x Pokémon"
-	task.76C48DBC8EC02785.title: "Food and Farming"
+	task.76C48DBC8EC02785.title: "Click Me!"
 	task.771B9AAD726818E3.title: "Defeat 40x Trainer"
 	task.78DA02034FB06E75.title: "Have registered (caught) 25x G-Max Pokémon"
 	task.79C1C2F5E7D5B965.title: "Have registered 15x Fossil Pokémon"
