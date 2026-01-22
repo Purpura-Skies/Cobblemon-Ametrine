@@ -1,0 +1,246 @@
+{
+	autofocus_id: "04E8748E53709D37"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "welcome"
+	group: ""
+	icon: {
+		components: {
+			"ftbquests:icon": "cobblemon:item/advancements/cobblemon_logo_purple"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "35F2407D83F2F017"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			disable_toast: true
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:item/advancements/cobblemon_logo_purple"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "04E8748E53709D37"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "6031A13FC7579FA1"
+					table_id: 743608357773956318L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "61DA347B03B0FB0F"
+					table_id: 4923756029704660843L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1E333A38E6B95841"
+					table_id: 2563304729081775675L
+					type: "choice"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				disable_toast: true
+				id: "1C9DE267D5C5038E"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["357B5EAD822F1233"]
+			icon: {
+				id: "rctmod:trainer_card"
+			}
+			id: "623A85393A3D51A8"
+			tasks: [{
+				id: "03A6052880AC99BF"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["357B5EAD822F1233"]
+			icon: {
+				id: "cobblemon:pokedex_red"
+			}
+			id: "09A1A0D828019F15"
+			tasks: [{
+				id: "13733F418AB99502"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["04E8748E53709D37"]
+			icon: {
+				id: "naturescompass:naturescompass"
+			}
+			id: "258D56DB5588C2EF"
+			rewards: [
+				{
+					id: "252D32877D855ADB"
+					item: {
+						count: 1
+						id: "naturescompass:naturescompass"
+					}
+					type: "item"
+				}
+				{
+					id: "4CD8F8CE76393DDC"
+					item: {
+						count: 1
+						id: "explorerscompass:explorerscompass"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6BC368C2ECD09F4C"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["04E8748E53709D37"]
+			icon: {
+				id: "minecraft:chest"
+			}
+			id: "63EFD4A495AC32BB"
+			rewards: [
+				{
+					id: "2F63E40F9DF450E6"
+					item: {
+						count: 1
+						id: "sophisticatedbackpacks:backpack"
+					}
+					type: "item"
+				}
+				{
+					id: "4432EEFCBAC567CE"
+					item: {
+						count: 1
+						id: "berrypouch:berry_pouch_30"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "21D578B52C876BA7"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["04E8748E53709D37"]
+			icon: {
+				components: {
+					"ftbquests:icon": "cobblemon:item/advancements/cobblemon_logo_yellow"
+				}
+				id: "ftbquests:custom_icon"
+			}
+			id: "357B5EAD822F1233"
+			rewards: [
+				{
+					id: "3328C18908F70D60"
+					item: {
+						count: 1
+						id: "rctmod:trainer_card"
+					}
+					type: "item"
+				}
+				{
+					id: "11328F5CB27DD106"
+					item: {
+						count: 1
+						id: "cobble_contests:contest_card"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "7E56526F1AC221DA"
+					item: {
+						count: 1
+						id: "cobblemon:relic_coin"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "36666918D004064C"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["04E8748E53709D37"]
+			icon: {
+				id: "simplehats:haticon"
+			}
+			id: "548AA8E3D135BB27"
+			rewards: [{
+				id: "3F0D38BC88271FB5"
+				item: {
+					count: 1
+					id: "portablewardrobearmorswap:leather_portable_wardrobe"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "76C48DBC8EC02785"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: -1.0d
+		}
+		{
+			disable_toast: true
+			icon: {
+				id: "biomesoplenty:wildflower"
+			}
+			id: "5E460EFFED6906C8"
+			rewards: [
+				{
+					count: 8
+					id: "679E8FC8B7D8691B"
+					item: {
+						count: 1
+						id: "cobblemon:safari_ball"
+					}
+					type: "item"
+				}
+				{
+					count: 12
+					id: "130E104A8C079577"
+					item: {
+						count: 1
+						id: "cobblemon:potion"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				dimension: "minecraft:overworld"
+				disable_toast: true
+				icon: {
+					id: "minecraft:grass_block"
+				}
+				id: "00559D6059EFD931"
+				type: "dimension"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+	]
+}
