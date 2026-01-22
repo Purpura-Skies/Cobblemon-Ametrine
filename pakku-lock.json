@@ -3155,10 +3155,10 @@
             ]
         },
         {
-            "pakku_id": "QufMSC0mQjzPERMS",
+            "pakku_id": "wQPLk9so1f3piW8w",
             "type": "RESOURCE_PACK",
             "slug": {
-                "curseforge": "complete-cobblemon-collection-myths-and-legends"
+                "curseforge": "complete-cobblemon-collection"
             },
             "name": {
                 "curseforge": "Complete Cobblemon Collection"
@@ -3170,21 +3170,21 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "CCC_1.9.2.zip",
+                    "file_name": "CCCC-1.7.2.zip",
                     "mc_versions": [
                         "1.21.1"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7348/313/CCC_1.9.2.zip",
-                    "id": "7348313",
+                    "url": "https://edge.forgecdn.net/files/7476/026/CCCC-1.7.2.zip",
+                    "id": "7476026",
                     "parent_id": "1258311",
                     "hashes": {
-                        "sha1": "d4c88abf7601ac27157033e10f0059e95f568d5b",
-                        "md5": "c94ec0f69a1d7bee12eea061750685fe"
+                        "sha1": "b37e878f7e5539bfd145ca0fe9d63bcfef0a128c",
+                        "md5": "361597921e68221e6c072a49ac190040"
                     },
                     "required_dependencies": [],
-                    "size": 16593741,
-                    "date_published": "2025-12-18T01:21:19.787Z"
+                    "size": 8517776,
+                    "date_published": "2026-01-17T16:03:58.137Z"
                 }
             ]
         },
