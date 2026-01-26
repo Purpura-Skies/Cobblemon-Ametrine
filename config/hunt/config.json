@@ -1,0 +1,69 @@
+{
+  "economy": "IMPACTOR",
+  "useImpactorDefaultCurrency": false,
+  "currencyName": "impactor:huntcoins",
+  "individualHunts": false,
+  "sendHuntEndMessage": true,
+  "sendHuntBeginMessage": true,
+  "timerCooldowns": true,
+  "bufferDuration": 5,
+  "huntDuration": 60,
+  "huntAmount": 7,
+  "rarity": {
+    "common": 60,
+    "uncommon": 30,
+    "rare": 9,
+    "ultraRare": 1
+  },
+  "rewards": {
+    "common": {
+      "price": 0.0,
+      "commands": [
+        "minecraft:give {player} cobblemon:relic_coin_pouch 2",
+        "minecraft:msg {player} §7§oYou were paid 18 Relic Coins from hunt!"
+      ]
+    },
+    "uncommon": {
+      "price": 0.0,
+      "commands": [
+        "minecraft:give {player} cobblemon:relic_coin_pouch 5",
+        "minecraft:msg {player} §7§oYou were paid 45 Relic Coins from hunt!"
+      ]
+    },
+    "rare": {
+      "price": 0.0,
+      "commands": [
+        "minecraft:give {player} cobblemon:relic_coin_sack 2",
+        "minecraft:msg {player} §7§oYou were paid 162 Relic Coins from hunt!"
+      ]
+    },
+    "ultraRare": {
+      "price": 0.0,
+      "commands": [
+        "minecraft:give {player} cobblemon:relic_coin_sack 5",
+        "minecraft:msg {player} §7§oYou were paid 405 Relic Coins from hunt!"
+      ]
+    }
+  },
+  "matchProperties": {
+    "ability": true,
+    "gender": true,
+    "nature": false,
+    "shiny": false
+  },
+  "customPrices": [
+    {
+      "species": "magikarp",
+      "form": "",
+      "reward": {
+        "price": 0.0,
+        "commands": [
+          "minecraft:give {player} cobblemon:relic_coin_sack 2",
+          "minecraft:msg {player} §7§oYou were paid 162 Relic Coins from hunt!"
+        ]
+      }
+    }
+  ],
+  "blacklist": [],
+  "version": "1.2.3"
+}
