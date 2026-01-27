@@ -23,6 +23,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Updated
 
+- Neoforge 21.1.217                                 -> Neoforge 21.1.218
 - appleskin-neoforge-mc1.21-3.0.7.jar               -> appleskin-neoforge-mc1.21-3.0.8.jar
 - BuildingWands-neoforge-MC1.21-2.11.jar            -> BuildingWands-neoforge-MC1.21-2.14.jar
 - comforts-neoforge-9.0.4+1.21.1.jar                -> comforts-neoforge-9.0.5+1.21.1.jar
