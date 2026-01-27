@@ -26,6 +26,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Neoforge 21.1.217                                 -> Neoforge 21.1.218
 - appleskin-neoforge-mc1.21-3.0.7.jar               -> appleskin-neoforge-mc1.21-3.0.8.jar
 - BuildingWands-neoforge-MC1.21-2.11.jar            -> BuildingWands-neoforge-MC1.21-2.14.jar
+- Cobblemon-neoforge-1.7.1+1.21.1.jar               -> Cobblemon-neoforge-1.7.2+1.21.1.jar
+- counter-neoforge-1.7.1-1.9.0.jar                  -> counter-neoforge-1.7.2-1.9.0.jar
+- spawnnotification-neoforge-1.7.1-2.2.2.jar        -> spawnnotification-neoforge-1.7.2-2.3.0.jar
+- timcore-neoforge-1.7.1-1.29.1.jar                 -> timcore-neoforge-1.7.2-1.30.0.jar
+- unchained-neoforge-1.7.1-1.7.1.jar                -> unchained-neoforge-1.7.2-1.7.1.jar
+- mega_showdown-neoforge-1.4.4+1.7.1+1.21.1.jar     -> mega_showdown-neoforge-1.6.2+1.7.2+1.21.1.jar
 - comforts-neoforge-9.0.4+1.21.1.jar                -> comforts-neoforge-9.0.5+1.21.1.jar
 - craftingtweaks-neoforge-1.21.1-21.1.6.jar         -> craftingtweaks-neoforge-1.21.1-21.1.7.jar
 - FastSuite-1.21.1-6.0.6.jar                        -> FastSuite-1.21.1-6.0.7.jar
