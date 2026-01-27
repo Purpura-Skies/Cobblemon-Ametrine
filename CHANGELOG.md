@@ -5,7 +5,40 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [8.0.0] - Unreleased
+## [8.1.0] - Unreleased
+
+### Added
+
+- Accessible Step
+- Cut Through
+- Data Anchor
+- Euphoria Patches
+- Pick Up Notifier
+- Sophisticated Auto Walk
+- Via Romana: Infrastructure-Driven Fast Travel
+
+### Removed
+
+- Step Height
+
+### Updated
+
+- appleskin-neoforge-mc1.21-3.0.7.jar               -> appleskin-neoforge-mc1.21-3.0.8.jar
+- BuildingWands-neoforge-MC1.21-2.11.jar            -> BuildingWands-neoforge-MC1.21-2.14.jar
+- comforts-neoforge-9.0.4+1.21.1.jar                -> comforts-neoforge-9.0.5+1.21.1.jar
+- craftingtweaks-neoforge-1.21.1-21.1.6.jar         -> craftingtweaks-neoforge-1.21.1-21.1.7.jar
+- FastSuite-1.21.1-6.0.6.jar                        -> FastSuite-1.21.1-6.0.7.jar
+- ferritecore-7.0.2-neoforge.jar                    -> ferritecore-7.0.3-neoforge.jar
+- lootr-neoforge-1.21.1-1.11.36.111.jar             -> lootr-neoforge-1.21.1-1.11.36.114.jar
+- moonlight-1.21-2.29.14-neoforge.jar               -> moonlight-1.21-2.29.16-neoforge.jar
+- rctmod-neoforge-1.21.1-0.17.4-beta.jar            -> rctmod-neoforge-1.21.1-0.17.5-beta.jar
+- sophisticatedcore-1.21.1-1.3.106.1419.jar         -> sophisticatedcore-1.21.1-1.4.0.1438.jar
+- sophisticatedstorage-1.21.1-1.5.22.1445.jar       -> sophisticatedstorage-1.21.1-1.5.24.1460.jar
+- supermartijn642corelib-1.1.19-neoforge-mc1.21.jar -> supermartijn642corelib-1.1.20-neoforge-mc1.21.jar
+- supplementaries-1.21-3.5.16-neoforge.jar          -> supplementaries-1.21-3.5.17-neoforge.jar
+- car-neoforge-1.21.1-1.0.45.jar                    -> car-neoforge-1.21.1-1.0.46.jar
+
+## [8.0.0] - 2026-01-23
 
 ### Added
 
@@ -115,7 +148,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - UniLib
 
 ### Updated
-
 
 - Neoforge 21.1.172                                                 -> Neoforge 21.1.217
 - accessories-neoforge-1.1.0-beta.43+1.21.1.jar                     -> accessories-neoforge-1.1.0-beta.52+1.21.1.jar

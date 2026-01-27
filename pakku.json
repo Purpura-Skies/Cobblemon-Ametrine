@@ -1,6 +1,6 @@
 {
     "name": "Purpura Skies Cobblemon Ametrine",
-    "version": "8.0.0",
+    "version": "8.1.0",
     "overrides": [
         "config"
     ],
@@ -10,6 +10,18 @@
         },
         "cobblemon-challenge": {
             "side": "SERVER"
+        },
+        "cut-through": {
+            "side": "CLIENT"
+        },
+        "euphoria-patches": {
+            "side": "CLIENT"
+        },
+        "sophisticated-auto-walk": {
+            "side": "CLIENT"
+        },
+        "accessible-step": {
+            "side": "CLIENT"
         },
         "lambdynamiclights": {
             "side": "CLIENT"
