@@ -208,11 +208,11 @@
 	quest.2F71D1B43B3D98C2.quest_desc: ["Catch one of each of the Pokémon known as first partners from the Kalos region. Pokémon you receive from other people don't count."]
 	quest.2F71D1B43B3D98C2.title: "Catch the Kalos Starters"
 	quest.2F92B99190E38D60.quest_desc: [
-		"These quests will utilize &dRelic Coins&r, &dRelic Coin Pouches&r, and &dRelic Coin Sacks&r as currency!"
+		"This server utilizes &dRelic Coins&r, &dRelic Coin Pouches&r, and &dRelic Coin Sacks&r as currency!"
 		""
-		"You can also earn more coins by successfully capturing pokemon from &d/hunts&r."
+		"Use &l/bal&r to easily see your total balance, which counts coins from your inventory, ender chest, and some (not all) modded storage as well."
 		""
-		"For now, you can use the coins to gamble with the &dGacha Machines&r."
+		"This currency can be spent on server shops! (See &l/shop&r)"
 	]
 	quest.2F92B99190E38D60.title: "Currency"
 	quest.3030C9BD90981A46.quest_desc: ["Catch wild Steel-type Pokémon. Pokémon you receive from other people don't count."]

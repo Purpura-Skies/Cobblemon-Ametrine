@@ -1690,14 +1690,24 @@
 		{
 			dependencies: ["7354BD941A175327"]
 			id: "68FB4E735BEBCB8F"
-			rewards: [{
-				id: "2F0C402E7A881B67"
-				item: {
-					count: 1
-					id: "cobblemon:lucky_egg"
+			rewards: [
+				{
+					id: "2F0C402E7A881B67"
+					item: {
+						count: 1
+						id: "cobblemon:lucky_egg"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					id: "368DBC4BDBF6BF07"
+					item: {
+						count: 1
+						id: "cobblemon:power_band"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				action: "have_registered"
 				amount: 50L
@@ -1890,12 +1900,22 @@
 		{
 			dependencies: ["69F5CDA9970044B6"]
 			id: "21F3DCB07E4F7F50"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "61450C385EC232D4"
-				table_id: 5091228280057856170L
-				type: "choice"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "61450C385EC232D4"
+					table_id: 5091228280057856170L
+					type: "choice"
+				}
+				{
+					id: "0C07138E047FA35B"
+					item: {
+						count: 1
+						id: "cobblemon:power_belt"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				icon: {
 					id: "cobblemon:exp_candy_s"
@@ -2424,12 +2444,22 @@
 				id: "ftbquests:custom_icon"
 			}
 			id: "5028C343ECBBC840"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "035D1E20E0083955"
-				table_id: 8821604196961661486L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "035D1E20E0083955"
+					table_id: 8821604196961661486L
+					type: "random"
+				}
+				{
+					id: "62401E2C561222A1"
+					item: {
+						count: 1
+						id: "cobblemon:power_weight"
+					}
+					type: "item"
+				}
+			]
 			tasks: [{
 				action: "defeat_player,defeat_npc"
 				amount: 50L
@@ -6229,6 +6259,14 @@
 				id: "mega_showdown:mega_bracelet"
 			}
 			id: "3304E0BA74977A0F"
+			rewards: [{
+				id: "0908194898CCC960"
+				item: {
+					count: 1
+					id: "cobblemon:power_bracer"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "have_registered"
 				amount: 10L
@@ -6471,6 +6509,14 @@
 				id: "mega_showdown:dynamax_band"
 			}
 			id: "62D38723EF896F96"
+			rewards: [{
+				id: "3C85267518B5A65F"
+				item: {
+					count: 1
+					id: "cobblemon:power_anklet"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "have_registered"
 				amount: 10L
@@ -6659,6 +6705,15 @@
 		}
 		{
 			id: "2302ADFC467DB4A9"
+			rewards: [{
+				count: 2
+				id: "021FB1FF12921C81"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_s"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "scan"
 				amount: 1L
@@ -6692,6 +6747,15 @@
 		{
 			dependencies: ["2302ADFC467DB4A9"]
 			id: "1FBC1901CCC9FAA1"
+			rewards: [{
+				count: 2
+				id: "1EF0980D1446738E"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_s"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "scan"
 				amount: 3L
@@ -6725,6 +6789,15 @@
 		{
 			dependencies: ["1FBC1901CCC9FAA1"]
 			id: "6C2A339A67C7FE11"
+			rewards: [{
+				count: 2
+				id: "2E04A332ABADDFC2"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_s"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "scan"
 				amount: 8L
@@ -6758,6 +6831,15 @@
 		{
 			dependencies: ["6C2A339A67C7FE11"]
 			id: "4F8CB536BB591C3A"
+			rewards: [{
+				count: 4
+				id: "58564CAF883905AE"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_s"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "scan"
 				amount: 15L
@@ -6791,6 +6873,15 @@
 		{
 			dependencies: ["4F8CB536BB591C3A"]
 			id: "162D3720B75336F9"
+			rewards: [{
+				count: 8
+				id: "3BFFECC5AB7ADA7A"
+				item: {
+					count: 1
+					id: "cobblemon:exp_candy_s"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				action: "scan"
 				amount: 25L
@@ -6824,6 +6915,12 @@
 		{
 			dependencies: ["162D3720B75336F9"]
 			id: "56F302FE3C556C12"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0D7A34809269D49F"
+				table_id: 8821604196961661486L
+				type: "random"
+			}]
 			shape: "hexagon"
 			size: 1.2d
 			tasks: [{
@@ -7241,6 +7338,14 @@
 		{
 			dependencies: ["5DD571CDE0CE5850"]
 			id: "45BD22F1E2F06C7B"
+			rewards: [{
+				id: "1E421ECA17E0AC6F"
+				item: {
+					count: 1
+					id: "cobblemon:power_lens"
+				}
+				type: "item"
+			}]
 			shape: "hexagon"
 			size: 1.2d
 			tasks: [{

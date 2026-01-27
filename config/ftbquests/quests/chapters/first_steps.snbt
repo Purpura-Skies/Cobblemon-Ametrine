@@ -13,6 +13,15 @@
 	quests: [
 		{
 			id: "483EA248B41F7FE9"
+			rewards: [{
+				count: 5
+				id: "6D0869980AB26740"
+				item: {
+					count: 1
+					id: "cobblemon:relic_coin"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "0274BD7CCBC08DF8"
 				item: { count: 1, id: "minecraft:crafting_table" }
@@ -24,6 +33,12 @@
 		{
 			dependencies: ["483EA248B41F7FE9"]
 			id: "3193EEEDCB438D7E"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "08ED0CC4B83F0C83"
+				table_id: 629873520574203498L
+				type: "choice"
+			}]
 			tasks: [{
 				id: "211F76207858285F"
 				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(cobblemon:apricorns)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
@@ -172,153 +187,57 @@
 			y: -4.0d
 		}
 		{
-			dependencies: ["573C0BF4A8E9324F"]
-			id: "1F0D6844C573F88B"
-			tasks: [{
-				id: "18F52790D14070B6"
-				item: { count: 1, id: "minecraft:copper_ingot" }
-				type: "item"
-			}]
-			x: 3.5d
-			y: -0.5d
-		}
-		{
-			dependencies: ["573C0BF4A8E9324F"]
-			id: "04DD4CF8AE8E0FD2"
-			tasks: [{
-				id: "08048F7B5AA97AA0"
-				item: { count: 1, id: "minecraft:iron_ingot" }
-				type: "item"
-			}]
-			x: 3.5d
-			y: -1.5d
-		}
-		{
-			dependencies: ["7B99FE6012874D45"]
-			id: "7EEB498E691FE545"
-			tasks: [{
-				id: "49B48116AD10A21A"
-				item: { count: 1, id: "minecraft:gold_ingot" }
-				type: "item"
-			}]
-			x: 5.5d
-			y: -1.0d
-		}
-		{
-			dependencies: ["7B99FE6012874D45"]
-			id: "7EA29C825A7A1892"
-			tasks: [{
-				id: "5B64CB699D4F6050"
-				item: { count: 1, id: "minecraft:diamond" }
-				type: "item"
-			}]
-			x: 5.5d
-			y: -2.0d
-		}
-		{
 			dependencies: ["483EA248B41F7FE9"]
-			id: "1B6DE216640481DA"
+			id: "5701C163E604B3E4"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "18E5722B0AA08639"
+				table_id: 629873520574203498L
+				type: "random"
+			}]
 			tasks: [{
-				id: "1756C89DE21DCF1E"
-				item: { count: 1, id: "minecraft:wooden_pickaxe" }
+				id: "42F120B3AAFAB494"
+				item: { count: 1, id: "minecraft:stone_pickaxe" }
 				type: "item"
 			}]
 			x: 0.5d
 			y: -1.5d
 		}
 		{
-			dependencies: ["2D43A3B99E7F149C"]
-			id: "5701C163E604B3E4"
-			tasks: [{
-				id: "42F120B3AAFAB494"
-				item: { count: 1, id: "minecraft:stone_pickaxe" }
-				type: "item"
-			}]
-			x: 2.5d
-			y: -2.0d
-		}
-		{
-			dependencies: ["483EA248B41F7FE9"]
-			dependency_requirement: "one_completed"
-			id: "3F233C2B610175DC"
-			tasks: [{
-				id: "27A092B8579ABB35"
-				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(comforts:sleeping_bags)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: -1.0d
-			y: 0.0d
-		}
-		{
-			dependencies: ["1B6DE216640481DA"]
-			id: "2D43A3B99E7F149C"
-			tasks: [{
-				count: 16L
-				id: "4A31151A5D329C06"
-				item: { count: 1, id: "minecraft:cobblestone" }
-				type: "item"
-			}]
-			x: 1.5d
-			y: -1.5d
-		}
-		{
-			dependencies: ["2D43A3B99E7F149C"]
-			id: "573C0BF4A8E9324F"
-			tasks: [{
-				id: "3EA1292A79AB36AD"
-				item: { count: 1, id: "minecraft:furnace" }
-				type: "item"
-			}]
-			x: 2.5d
-			y: -1.0d
-		}
-		{
-			dependencies: ["573C0BF4A8E9324F"]
-			id: "5BE5A4D9EC486973"
-			tasks: [{
-				id: "4486F1F7928FAEAD"
-				item: { count: 1, id: "minecraft:charcoal" }
-				only_from_crafting: true
-				type: "item"
-			}]
-			x: 2.5d
-			y: 0.0d
-		}
-		{
-			dependencies: ["04DD4CF8AE8E0FD2"]
+			dependencies: ["5701C163E604B3E4"]
 			id: "7B99FE6012874D45"
 			tasks: [{
 				id: "356ED7A93B951FA1"
 				item: { count: 1, id: "minecraft:iron_pickaxe" }
 				type: "item"
 			}]
-			x: 4.5d
+			x: 1.5d
 			y: -1.5d
 		}
 		{
-			dependencies: ["7EA29C825A7A1892"]
+			dependencies: ["7B99FE6012874D45"]
 			id: "1663BC8374998CA6"
 			tasks: [{
 				id: "1A5D099070CA3B7E"
 				item: { count: 1, id: "minecraft:diamond_pickaxe" }
 				type: "item"
 			}]
-			x: 6.5d
-			y: -2.0d
+			x: 2.5d
+			y: -1.5d
 		}
 		{
-			dependencies: ["208E2076AF67D5D3"]
+			dependencies: ["1663BC8374998CA6"]
 			id: "6E14CC4C1540B9D4"
 			tasks: [{
 				id: "4F0D9A1A7F12AD54"
 				item: { count: 1, id: "minecraft:netherite_pickaxe" }
 				type: "item"
 			}]
-			x: 8.5d
-			y: -2.0d
+			x: 3.5d
+			y: -1.5d
 		}
 		{
-			dependencies: ["04DD4CF8AE8E0FD2"]
+			dependencies: ["5701C163E604B3E4"]
 			id: "3438D87FD2D37CF9"
 			tasks: [
 				{
@@ -342,11 +261,11 @@
 					type: "item"
 				}
 			]
-			x: 4.0d
+			x: 1.5d
 			y: -2.5d
 		}
 		{
-			dependencies: ["7EA29C825A7A1892"]
+			dependencies: ["3438D87FD2D37CF9"]
 			id: "02B685E35F0B1CD6"
 			tasks: [
 				{
@@ -370,22 +289,11 @@
 					type: "item"
 				}
 			]
-			x: 6.0d
-			y: -3.0d
+			x: 2.5d
+			y: -2.5d
 		}
 		{
-			dependencies: ["1663BC8374998CA6"]
-			id: "208E2076AF67D5D3"
-			tasks: [{
-				id: "7CFAB3D93E602E6A"
-				item: { count: 1, id: "minecraft:netherite_ingot" }
-				type: "item"
-			}]
-			x: 7.5d
-			y: -2.0d
-		}
-		{
-			dependencies: ["208E2076AF67D5D3"]
+			dependencies: ["02B685E35F0B1CD6"]
 			id: "5D7D9CB8FAC82285"
 			tasks: [
 				{
@@ -409,30 +317,20 @@
 					type: "item"
 				}
 			]
-			x: 8.0d
-			y: -3.0d
+			x: 3.5d
+			y: -2.5d
 		}
 		{
 			dependencies: ["59C17C2482B32910"]
 			id: "7785F4C9C5168C32"
 			tasks: [{
-				id: "2E493CDA1A563BE0"
-				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:beds)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
+				advancement: "minecraft:adventure/sleep_in_bed"
+				criterion: ""
+				id: "181AE755885939A3"
+				type: "advancement"
 			}]
 			x: -1.0d
-			y: 2.0d
-		}
-		{
-			dependencies: ["7785F4C9C5168C32"]
-			id: "094D9302B53EE225"
-			tasks: [{
-				id: "6013B4EB0424CCCF"
-				item: { count: 1, id: "minecraft:chest" }
-				type: "item"
-			}]
-			x: -2.0d
-			y: 2.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["7785F4C9C5168C32"]
@@ -443,21 +341,10 @@
 				type: "item"
 			}]
 			x: -1.0d
-			y: 3.0d
+			y: 2.0d
 		}
 		{
-			dependencies: ["5F560FEED8FB2E10"]
-			id: "28C80BB8BDE38548"
-			tasks: [{
-				id: "1776BD4AD0B145E1"
-				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(c:crops)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
-				type: "item"
-			}]
-			x: -1.0d
-			y: 4.0d
-		}
-		{
-			dependencies: ["3F233C2B610175DC"]
+			dependencies: ["483EA248B41F7FE9"]
 			icon: {
 				components: {
 					"ftbquests:icon": "minecraft:textures/map/decorations/plains_village.png"
@@ -465,16 +352,22 @@
 				id: "ftbquests:custom_icon"
 			}
 			id: "59C17C2482B32910"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "75800B6803DB1449"
+				table_id: 7389073377868316236L
+				type: "choice"
+			}]
 			tasks: [{
 				id: "223E4EE7D99A3F58"
 				structure: "#minecraft:village"
 				type: "structure"
 			}]
 			x: -1.0d
-			y: 1.0d
+			y: 0.0d
 		}
 		{
-			dependencies: ["3A88F116F5349A26"]
+			dependencies: ["5F560FEED8FB2E10"]
 			id: "6271BD94C9AEE7B2"
 			rewards: [
 				{
@@ -500,11 +393,11 @@
 				item: { count: 1, id: "cobblemon:oran_berry" }
 				type: "item"
 			}]
-			x: 1.5d
-			y: 2.5d
+			x: 0.0d
+			y: 2.0d
 		}
 		{
-			dependencies: ["3A88F116F5349A26"]
+			dependencies: ["6271BD94C9AEE7B2"]
 			id: "549ECB1F0319C6A2"
 			rewards: [
 				{
@@ -530,11 +423,11 @@
 				item: { count: 1, id: "cobblemon:sitrus_berry" }
 				type: "item"
 			}]
-			x: 3.0d
-			y: 2.5d
+			x: 1.0d
+			y: 2.0d
 		}
 		{
-			dependencies: ["3A88F116F5349A26"]
+			dependencies: ["549ECB1F0319C6A2"]
 			id: "2E67EC26EDB66BA3"
 			rewards: [
 				{
@@ -560,8 +453,8 @@
 				item: { count: 1, id: "cobblemon:energy_root" }
 				type: "item"
 			}]
-			x: 4.5d
-			y: 2.5d
+			x: 2.0d
+			y: 2.0d
 		}
 		{
 			dependencies: [
@@ -582,8 +475,8 @@
 				item: { count: 1, id: "minecraft:milk_bucket" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: 1.5d
+			x: 1.5d
+			y: 3.0d
 		}
 		{
 			dependencies: [
@@ -612,11 +505,11 @@
 				item: { count: 1, id: "minecraft:white_wool" }
 				type: "item"
 			}]
-			x: 2.0d
-			y: 3.5d
+			x: 1.0d
+			y: 4.0d
 		}
 		{
-			dependencies: ["7785F4C9C5168C32"]
+			dependencies: ["5F560FEED8FB2E10"]
 			id: "3A88F116F5349A26"
 			rewards: [{
 				count: 32
@@ -632,8 +525,8 @@
 				item: { count: 1, id: "cobblemon:pasture" }
 				type: "item"
 			}]
-			x: 0.0d
-			y: 2.5d
+			x: -0.5d
+			y: 3.0d
 		}
 		{
 			dependencies: ["3A88F116F5349A26"]
@@ -674,8 +567,8 @@
 				time_min: 0L
 				type: "cobblemon_tasks:cobblemon_task"
 			}]
-			x: 1.0d
-			y: 3.5d
+			x: 0.0d
+			y: 4.0d
 		}
 		{
 			dependencies: ["3A88F116F5349A26"]
@@ -709,8 +602,17 @@
 				time_min: 0L
 				type: "cobblemon_tasks:cobblemon_task"
 			}]
-			x: 1.0d
-			y: 1.5d
+			x: 0.5d
+			y: 3.0d
+		}
+		{
+			id: "5ED98752AD7CCC96"
+			tasks: [{
+				id: "43D6AF127959DDEE"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: -1.5d
 		}
 	]
 }

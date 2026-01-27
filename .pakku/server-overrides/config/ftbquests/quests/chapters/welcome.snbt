@@ -32,12 +32,6 @@
 				}
 				{
 					exclude_from_claim_all: true
-					id: "61DA347B03B0FB0F"
-					table_id: 4923756029704660843L
-					type: "choice"
-				}
-				{
-					exclude_from_claim_all: true
 					id: "1E333A38E6B95841"
 					table_id: 2563304729081775675L
 					type: "choice"
@@ -58,6 +52,14 @@
 				id: "rctmod:trainer_card"
 			}
 			id: "623A85393A3D51A8"
+			rewards: [{
+				id: "654900A8B13B7F83"
+				item: {
+					count: 1
+					id: "rctmod:trainer_card"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "03A6052880AC99BF"
 				type: "checkmark"
@@ -71,6 +73,12 @@
 				id: "cobblemon:pokedex_red"
 			}
 			id: "09A1A0D828019F15"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "02B3067B1AC815C7"
+				table_id: 4923756029704660843L
+				type: "choice"
+			}]
 			tasks: [{
 				id: "13733F418AB99502"
 				type: "checkmark"
@@ -100,6 +108,12 @@
 						id: "explorerscompass:explorerscompass"
 					}
 					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "6592B6ECA576895B"
+					table_id: 7389073377868316236L
+					type: "choice"
 				}
 			]
 			tasks: [{
@@ -149,33 +163,15 @@
 				id: "ftbquests:custom_icon"
 			}
 			id: "357B5EAD822F1233"
-			rewards: [
-				{
-					id: "3328C18908F70D60"
-					item: {
-						count: 1
-						id: "rctmod:trainer_card"
-					}
-					type: "item"
+			rewards: [{
+				count: 5
+				id: "1E2D8195DB3BF007"
+				item: {
+					count: 1
+					id: "cobblemon:relic_coin"
 				}
-				{
-					id: "11328F5CB27DD106"
-					item: {
-						count: 1
-						id: "cobble_contests:contest_card"
-					}
-					type: "item"
-				}
-				{
-					count: 5
-					id: "7E56526F1AC221DA"
-					item: {
-						count: 1
-						id: "cobblemon:relic_coin"
-					}
-					type: "item"
-				}
-			]
+				type: "item"
+			}]
 			tasks: [{
 				id: "36666918D004064C"
 				type: "checkmark"
@@ -241,6 +237,27 @@
 			}]
 			x: 1.0d
 			y: 1.0d
+		}
+		{
+			icon: {
+				id: "cobblemon:relic_coin"
+			}
+			id: "2F92B99190E38D60"
+			rewards: [{
+				count: 5
+				id: "018F880F92AE4446"
+				item: {
+					count: 1
+					id: "cobblemon:relic_coin"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "1BD6B475855A87D5"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: -3.0d
 		}
 	]
 }
