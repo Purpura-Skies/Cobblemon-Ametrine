@@ -210,8 +210,6 @@
 	quest.2F92B99190E38D60.quest_desc: [
 		"These quests will utilize &dRelic Coins&r, &dRelic Coin Pouches&r, and &dRelic Coin Sacks&r as currency!"
 		""
-		"You can also earn more coins by successfully capturing pokemon from &d/hunts&r."
-		""
 		"For now, you can use the coins to gamble with the &dGacha Machines&r."
 	]
 	quest.2F92B99190E38D60.title: "Currency"
