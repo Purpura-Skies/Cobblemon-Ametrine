@@ -225,6 +225,33 @@
 					}
 					type: "item"
 				}
+				{
+					auto: "invisible"
+					command: "/gamerule keepInventory true"
+					id: "72429534F0CEFF08"
+					ignore_reward_blocking: true
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/gamerule doPatrolSpawning false"
+					id: "301C05E57CBBF0BF"
+					ignore_reward_blocking: true
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+				{
+					auto: "invisible"
+					command: "/gamerule doInsomnia false"
+					id: "2CEB696212DCA410"
+					ignore_reward_blocking: true
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
 			]
 			tasks: [{
 				dimension: "minecraft:overworld"
