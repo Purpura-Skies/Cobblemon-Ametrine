@@ -25,13 +25,13 @@
     "file/Cobblemon Interface Modded v1.9.4.zip",
     "file/Cobblemon Interface Additional 1.0.zip",
     "file/RCT Trainers+ [1.6] v2.1.zip",
-    "file/CCC_MAL1.7.3.zip",
+    "file/CCC_2.0.zip",
     "file/E19 Cobblemon Minimap Icons.zip"
   ],
   "pack_overrides": {
     "required": [
       "file/RCT Trainers+ [1.6] v2.1.zip",
-      "file/CCC_MAL1.7.3.zip",
+      "file/CCC_2.0.zip",
       "file/E19 Cobblemon Minimap Icons.zip"
     ],
     "$$required": {

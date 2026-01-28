@@ -3208,21 +3208,21 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "CCC_MAL1.7.3.zip",
+                    "file_name": "CCC_2.0.zip",
                     "mc_versions": [
                         "1.21.1"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6988/381/CCC_MAL1.7.3.zip",
-                    "id": "6988381",
+                    "url": "https://edge.forgecdn.net/files/7542/466/CCC_2.0.zip",
+                    "id": "7542466",
                     "parent_id": "1258311",
                     "hashes": {
-                        "sha1": "a1c36cd993a8da1a2450cbebd84617370282e874",
-                        "md5": "bbba46bc4b7427bf4ab9e91fbe039373"
+                        "sha1": "1773f72b976edcda7a80d74ec9b90588c34a7351",
+                        "md5": "8fdc10afcb5d78cd8328e66a357e022c"
                     },
                     "required_dependencies": [],
-                    "size": 19600213,
-                    "date_published": "2025-09-12T04:31:39.403Z"
+                    "size": 18378866,
+                    "date_published": "2026-01-28T20:24:53.603Z"
                 }
             ]
         },
