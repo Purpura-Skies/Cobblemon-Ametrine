@@ -8749,7 +8749,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "rctmod-neoforge-1.21.1-0.17.5-beta.jar",
+                    "file_name": "rctmod-neoforge-1.21.1-0.17.6-beta.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -8757,19 +8757,19 @@
                         "neoforge"
                     ],
                     "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/7534/259/rctmod-neoforge-1.21.1-0.17.5-beta.jar",
-                    "id": "7534259",
+                    "url": "https://edge.forgecdn.net/files/7546/370/rctmod-neoforge-1.21.1-0.17.6-beta.jar",
+                    "id": "7546370",
                     "parent_id": "1009534",
                     "hashes": {
-                        "sha1": "81ed185e2429c5744502bc2d8b63b08bf63ba65b",
-                        "md5": "05a5dd60d36a831d33096b7dcb4e6f14"
+                        "sha1": "f58457cd67609ba8e292035cc1d7a3c2c503a8cc",
+                        "md5": "0ad0e6d0ebb05edd45a290ae080d5085"
                     },
                     "required_dependencies": [
                         "1152792",
                         "687131"
                     ],
-                    "size": 4764012,
-                    "date_published": "2026-01-27T05:16:16.153Z"
+                    "size": 4764199,
+                    "date_published": "2026-01-29T16:30:25.570Z"
                 }
             ]
         },

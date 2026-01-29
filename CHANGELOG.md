@@ -44,7 +44,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Jade-1.21.1-NeoForge-15.10.4.jar                  -> Jade-1.21.1-NeoForge-15.10.5.jar
 - lootr-neoforge-1.21.1-1.11.36.111.jar             -> lootr-neoforge-1.21.1-1.11.36.114.jar
 - moonlight-1.21-2.29.14-neoforge.jar               -> moonlight-1.21-2.29.16-neoforge.jar
-- rctmod-neoforge-1.21.1-0.17.4-beta.jar            -> rctmod-neoforge-1.21.1-0.17.5-beta.jar
+- rctmod-neoforge-1.21.1-0.17.4-beta.jar            -> rctmod-neoforge-1.21.1-0.17.6-beta.jar
 - sophisticatedcore-1.21.1-1.3.106.1419.jar         -> sophisticatedcore-1.21.1-1.4.1.1445.jar
 - sophisticatedstorage-1.21.1-1.5.22.1445.jar       -> sophisticatedstorage-1.21.1-1.5.24.1460.jar
 - supermartijn642corelib-1.1.19-neoforge-mc1.21.jar -> supermartijn642corelib-1.1.20-neoforge-mc1.21.jar
