@@ -19,6 +19,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Removed
 
+- Cobblemon Capture XP
 - Step Height
 
 ### Updated
@@ -28,18 +29,23 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - BuildingWands-neoforge-MC1.21-2.11.jar            -> BuildingWands-neoforge-MC1.21-2.14.jar
 - Cobblemon-neoforge-1.7.1+1.21.1.jar               -> Cobblemon-neoforge-1.7.2+1.21.1.jar
 - counter-neoforge-1.7.1-1.9.0.jar                  -> counter-neoforge-1.7.2-1.9.0.jar
+- cobblemonraiddens-neoforge-0.6.4+1.21.1.jar       -> cobblemonraiddens-neoforge-0.6.5+1.21.1.jar
 - spawnnotification-neoforge-1.7.1-2.2.2.jar        -> spawnnotification-neoforge-1.7.2-2.3.0.jar
-- timcore-neoforge-1.7.1-1.29.1.jar                 -> timcore-neoforge-1.7.2-1.30.0.jar
+- timcore-neoforge-1.7.1-1.29.1.jar                 -> timcore-neoforge-1.7.2-1.31.0.jar
 - unchained-neoforge-1.7.1-1.7.1.jar                -> unchained-neoforge-1.7.2-1.7.1.jar
-- mega_showdown-neoforge-1.4.4+1.7.1+1.21.1.jar     -> mega_showdown-neoforge-1.6.2+1.7.2+1.21.1.jar
+- mega_showdown-neoforge-1.4.4+1.7.1+1.21.1.jar     -> mega_showdown-neoforge-1.6.3+1.7.2+1.21.1.jar
+- playerxp-neoforge-1.0.4+1.21.1.jar                -> playerxp-neoforge-1.0.5+1.21.1.jar
 - comforts-neoforge-9.0.4+1.21.1.jar                -> comforts-neoforge-9.0.5+1.21.1.jar
+- CCC_MAL1.7.3.zip                                  -> CCC_2.0.zip
 - craftingtweaks-neoforge-1.21.1-21.1.6.jar         -> craftingtweaks-neoforge-1.21.1-21.1.7.jar
 - FastSuite-1.21.1-6.0.6.jar                        -> FastSuite-1.21.1-6.0.7.jar
 - ferritecore-7.0.2-neoforge.jar                    -> ferritecore-7.0.3-neoforge.jar
+- ImmediatelyFast-NeoForge-1.6.9+1.21.1.jar         -> ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar
+- Jade-1.21.1-NeoForge-15.10.4.jar                  -> Jade-1.21.1-NeoForge-15.10.5.jar
 - lootr-neoforge-1.21.1-1.11.36.111.jar             -> lootr-neoforge-1.21.1-1.11.36.114.jar
 - moonlight-1.21-2.29.14-neoforge.jar               -> moonlight-1.21-2.29.16-neoforge.jar
 - rctmod-neoforge-1.21.1-0.17.4-beta.jar            -> rctmod-neoforge-1.21.1-0.17.5-beta.jar
-- sophisticatedcore-1.21.1-1.3.106.1419.jar         -> sophisticatedcore-1.21.1-1.4.0.1438.jar
+- sophisticatedcore-1.21.1-1.3.106.1419.jar         -> sophisticatedcore-1.21.1-1.4.1.1445.jar
 - sophisticatedstorage-1.21.1-1.5.22.1445.jar       -> sophisticatedstorage-1.21.1-1.5.24.1460.jar
 - supermartijn642corelib-1.1.19-neoforge-mc1.21.jar -> supermartijn642corelib-1.1.20-neoforge-mc1.21.jar
 - supplementaries-1.21-3.5.16-neoforge.jar          -> supplementaries-1.21-3.5.17-neoforge.jar
