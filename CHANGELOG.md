@@ -5,7 +5,15 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [8.1.0] - Unreleased
+## [8.1.1] - Unreleased
+
+### Updated
+
+- fightorflight-neoforge-0.10.5.jar                -> fightorflight-neoforge-0.10.6.jar
+- dynamic-fps-3.11.3+minecraft-1.21.0-neoforge.jar -> dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar
+- sophisticatedcore-1.21.1-1.4.1.1445.jar          -> sophisticatedcore-1.21.1-1.4.1.1452.jar
+
+## [8.1.0] - 2026/01/29
 
 ### Added
 

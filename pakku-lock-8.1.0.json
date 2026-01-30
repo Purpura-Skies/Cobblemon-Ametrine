@@ -1899,7 +1899,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "fightorflight-neoforge-0.10.6.jar",
+                    "file_name": "fightorflight-neoforge-0.10.5.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -1907,16 +1907,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7549/719/fightorflight-neoforge-0.10.6.jar",
-                    "id": "7549719",
+                    "url": "https://edge.forgecdn.net/files/7415/835/fightorflight-neoforge-0.10.5.jar",
+                    "id": "7415835",
                     "parent_id": "1168140",
                     "hashes": {
-                        "sha1": "fb5535c4a5d221acf12f3292a2994e28d85cc9c8",
-                        "md5": "20d98a73c55f7e43cf0c4d9d31fd51f8"
+                        "sha1": "93802b2b2c092483089aeb6ec64c724ca1b2799e",
+                        "md5": "96c07460e8d5d135d2e77d6cdfd25c97"
                     },
                     "required_dependencies": [],
-                    "size": 1406624,
-                    "date_published": "2026-01-30T08:30:51.087Z"
+                    "size": 1406142,
+                    "date_published": "2026-01-04T09:47:37.273Z"
                 }
             ]
         },
@@ -4015,7 +4015,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
+                    "file_name": "dynamic-fps-3.11.3+minecraft-1.21.0-neoforge.jar",
                     "mc_versions": [
                         "1.21",
                         "1.21.1"
@@ -4024,16 +4024,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7546/938/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
-                    "id": "7546938",
+                    "url": "https://edge.forgecdn.net/files/7413/10/dynamic-fps-3.11.3+minecraft-1.21.0-neoforge.jar",
+                    "id": "7413010",
                     "parent_id": "335493",
                     "hashes": {
-                        "sha1": "35b17e95b2b65930116ccc83e0cc358ac1bfcf9e",
-                        "md5": "e5ef3e5d37eedad79cf44897229fd8f2"
+                        "sha1": "7fd7557ce08e8692eae9518df5491e997658ac18",
+                        "md5": "fc97da409b89b517b5a4c71762dffa24"
                     },
                     "required_dependencies": [],
-                    "size": 220193,
-                    "date_published": "2026-01-29T18:23:46.537Z"
+                    "size": 220370,
+                    "date_published": "2026-01-03T16:41:21.713Z"
                 }
             ]
         },
@@ -9906,7 +9906,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "sophisticatedcore-1.21.1-1.4.1.1452.jar",
+                    "file_name": "sophisticatedcore-1.21.1-1.4.1.1445.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -9914,16 +9914,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7549/782/sophisticatedcore-1.21.1-1.4.1.1452.jar",
-                    "id": "7549782",
+                    "url": "https://edge.forgecdn.net/files/7542/996/sophisticatedcore-1.21.1-1.4.1.1445.jar",
+                    "id": "7542996",
                     "parent_id": "618298",
                     "hashes": {
-                        "sha1": "7dcf6a17ce7be3dd1300e0d80e0fbcb20cc38f28",
-                        "md5": "54713884d92ea50fc61fa54920bee3ef"
+                        "sha1": "85861bee27ffd58c5137d9c3b2d68f1b4e6e844d",
+                        "md5": "5c0739848aeb74506e3a91f8ee7b372a"
                     },
                     "required_dependencies": [],
-                    "size": 1455748,
-                    "date_published": "2026-01-30T09:03:30.900Z"
+                    "size": 1456020,
+                    "date_published": "2026-01-28T22:20:59.687Z"
                 }
             ]
         },
