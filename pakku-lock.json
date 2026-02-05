@@ -902,7 +902,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "bibliocraft-1.21.1-1.6.2.jar",
+                    "file_name": "bibliocraft-1.21.1-1.6.4.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -910,16 +910,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7055/118/bibliocraft-1.21.1-1.6.2.jar",
-                    "id": "7055118",
+                    "url": "https://edge.forgecdn.net/files/7580/743/bibliocraft-1.21.1-1.6.4.jar",
+                    "id": "7580743",
                     "parent_id": "1122260",
                     "hashes": {
-                        "sha1": "ef517e019b1ec9057e21875b0698f310531d2f05",
-                        "md5": "5d02953771f56c4d82d04022db3d83d7"
+                        "sha1": "b4df707b6fb9b9ce345155b72c1d445a4546af37",
+                        "md5": "4ad96dc6e2cb5713ee1020a3d43f0e6f"
                     },
                     "required_dependencies": [],
-                    "size": 5467053,
-                    "date_published": "2025-10-01T20:14:38.090Z"
+                    "size": 5467560,
+                    "date_published": "2026-02-05T18:43:02.893Z"
                 }
             ]
         },
@@ -2587,7 +2587,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "cobblestats-neoforge-1.9+1.21.1.jar",
+                    "file_name": "cobblestats-neoforge-1.9.2+1.21.1.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -2595,16 +2595,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7577/471/cobblestats-neoforge-1.9+1.21.1.jar",
-                    "id": "7577471",
+                    "url": "https://edge.forgecdn.net/files/7581/127/cobblestats-neoforge-1.9.2+1.21.1.jar",
+                    "id": "7581127",
                     "parent_id": "1385982",
                     "hashes": {
-                        "sha1": "145c8ea6c8230429b80f6734c2c483156578de23",
-                        "md5": "528900acef57ae2132cb86307ac40c0a"
+                        "sha1": "3e61f8968da3415e26f36c12955c657340fb77bf",
+                        "md5": "2d1a93ffdde99b8ffa3b122894e1ccbc"
                     },
                     "required_dependencies": [],
-                    "size": 69018,
-                    "date_published": "2026-02-04T23:56:34.183Z"
+                    "size": 68993,
+                    "date_published": "2026-02-05T20:14:49.617Z"
                 }
             ]
         },
@@ -6586,24 +6586,25 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "lithium-neoforge-0.15.1+mc1.21.1.jar",
+                    "file_name": "lithium-neoforge-0.15.2+mc1.21.1.jar",
                     "mc_versions": [
+                        "1.21",
                         "1.21.1"
                     ],
                     "loaders": [
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7246/288/lithium-neoforge-0.15.1+mc1.21.1.jar",
-                    "id": "7246288",
+                    "url": "https://edge.forgecdn.net/files/7581/452/lithium-neoforge-0.15.2+mc1.21.1.jar",
+                    "id": "7581452",
                     "parent_id": "360438",
                     "hashes": {
-                        "sha1": "38295e15a600899697a5dbd29b1e9c15060e5760",
-                        "md5": "e16050f462629aaa8486ff09d506a6b4"
+                        "sha1": "54457ba68b0066a5b6034655f8d31a29a3e5e6b1",
+                        "md5": "ea8a0699fa86f4c9642bdc369546a7a6"
                     },
                     "required_dependencies": [],
-                    "size": 749987,
-                    "date_published": "2025-11-21T17:10:34.300Z"
+                    "size": 773944,
+                    "date_published": "2026-02-05T21:34:06.287Z"
                 }
             ]
         },
@@ -7669,7 +7670,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "MoreCobblemonTweaks-neoforge-1.2.1.jar",
+                    "file_name": "MoreCobblemonTweaks-neoforge-1.3.0.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -7677,19 +7678,19 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7321/500/MoreCobblemonTweaks-neoforge-1.2.1.jar",
-                    "id": "7321500",
+                    "url": "https://edge.forgecdn.net/files/7581/50/MoreCobblemonTweaks-neoforge-1.3.0.jar",
+                    "id": "7581050",
                     "parent_id": "1082538",
                     "hashes": {
-                        "sha1": "2305f8e34bc584add2c004e3d5313f35662afee8",
-                        "md5": "d3794a49d7bbdaeb3c6fa56b3042a2dc"
+                        "sha1": "0661b9a140545f8397376b4d8d23a9a0c0075c43",
+                        "md5": "f9aef946960e49b2762b3ef064088b45"
                     },
                     "required_dependencies": [
-                        "687131",
-                        "419699"
+                        "419699",
+                        "687131"
                     ],
-                    "size": 97779,
-                    "date_published": "2025-12-11T18:30:23.467Z"
+                    "size": 133034,
+                    "date_published": "2026-02-05T19:50:50.320Z"
                 }
             ]
         },
@@ -9943,7 +9944,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "sophisticatedstorage-1.21.1-1.5.25.1467.jar",
+                    "file_name": "sophisticatedstorage-1.21.1-1.5.26.1480.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -9951,18 +9952,18 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7560/714/sophisticatedstorage-1.21.1-1.5.25.1467.jar",
-                    "id": "7560714",
+                    "url": "https://edge.forgecdn.net/files/7581/222/sophisticatedstorage-1.21.1-1.5.26.1480.jar",
+                    "id": "7581222",
                     "parent_id": "619320",
                     "hashes": {
-                        "sha1": "c1ba814859072ae46bd5559dab230bbba633f4c4",
-                        "md5": "4c80982fd101cf9d6cbb42d1ae9b43c3"
+                        "sha1": "521fd69f7e8605246d51eaa14fa3abd8b1bccf19",
+                        "md5": "1de073a01ab21cb4285e4cc01cfb9095"
                     },
                     "required_dependencies": [
                         "618298"
                     ],
-                    "size": 1657704,
-                    "date_published": "2026-02-01T13:21:42.573Z"
+                    "size": 1657276,
+                    "date_published": "2026-02-05T20:39:00.503Z"
                 }
             ]
         },
