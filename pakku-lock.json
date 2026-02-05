@@ -11003,7 +11003,7 @@
             ]
         },
         {
-            "pakku_id": "W7Z2SVNO2rlPeID4",
+            "pakku_id": "3IfNjFzJWvMS8Y77",
             "type": "MOD",
             "slug": {
                 "curseforge": "xaeros-minimap"
@@ -11017,7 +11017,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "xaerominimap-neoforge-1.21.1-25.3.7.jar",
+                    "file_name": "xaerominimap-neoforge-1.21.1-25.3.5.jar",
                     "mc_versions": [
                         "1.21",
                         "1.21.1"
@@ -11026,21 +11026,21 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7579/102/xaerominimap-neoforge-1.21.1-25.3.7.jar",
-                    "id": "7579102",
+                    "url": "https://edge.forgecdn.net/files/7412/188/xaerominimap-neoforge-1.21.1-25.3.5.jar",
+                    "id": "7412188",
                     "parent_id": "263420",
                     "hashes": {
-                        "sha1": "31ca3fad88fadc587b2f5042462c2504d64eef4e",
-                        "md5": "4e8c49e03776369406c829a06f94d41e"
+                        "sha1": "b662f97a58d88d56780487a89bf65d9d0330869d",
+                        "md5": "eb1187111412e02d5406e2af2f6d5b68"
                     },
                     "required_dependencies": [],
-                    "size": 2137466,
-                    "date_published": "2026-02-05T10:43:10.453Z"
+                    "size": 2120271,
+                    "date_published": "2026-01-03T13:18:31.560Z"
                 }
             ]
         },
         {
-            "pakku_id": "H8gpwu7w4jIshRyr",
+            "pakku_id": "3PMeDr03lkad1V7T",
             "type": "MOD",
             "slug": {
                 "curseforge": "xaeros-world-map"
@@ -11054,7 +11054,7 @@
             "files": [
                 {
                     "type": "curseforge",
-                    "file_name": "xaeroworldmap-neoforge-1.21.1-1.40.8.jar",
+                    "file_name": "xaeroworldmap-neoforge-1.21.1-1.40.6.jar",
                     "mc_versions": [
                         "1.21",
                         "1.21.1"
@@ -11063,16 +11063,16 @@
                         "neoforge"
                     ],
                     "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/7579/22/xaeroworldmap-neoforge-1.21.1-1.40.8.jar",
-                    "id": "7579022",
+                    "url": "https://edge.forgecdn.net/files/7416/972/xaeroworldmap-neoforge-1.21.1-1.40.6.jar",
+                    "id": "7416972",
                     "parent_id": "317780",
                     "hashes": {
-                        "sha1": "cb4e184d1dea2b464875d66a5830115f9f1f427c",
-                        "md5": "ec3e437a1d15c060f663098b522e2631"
+                        "sha1": "3001fb25d05142b3c35cccf5d6d52e662e303d66",
+                        "md5": "b1ba385f6bbfe96678dcb69b3c8f6769"
                     },
                     "required_dependencies": [],
-                    "size": 1385734,
-                    "date_published": "2026-02-05T10:19:32.877Z"
+                    "size": 1378685,
+                    "date_published": "2026-01-04T15:33:07.777Z"
                 }
             ]
         },
