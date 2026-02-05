@@ -9,9 +9,36 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Updated
 
-- fightorflight-neoforge-0.10.5.jar                -> fightorflight-neoforge-0.10.6.jar
-- dynamic-fps-3.11.3+minecraft-1.21.0-neoforge.jar -> dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar
-- sophisticatedcore-1.21.1-1.4.1.1445.jar          -> sophisticatedcore-1.21.1-1.4.1.1452.jar
+- Neoforge 21.1.218 -> Neoforge 21.1.219
+- bibliowoods-1.21.1-1.6.0.jar                                       -> bibliowoods-1.21.1-1.6.2.jar
+- Cobblemon-neoforge-1.7.2+1.21.1.jar                                -> Cobblemon-neoforge-1.7.3+1.21.1.jar
+- cobblemon_simple_center-neoforge-1.1.2.jar                         -> cobblemon_simple_center-neoforge-1.2.0.jar
+- counter-neoforge-1.7.2-1.9.0.jar                                   -> counter-neoforge-1.7.3-1.9.0.jar
+- fightorflight-neoforge-0.10.5.jar                                  -> fightorflight-neoforge-0.10.6.jar
+- spawnnotification-neoforge-1.7.2-2.3.0.jar                         -> spawnnotification-neoforge-1.7.3-2.3.0.jar
+- timcore-neoforge-1.7.2-1.31.0.jar                                  -> timcore-neoforge-1.7.3-1.31.0.jar
+- unchained-neoforge-1.7.2-1.7.1.jar                                 -> unchained-neoforge-1.7.3-1.7.1.jar
+- cobblestats-neoforge-1.8+1.21.1.jar                                -> cobblestats-neoforge-1.9+1.21.1.jar
+- mega_showdown-neoforge-1.6.3+1.7.2+1.21.1.jar                      -> mega_showdown-neoforge-1.6.8+1.7.3+1.21.1.jar
+- ComplementaryReimagined_r5.6.1.zip                                 -> ComplementaryReimagined_r5.7.1.zip
+- ComplementaryUnbound_r5.6.1.zip                                    -> ComplementaryUnbound_r5.7.1.zip
+- dynamic-fps-3.11.3+minecraft-1.21.0-neoforge.jar                   -> dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar
+- E19 Cobblemon Minimap Icons.zip                                    -> E19 Cobblemon Minimap Icons.zip
+- EuphoriaPatcher-1.7.8-r5.6.1-neoforge.jar                          -> EuphoriaPatcher-1.8.2-r5.7.1-neoforge.jar
+- forgified-fabric-api-0.116.7+2.2.0+1.21.1.jar                      -> forgified-fabric-api-0.116.7+2.2.1+1.21.1.jar
+- FramedBlocks-10.5.1.jar                                            -> FramedBlocks-10.5.2.jar
+- fzzy_config-0.7.5+1.21+neoforge.jar                                -> fzzy_config-0.7.6+1.21+neoforge.jar
+- immersive_aircraft-1.4.1+1.21.1-neoforge.jar                       -> immersive_aircraft-1.4.2+1.21.1-neoforge.jar
+- Better-Leaves-9.4.zip                                              -> Better-Leaves-9.5.zip
+- notenoughanimations-neoforge-1.11.1-mc1.21.1.jar                   -> notenoughanimations-neoforge-1.11.2-mc1.21.1.jar
+- pokebike-neoforge-1.3.jar                                          -> pokebike-neoforge-1.4.jar
+- PrettyPipes-1.21.2-all.jar                                         -> PrettyPipes-1.22.0-all.jar
+- sophisticatedcore-1.21.1-1.4.1.1445.jar                            -> sophisticatedcore-1.21.1-1.4.1.1459.jar
+- sophisticatedstorage-1.21.1-1.5.24.1460.jar                        -> sophisticatedstorage-1.21.1-1.5.25.1467.jar
+- Tomtaru's Cobblemon  Farmer's Delight Tweaks - 1.21.1 - R.1.10.jar -> TMTCF-NF-1.21.1-2.0.2.jar
+- xaerominimap-neoforge-1.21.1-25.3.5.jar                            -> xaerominimap-neoforge-1.21.1-25.3.7.jar
+- xaeroworldmap-neoforge-1.21.1-1.40.6.jar                           -> xaeroworldmap-neoforge-1.21.1-1.40.8.jar
+
 
 ## [8.1.0] - 2026/01/29
 
