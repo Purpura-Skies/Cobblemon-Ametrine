@@ -5,7 +5,21 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [8.1.1] - Unreleased
+## [8.1.2] - Unreleased
+
+### Updated
+
+- accessories_compat_layer-neoforge-0.1.10+1.21.1.jar -> accessories_compat_layer-neoforge-0.1.11+1.21.1.jar
+- cobblemonraiddens-neoforge-0.6.5+1.21.1.jar         -> cobblemonraiddens-neoforge-0.7.1+1.21.1.jar
+- mega_showdown-neoforge-1.6.8+1.7.3+1.21.1.jar       -> mega_showdown-neoforge-1.6.9+1.7.3+1.21.1.jar
+- EuphoriaPatcher-1.8.2-r5.7.1-neoforge.jar           -> EuphoriaPatcher-1.8.4-r5.7.1-neoforge.jar
+- fruitsdelight-1.2.11.jar                            -> fruitsdelight-1.2.12.jar
+- MoreCobblemonTweaks-neoforge-1.3.0.jar              -> MoreCobblemonTweaks-neoforge-1.3.1.jar
+- scholar-neoforge-1.21.1-1.1.12.jar                  -> scholar-neoforge-1.21.1-1.1.13.jar
+- xaerominimap-neoforge-1.21.1-25.3.5.jar             -> xaerominimap-neoforge-1.21.1-25.3.9.jar
+- xaeroworldmap-neoforge-1.21.1-1.40.6.jar            -> xaeroworldmap-neoforge-1.21.1-1.40.10.jar
+
+## [8.1.1] - 2026/02/05
 
 ### Updated
 
@@ -39,7 +53,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - sophisticatedcore-1.21.1-1.4.1.1445.jar                            -> sophisticatedcore-1.21.1-1.4.1.1459.jar
 - sophisticatedstorage-1.21.1-1.5.24.1460.jar                        -> sophisticatedstorage-1.21.1-1.5.26.1480.jar
 - Tomtaru's Cobblemon  Farmer's Delight Tweaks - 1.21.1 - R.1.10.jar -> TMTCF-NF-1.21.1-2.0.2.jar
-
 
 ## [8.1.0] - 2026/01/29
 
